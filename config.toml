@@ -1,6 +1,13 @@
 baseURL = "/"
-relativeURLs = true
-uglyurls = true
+relativeURLs = false
+uglyurls = false
+disableSearch = false
+
+### for use without webserver set the following:
+#relativeURLs = true
+#uglyurls = true
+#disableSearch = true
+### remember that search and visited links wont work without webserver!
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
