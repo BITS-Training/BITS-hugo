@@ -26,7 +26,7 @@ theme = "hugo-theme-learn"
   disableBreadcrumb = false
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "bits"
   
   BITS = "BITS"
   Ver = "6.0beta1"
