@@ -1,5 +1,6 @@
 baseURL = "/"
 relativeURLs = true
+uglyurls = true
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
@@ -21,7 +22,7 @@ theme = "hugo-theme-learn"
   themeVariant = "blue"
   
   BITS = "BITS"
-  Ver = "5.5beta1"
+  Ver = "6.0beta1"
   EinrichtungenDE = "Behörden und Einrichtungen"
 
 [outputs]
