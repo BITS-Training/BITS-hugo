@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/BITS-Editor/hugo-theme-learn.git
+	branch = master
