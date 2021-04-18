@@ -3,25 +3,25 @@
 ## Abhängigkeiten
 
 1. Hugo extended version
-   1. [Dowload from GitHub releases](https://github.com/gohugoio/hugo/releases)
+   1. [Dowload hugo from GitHub releases](https://github.com/gohugoio/hugo/releases)
 
-Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein der in der PATH Variablen enthalten ist. Alternative kann sie auch in das Projektverzeichnis kopiert werden.
+Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein der in der PATH-Variablen des Betriebssystems enthalten ist. Alternativ kann sie auch in das Projektverzeichnis kopiert werden.
 
 ## Anleitung
 
-1. Klonen des Repositorys (rekursiv!)
+1. Lokales Klonen des Repositorys (rekursiv!)
    
     ```bash
     git clone --recursive https://github.com/BITS-Editor/BITS-hugo
     ```
 
-2. In das Reporitory-Verzeichnis wechseln
+2. Lokal in das heruntergeladene Repository-Verzeichnis wechseln
 
     ```bash
     cd BITS-hugo
     ```
 
-3. Hugo Server starten
+3. Hugo-Server lokal starten
 
     ```bash
     hugo server
