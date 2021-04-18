@@ -19,7 +19,6 @@ title = "BITS | Behörden-IT-Sicherheitstraining"
 theme = "hugo-theme-learn"
 
 [params]
-  editURL = "https://github.com/BITS-Editor/BITS"
   description = "BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen."
   author = "Dr. Lutz Gollan"
   showVisitedLinks = true
