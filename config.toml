@@ -24,6 +24,7 @@ theme = "hugo-theme-learn"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
+  disableAssetsBusting = true
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "bits"
   
