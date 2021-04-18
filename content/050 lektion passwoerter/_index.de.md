@@ -1,5 +1,5 @@
 ---
-title:	 "Lektion Passwörter"
+title: "Lektion Passwörter"
 date: 2021-03-09T09:52:01
 weight: 50
 chapter: true
@@ -7,7 +7,7 @@ pre: "<b>3. </b>"
 ---
 
 ### Lektion 3
-## Passwörter: Ihr Zugangscode zu Daten und Systemen
+# Passwörter: Ihr Zugangscode zu Daten und Systemen
 
 In dieser Lektion lernen Sie,
 
