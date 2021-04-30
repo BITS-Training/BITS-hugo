@@ -30,6 +30,7 @@ theme = "hugo-theme-learn"
   
   BITS = "BITS"
   Ver = "6.0beta1"
+  EinrichtungSingularDE = "Behörde oder Einrichtung"
   EinrichtungenDE = "Behörden und Einrichtungen"
 
 [outputs]
