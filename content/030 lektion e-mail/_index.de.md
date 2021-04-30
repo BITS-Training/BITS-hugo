@@ -7,7 +7,7 @@ chapter: true
 pre: "<b>1. </b>"
 ---
 
-### Lektion 1
+# Lektion 1
 ## Sicherer Umgang mit E-Mails
 
 In dieser Lektion lernen Sie,
@@ -18,3 +18,4 @@ In dieser Lektion lernen Sie,
   * was Spam-E-Mails sind und wie mit ihnen umzugehen ist,
   * wie vertrauliche Informationen zu behandeln sind und was E-Mail-Verschlüsselung ist, und
   * wie man E-Mails angemessen schreibt - "Net(t)ikette"
+

@@ -29,19 +29,15 @@ Datenschutz
 Die Nutzung dieser Webseite ist ohne Angabe personenbezogener Daten möglich. Ihre IP-Nummer wird ausschließlich zum Aufruf der einzelnen Seiten genutzt. Cookies werden nicht verwendet.
 
 {{% notice info %}}
-**Impressum:**
+**Impressum**
 
-Kommunal Agentur NRW GmbH Cecilienallee 59
-40474 Düsseldorf
-Tel.: 0211-430 77 0
-Fax: 0211-430 77 22
-E-Mail: Karsten Klick
-Amtsgericht Düsseldorf
-HRB 53640
+Kommunal Agentur NRW GmbH
+Cecilienallee 59, 40474 Düsseldorf
+Tel.: 0211-430 77 0, Fax: 0211-430 77 22
+E-Mail: [Karsten Klick](mailto:klick@kommunalagenturnrw.de)
+Amtsgericht Düsseldorf, HRB 53640
 USt-IdNr. DE247651110
 Vertretungsberechtigte:
-
 * Dipl.-Ing. Michael Lange
-  * Dr. jur. Peter Queitsch
-
+* Dr. jur. Peter Queitsch
 {{% /notice %}}
