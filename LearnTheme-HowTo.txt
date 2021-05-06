@@ -1,0 +1,35 @@
+Learn-Theme - HowTo
+
+
+1. Variablen und Parameter (hinterlegt in config.toml)
+	a) Textvariablen
+		
+		aa) Behörden und Einrichtungen
+		{{< param EinrichtungenDE >}}
+		
+		bb) Behörde oder Einrichtungen
+		{{< param EinrichtungSingularDE >}}
+		
+		cc) 6.0beta1
+		{{< param Ver >}}
+	
+	b) 
+	
+	
+
+2. Notizen
+
+	a) Anmerkung (orange) = das was in BITS v5 links steht
+	{{% notice note %}}
+	Nach diesem Training werden Sie wissen, wie Sie sich richtig am Computer, am Smartphone und im Internet verhalten. Nutzen Sie Ihr Wissen auch für den privaten Bereich, es drohen überall die gleichen Gefahren!
+	{{% /notice %}}
+
+	b) Tipp (grün) = das was in BITS v5 rechts steht
+	{{% notice tip %}}
+	Schutzziele der Informationssicherheit:
+		* Vertraulichkeit
+	* Integrität
+	* Verfügbarkeit
+	{{% /notice %}}
+
+3. 
