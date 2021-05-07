@@ -9,7 +9,7 @@ menuTitle:  "Start"
 
 {{< param BITS >}}, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in {{< param EinrichtungenDE >}} erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.
 
-{{< param BITS >}} steht unter der Lizenz Creative Commons BY-SA und kann beliebig angepasst werden. Nähere Informationen stehen auf der Unterseite "Herausgeber und Lizenz".
+{{< param BITS >}} steht unter der Lizenz Creative Commons BY-SA 4.0 und kann beliebig angepasst werden. Nähere Informationen stehen auf der Unterseite [Herausgeber und Lizenz]({{< ref  "200 infos und ansprechpersonen/03.Herausgeber-und-Lizenz.de" >}}).
 
 {{< param BITS >}} wird herausgegeben von der Kommunal Agentur NRW GmbH und Herrn Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg und steht unter der Schirmherrschaft des Städte- und Gemeindebundes NRW. Die Urheber sind Herr Dr. Lutz Gollan und Herr Helmut Honermann, PureSec GmbH. Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
 
@@ -40,4 +40,4 @@ USt-IdNr. DE247651110
 Vertretungsberechtigte:
 * Dipl.-Ing. Michael Lange
 * Dr. jur. Peter Queitsch
-{{% /notice %}}
+ {{% /notice %}}
