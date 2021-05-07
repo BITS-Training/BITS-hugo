@@ -40,4 +40,4 @@ USt-IdNr. DE247651110
 Vertretungsberechtigte:
 * Dipl.-Ing. Michael Lange
 * Dr. jur. Peter Queitsch
-{{% /notice %}}
+ {{% /notice %}}
