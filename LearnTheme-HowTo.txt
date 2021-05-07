@@ -32,4 +32,13 @@ Learn-Theme - HowTo
 	* Verfügbarkeit
 	{{% /notice %}}
 
-3. 
+3. Interne Links
+
+	a) zu Lektionen
+	[Viren]({{< ref "/040 lektion viren" >}})
+	
+	b) zu Unterseiten
+	[Viren]({{< ref "/040 lektion viren/05.Risiko-und-Schaeden.de.md" >}})
+	
+	c) zu Ansprechperson
+	[Ansprechperson]({{< ref "/200 infos und ansprechpersonen/01.Ansprechpersonen.de.md" >}})
