@@ -126,3 +126,16 @@ a:hover {
 #homelinks a:hover {
   color: var(--MENU-HOME-LINK-HOVERED-color);
 }
+
+/* overrites for layout changes */
+#chapter p {
+    text-align: left;
+}
+
+#sidebar ul li li {
+    text-indent: 0rem;
+}
+
+#sidebar h3 {
+    color: var(--MENU-SECTIONS-LINK-color) !important;
+}
