@@ -41,8 +41,7 @@ Learn-Theme - HowTo
 	[Viren]({{< ref "/040 lektion viren/05.Risiko-und-Schaeden.de.md" >}})
 	
 	c) zu Ansprechperson
-	[Ansprechperson]({{<
-	ref "/200 infos und ansprechpersonen/01.Ansprechpersonen.de.md" >}})
+	[Ansprechperson]({{< ref "/200 infos und ansprechpersonen/01.Ansprechpersonen.de.md" >}})
 	
 4. Quiz
 	
@@ -56,3 +55,4 @@ Learn-Theme - HowTo
 				1. [x] Ein netter Anruf einer Ihnen nicht bekannten Mitarbeiterin der IT-Abteilung, mit der Bitte, ihr Ihre Zugangsdaten zu geben.
 				2. [ ] Anfrage eines Kollegen / einer Kollegin zu einem empfangenen Kettenbrief per E-Mail.
 				3. [ ] Eine Information Ihrer Abteilungsleitung, Sie hätten einen Virus erhalten.
+
