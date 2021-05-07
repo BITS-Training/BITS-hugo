@@ -1,5 +1,3 @@
-Creative Commons may be contacted at creativecommons.org.
-
 Dieses Werk ist unter einer Creative Commons Lizenz vom Typ Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International zugänglich. Um eine Kopie dieser Lizenz einzusehen, konsultieren Sie http://creativecommons.org/licenses/by-sa/4.0/ oder wenden Sie sich brieflich an Creative Commons, Postfach 1866, Mountain View, California, 94042, USA.
 
 Attribution-ShareAlike 4.0 International
@@ -428,3 +426,4 @@ understandings, or agreements concerning use of licensed material. For
 the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
+Creative Commons may be contacted at creativecommons.org.
