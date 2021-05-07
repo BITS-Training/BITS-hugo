@@ -1,0 +1,9 @@
+{{ if .Params.tags }}
+<div class="tags">
+{{range .Params.tags}}
+  <a class="tag-link" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+{{end}}
+</div>
+{{end}}
+<div id="site-icon"><i class="fas fa-envelope-open-text"></i></div>
+<div class="ribbon-wrapper"><div class="ribbon">BITS {{ .Site.Params.ver }}</div>
