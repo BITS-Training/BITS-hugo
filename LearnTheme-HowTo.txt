@@ -7,7 +7,7 @@ Learn-Theme - HowTo
 		aa) Behörden und Einrichtungen
 		{{< param EinrichtungenDE >}}
 		
-		bb) Behörde oder Einrichtungen
+		bb) Behörde oder Einrichtung
 		{{< param EinrichtungSingularDE >}}
 		
 		cc) 6.0beta1

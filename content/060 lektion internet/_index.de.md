@@ -7,8 +7,13 @@ chapter: true
 pre: "<b>4. </b>"
 ---
 
-### Lektion 4
+# Lektion 4
 ## Surfen in Internet
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+In dieser Lektion lernen Sie,
+
+- was der Zugang zum Internet bedeutet,
+- welche Gefahren im Internet lauern und wie Sie diese erkennen,
+- wie Sie sicher im Internet surfen können und
+- welche allgemeinen Regeln Sie bei der Internetnutzung beachten sollten.
 
