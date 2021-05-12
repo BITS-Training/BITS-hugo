@@ -56,3 +56,7 @@ Learn-Theme - HowTo
 				2. [ ] Anfrage eines Kollegen / einer Kollegin zu einem empfangenen Kettenbrief per E-Mail.
 				3. [ ] Eine Information Ihrer Abteilungsleitung, Sie hätten einen Virus erhalten.
 
+5. Aufklappen von Texten
+	{{%expand "Datei-Viren" %}}
+	Dies ist ein Beispiel
+	{{% /expand %}}
