@@ -140,17 +140,26 @@ a:hover {
     color: var(--MENU-SECTIONS-LINK-color) !important;
 }
 
-#site-icon {
-	font-size: 7rem;
+.site-icon-list {
+	font-size: 5rem;
 	text-align: right;
-	color: #F6F6F6;
-	position: relative;
-	width: 200px;
-	height: 200px;
+	color: var(--MAIN-TITLES-TEXT-color);
+	/*position: relative;*/
+	width: 150px;
+	height: 5rem;
 	margin-left: auto;
-	margin-bottom: -200px;
+	margin-bottom: -5rem;
 }
 
+.site-icon-page {
+	font-size: 4rem;
+	text-align: right;
+	color: #F6F6F6;
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-bottom: -4rem;
+}
 
 .ribbon-wrapper {
   width: 95px;

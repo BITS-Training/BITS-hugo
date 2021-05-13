@@ -5,5 +5,4 @@
 {{end}}
 </div>
 {{end}}
-<div id="site-icon"><i class="fas fa-envelope-open-text"></i></div>
-<div class="ribbon-wrapper"><div class="ribbon">BITS {{ .Site.Params.ver }}</div>
+<div id="site-icon" class="{{ if .IsPage }}site-icon-page{{ else }}site-icon-list{{ end }}"><i class="fas fa-envelope-open-text"></i></div>
