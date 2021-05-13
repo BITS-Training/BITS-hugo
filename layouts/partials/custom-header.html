@@ -1,5 +1,4 @@
 {{ if .HasShortcode "quizdown" -}}
-    <link rel="stylesheet" href="{{ (resources.Get "quizdown/quizdown.css" | resources.Minify ).RelPermalink }}">
     <script src={{ (resources.Get "quizdown/quizdown.js" | resources.Minify ).RelPermalink }}></script>
     <script>quizdown.init()</script> 
 {{- end }}
