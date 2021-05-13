@@ -29,9 +29,7 @@ theme = "hugo-theme-learn"
   themeVariant = "bits"
   
   BITS = "BITS"
-  Ver = "6.0beta1"
-  EinrichtungSingularDE = "Behörde oder Einrichtung"
-  EinrichtungenDE = "Behörden und Einrichtungen"
+  Ver = "6.0beta2"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -40,6 +38,8 @@ home = [ "HTML", "RSS", "JSON"]
 title = "BITS | Behörden-IT-Sicherheitstraining"
 weight = 1
 languageName = "Deutsch"
+Einrichtung = "Behörde oder Einrichtung"
+Einrichtungen = "Behörden und Einrichtungen"
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> Repo GitHub"
@@ -68,6 +68,8 @@ weight = 30
 title = "BITS | Goverment IT security training"
 weight = 1
 languageName = "English"
+Einrichtung = "Authority or institution"
+Einrichtungen = "Authorities or institutions"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
