@@ -5,10 +5,10 @@ Learn-Theme - HowTo
 	a) Textvariablen
 		
 		aa) Behörden und Einrichtungen
-		{{< param EinrichtungenDE >}}
+		{{< param Einrichtungen >}}
 		
 		bb) Behörde oder Einrichtung
-		{{< param EinrichtungSingularDE >}}
+		{{< param Einrichtung >}}
 		
 		cc) 6.0beta1
 		{{< param Ver >}}
