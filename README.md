@@ -29,6 +29,22 @@ Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein d
 
 4. Browser öffnen und auf http://localhost:1313 navigieren
 
+## BITS Version generieren
+
+Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML Dateien von Hugo für die veröffentlichung generiert.
+
+1. für die Verwendung mit einem Webserver und voller funktionalität:
+
+	```bash
+	hugo --cleanDestinationDir
+	```
+
+2. für die Verwendung ohne Webserver als direkte HTML-Dateien (Suche und Verlauf-Haken gehen nicht!):
+
+	```bash
+	hugo --environment html --cleanDestinationDir
+	```
+
 ## Weitere Infos
 
 https://themes.gohugo.io/theme/hugo-theme-learn/en/

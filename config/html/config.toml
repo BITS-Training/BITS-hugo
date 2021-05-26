@@ -1,0 +1,4 @@
+### for use without webserver
+relativeURLs = true
+uglyurls = true
+disableSearch = true
