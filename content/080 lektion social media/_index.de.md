@@ -6,7 +6,12 @@ chapter: true
 pre: "<b>6. </b>"
 ---
 
-### Lektion 6
+# Lektion 6
 ## Social Media
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+In dieser Lektion lernen Sie,
+
+- was man unter Social Media versteht,
+- welche Social Media-Dienste es gibt,
+- welche Probleme bei der Nutzung von Social Media entstehen können und
+- wie Sie Social Media sicher nutzen können

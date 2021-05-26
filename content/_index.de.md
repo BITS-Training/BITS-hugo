@@ -7,7 +7,7 @@ menuTitle:  "Start"
 
 ### {{< param BITS >}} 6 Version 2021
 
-{{< param BITS >}}, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in {{< param EinrichtungenDE >}} erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.
+{{< param BITS >}}, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in {{< param Einrichtungen >}} erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen.
 
 {{< param BITS >}} steht unter der Lizenz Creative Commons BY-SA 4.0 und kann beliebig angepasst werden. Nähere Informationen stehen auf der Unterseite [Herausgeber und Lizenz]({{< ref  "200 infos und ansprechpersonen/03.Herausgeber-und-Lizenz.de" >}}).
 

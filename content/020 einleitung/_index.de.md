@@ -9,7 +9,7 @@ weight: 20
 
 ### Ziele des Trainings 
 
-Informationen sind wertvoll. Sie werden immer bedeutender für {{< param EinrichtungenDE >}}, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt.
+Informationen sind wertvoll. Sie werden immer bedeutender für {{< param Einrichtungen >}}, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt.
 
 Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z.B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so den Staat und damit die Gesellschaft schädigen. Die **Vertraulichkeit** von Informationen ist daher zu schützen.
 
