@@ -6,7 +6,20 @@ chapter: true
 pre: "<b>9. </b>"
 ---
 
-### Lektion 9
+# Lektion 9
 ## Mein Arbeitsplatz
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+Diese Lektion fasst zusammen,
+
+- welche Gefahren an Ihrem Arbeitsplatz (im Büro, unterwegs oder im Home Office) hinsichtlich der IT-Sicherheit bestehen,
+- welche Maßnahmen Sie an Ihrem Arbeitsplatz für die Sicherheit Ihrer Daten treffen können,
+- wie Sie sich in einem Schadensfall verhalten sollten.
+
+{{% notice note %}}
+
+- Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen.
+- Arbeiten Sie daher umsichtig und sorgfältig!
+- Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst!
+- Im Zweifelsfall wenden Sie sich an Ihre [Ansprechperson]({{< ref "/200 infos und ansprechpersonen/01.Ansprechpersonen.de.md" >}})!
+
+{{% /notice %}}

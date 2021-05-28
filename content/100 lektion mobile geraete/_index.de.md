@@ -6,7 +6,12 @@ chapter: true
 pre: "<b>8. </b>"
 ---
 
-### Lektion 8
+# Lektion 8
 ## Mobile Geräte
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+In dieser Lektion lernen Sie,
+
+- welche Geräte unter dem Begriff "mobile Geräte" zusammengefasst werden,
+- welchen besonderen Gefahren und Risiken mobile Geräte ausgesetzt sind,
+- was WLAN bedeutet und welche Gefahren Funknetze mit sich bringen und
+- welche Sicherheitsregeln im Zusammenhang mit mobilen Geräten und WLAN beachtet werden sollten
