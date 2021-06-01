@@ -3,7 +3,7 @@ title: "Informationen und Ansprechpersonen"
 date: 2021-03-06T09:14:35
 weight: 200
 chapter: true
-pre: "<b>10. </b>"
+pre: ""
 ---
 
 
