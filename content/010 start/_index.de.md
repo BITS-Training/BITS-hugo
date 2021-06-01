@@ -5,13 +5,9 @@ draft: false
 weight: 10
 ---
 
-## {{< param BITS >}} {{< param Ver >}} 
-
-## Willkommen beim Behörden-IT-Sicherheitstraining BITS
+#### {{< param BITS >}} {{< param Ver >}} 
 
 ### Sicherheit entsteht – wenn alle mitmachen!
-
-
 
 #### Das Sicherheitstraining BITS ist konzipiert für
 
@@ -20,4 +16,4 @@ weight: 10
 
     
 
-Die Leitung der {{< param Einrichtungen >}} trägt die Verantwortung für die Informationssicherheit. Dieser Verantwortung kann sie jedoch nur gerecht werden, wenn alle Beschäftigten aufmerksam arbeiten und wissen, welche Gefahren die IT-Nutzung mit sich bringt und wie man diesen angemessen begegnet. Dies soll {{< param BITS >}} vermitteln.
+Die Leitung Ihrer {{< param Einrichtung >}} trägt die Verantwortung für die Informationssicherheit. Dieser Verantwortung kann sie jedoch nur gerecht werden, wenn alle Beschäftigten aufmerksam arbeiten und wissen, welche Gefahren die IT-Nutzung mit sich bringt und wie man diesen angemessen begegnet. Dies soll {{< param BITS >}} vermitteln.

@@ -7,4 +7,46 @@ pre: ""
 
 ---
 
-## Barrierefreiheit
+## Tastaturnavigation
+
+BITS unterstützt die Navigation auch über Tastaturkürzel. Um zur nächsten Seite zu gelangen, ist die Taste [ + ] zu verwenden, um zur vorangegangenen Seite zu kommen, ist [ - ] zu drücken. Jedoch ist zuvor noch eine Funktionstasten-Kombination zu betätigen. Diese ist abhängig vom Betriebssystem Ihres Computers und dem verwendeten Browser.
+
+Bei Windows oder Linux als Betriebssystem ist zunächst die [ Alt ]-Taste zu drücken und zu halten, bei MacOS die [ Ctrl ]-Taste. Dazu ist eine browserabhängige Taste (Browserkürzel) und dann das Tastaturkürzel für die Lektion bzw. die folgende oder vorangehende Seite zu drücken.
+
+Beim Microsoft Explorer muss zunächst immer ein Hauptmenüpunkt per Tastaturnavigation gewählt werden, erst dann kann eine Lektion mit dem weiteren Tastaturkürzel ausgewählt werden.
+
+**Browserkürzel**
+
+- Chrome: [ Alt ] + Tastaturkürzel
+- Edge: [ Alt ] + Tastaturkürzel
+- Firefox: [ Alt ] + [ Shift ] + Tastaturkürzel
+- Internet Explorer: [ Alt ] + Tastaturkürzel drücken, loslassen und anschließend [ Enter ] drücken
+- Opera: [ ALT ] + Tastaturkürzel
+- Safari: [ Alt ] + Tastaturkürzel
+
+Folgende **Tastaturkürzel** sind für die Hauptmenüpunkte hinterlegt:
+
+- 1 - Start
+- 2 - Einleitung
+- 3 - Lektionen
+- 4 - Infos & Ansprechpartner
+- 5 - Themenindex
+- 6 - BITS-Kontakt
+- 7 - Link Stadte- und Gemeindebund NRW
+
+Folgende **Tastaturkürzel** sind für die Lektionen hinterlegt:
+
+- l - Lektion "E-Mail"
+- v - Lektion "Viren"
+- k - Lektion "Passwörter"
+- i - Lektion "Internet"
+- d - Lektion "Vertrauliche Daten"
+- s- Lektion "Social Media"
+- c - Lektion "Cloud"
+- m - Lektion "Mobile Geräte"
+- a - Lektion "Mein Arbeitsplatz"
+
+**Beispiele zum Aufruf der Lektion "Mobile Geräte":**
+
+- Firefox: Aufruf unter Windows: [ Alt ] + [ Shift ] gleichzeitig gedrückt halten, dann [ m ] drücken und loslassen.
+- Internet Explorer: Aufruf unter Windows: [ Alt ] + [ 2 ] gleichzeitig gedrückt halten, loslassen, dann [ Alt ] + [ m ] gleichzeitig drücken und loslassen.
