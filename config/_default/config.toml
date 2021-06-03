@@ -3,11 +3,11 @@ relativeURLs = false
 uglyurls = false
 disableSearch = false
 
-### for use without webserver set the following:
+### um das Tranining ohne einen Web-Server zu betreiben, sind die obigen Werte wie folgt zu setzen:
 #relativeURLs = true
 #uglyurls = true
 #disableSearch = true
-### remember that search and visited links wont work without webserver!
+### Die Suche und die Anzeige besuchter Seiten funktioniert nur beim Betrieb über einen Web-Server
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
@@ -29,7 +29,7 @@ theme = "hugo-theme-learn"
   themeVariant = "bits"
   
   BITS = "BITS"
-  Ver = "6.0beta2"
+  Ver = "6.0beta3"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -65,7 +65,7 @@ weight = 30
 
 [Languages]
 [Languages.en]
-title = "BITS | Goverment IT security training"
+title = "BITS | IT security training for public authorities"
 weight = 1
 languageName = "English"
 Einrichtung = "Authority or institution"

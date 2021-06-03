@@ -10,5 +10,5 @@ Auf den Unterseiten hier finden Sie
 
 - [Ansprechpersonen]({{< ref "01.Ansprechpersonen.de.md" >}}) Ihrer {{< param Einrichtung >}} zu den Themen Informationssicherheit, Datenschutz etc.
 - Weiterführende [Informationen]({{< ref "02.Weitere-Informationen.de.md" >}}) zum Thema Informationssicherheit
-- Angaben zu den [Herausgebern und Lizenzen]({{<ref  "03.Herausgeber-und-Lizenz.de.md" >}}) von BITS
-
+- Angaben zu den [Herausgebern und Lizenzen]({{<ref  "03.Herausgeber-und-Lizenz.de.md" >}}) von {{< param BITS >}}
+- Informationen zur [barrierefreien Nutzung]({{< ref "04.Barrierefreiheit.de.md" >}}) von {{< param BITS >}}
