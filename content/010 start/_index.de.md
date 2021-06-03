@@ -9,7 +9,7 @@ weight: 10
 
 ### Sicherheit entsteht – wenn alle mitmachen!
 
-#### Das Sicherheitstraining BITS ist konzipiert für
+#### Das Sicherheitstraining {{< param BITS >}} ist konzipiert für
 
   * {{< param Einrichtungen >}}, die ihre Beschäftigten im sicheren Umgang mit dem Computer und dem Internet sensibilisieren wollen
   * die Beschäftigten von {{< param Einrichtungen >}}, die sich auch über die private sichere Nutzung von Computer und Internet informieren wollen
