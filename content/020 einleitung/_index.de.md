@@ -9,7 +9,7 @@ weight: 20
 
 ### Ziele des Trainings 
 
-Informationen sind wertvoll. Sie werden immer bedeutender für {{< param EinrichtungenDE >}}, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt.
+Informationen sind wertvoll. Sie werden immer bedeutender für {{< param Einrichtungen >}}, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt.
 
 Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z.B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so den Staat und damit die Gesellschaft schädigen. Die **Vertraulichkeit** von Informationen ist daher zu schützen.
 
@@ -19,14 +19,20 @@ Und schließlich ist die **Verfügbarkeit** von Informationen zu gewährleisten 
 
 Bitte unterschätzen Sie nicht, welche Bedeutung Informationen über Ihre Person für Angreifer haben können! Oft sucht man sich ein vermeintlich schwaches Glied in der Kette, um diese darüber zu brechen.
 
-Dieses Training erläutert allgemein anerkannte Sicherheitsrichtlinien und vermittelt konkrete Verhaltenshinweise zum praktischen Umgang mit Informationen. Bitte beachten Sie, dass Dienstanweisungen oder -vereinbarungen Ihrer Einrichtung stets Vorrang haben. Im Zweifel wenden Sie sich bitte an die zuständige Ansprechperson.
+Dieses Training erläutert allgemein anerkannte Sicherheitsrichtlinien und vermittelt konkrete Verhaltenshinweise zum praktischen Umgang mit Informationen. Bitte beachten Sie, dass Dienstanweisungen oder -vereinbarungen Ihrer Einrichtung stets Vorrang haben. Im Zweifel wenden Sie sich bitte an die zuständige [Ansprechperson]({{< ref "/200 infos und ansprechpersonen/01.Ansprechpersonen.de.md" >}}).
 
 {{% notice note %}}
+In orangefarbenen Kästen stehen wichtige Verhaltensregeln.
+
 Nach diesem Training werden Sie wissen, wie Sie sich richtig am Computer, am Smartphone und im Internet verhalten. Nutzen Sie Ihr Wissen auch für den privaten Bereich, es drohen überall die gleichen Gefahren!
 {{% /notice %}}
 
 {{% notice tip %}}
+
+In grünen Kästen stehen nützliche Hinweise.
+
 Schutzziele der Informationssicherheit:
+
   * Vertraulichkeit
   * Integrität
   * Verfügbarkeit

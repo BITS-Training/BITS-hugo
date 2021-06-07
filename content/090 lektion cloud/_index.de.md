@@ -6,7 +6,12 @@ chapter: true
 pre: "<b>7. </b>"
 ---
 
-### Lektion 7
+# Lektion 7
 ## Cloud
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+In dieser Lektion lernen Sie,
+
+- was man unter Cloud-Diensten versteht,
+- welche Cloud-Dienste es gibt,
+- wie sich behördliche und private Cloud-Dienste unterscheiden und
+- wie Sie Cloud-Dienste sicher nutzen können.
