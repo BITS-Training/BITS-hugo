@@ -1,4 +1,10 @@
-### for use without webserver
+### Diese Datei enhält alle abweichenden Einstellungen
+### um das Tranining ohne einen Web-Server zu betreiben
+###
+### Generiert wird die Version mit dem Befehl:
+### hugo --environment html --cleanDestinationDir
 relativeURLs = true
 uglyurls = true
 disableSearch = true
+
+### Die Suche und die Anzeige besuchter Seiten funktioniert nur beim Betrieb über einen Web-Server!!
