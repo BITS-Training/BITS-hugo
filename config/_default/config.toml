@@ -1,13 +1,8 @@
+### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben
 baseURL = "/"
 relativeURLs = false
 uglyurls = false
 disableSearch = false
-
-### um das Tranining ohne einen Web-Server zu betreiben, sind die obigen Werte wie folgt zu setzen:
-#relativeURLs = true
-#uglyurls = true
-#disableSearch = true
-### Die Suche und die Anzeige besuchter Seiten funktioniert nur beim Betrieb über einen Web-Server
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
@@ -26,6 +21,7 @@ theme = "hugo-theme-learn"
   disableNextPrev = false
   disableAssetsBusting = true
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  # Hier wird die für BITS angepasste blaue Variante eingestellt
   themeVariant = "bits"
   
   BITS = "BITS"
