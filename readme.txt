@@ -39,7 +39,7 @@ bb) Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungs
 
 cc) Individuelle Verweise auf weitere Informationsquellen können in der Datei "public\200-infos-und-ansprechpersonen\02.weitere-informationen\index.html" (statisches HTML) bzw. "\content\200 infos und ansprechpersonen\02.Weitere-Informationen.de.md" (Markdown-Datei) verlinkt werden.
 
-dd) Das BITS-Logo ist die Datei header.jpg im Pfad "images\design" (960px breit, 140px hoch). Dazu kommt das linke Bild mit den "Logos" im gleichen Ordner (logolinks.jpg 220px breit, 140px hoch).
+dd) Das BITS-Logo ist die Datei logolinks.jpg im Pfad "static\images" bzw. \"public\images"(220px breit, 140px hoch).
 
 c) Installation
 Die statischen HTML-Seiten (oben a)) können auf einem internen File-Server, einem Arbeitsplatz oder auf einem Wechselspeichermedium (DVD, USB-Stick) entpackt und von dort im Intranet etc. zugänglich gemacht werden. Da „BITS Behörden-IT-Sicherheitstraining“ HTML-basiert ist, kann es auch problemlos in einen Intranetauftritt integriert werden.
@@ -53,7 +53,7 @@ Bei der Verwendung der Markdown-Dateien (oben b)) XXX
 
 Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der „index.html“-Seite (statisches HTML) oder XXX. Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
-BITS unterstützt grundsätzlich jeden aktuellen Browser. XXX JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Internet Explorer, Edge, Vivaldi, Mozilla Firefox und Chrome getestet.
+BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Internet Explorer, Edge, Vivaldi, Mozilla Firefox und Chrome getestet.
 
 
 (5. "Gewinnspiel" - diese Funktion wird in einer späteren Version von BITS wieder eingeführt)
