@@ -7,7 +7,7 @@ Version 6
 
 
 Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
-E-Mail: Lutz.Gollan@lbv.hamburg.de
+E-Mail: g@backbeat.eu
 
 
 1. Überblick
@@ -150,7 +150,7 @@ Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die L
 Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 
-Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (Lutz.Gollan@lbv.hamburg.de) gerne entgegen.
+Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (g@backbeat.eu) gerne entgegen.
 
 
 -------------------------------------------------------------
