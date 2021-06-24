@@ -1,8 +1,9 @@
 ---
-title: "Ansprechpersonen"
-date: 2020-07-21T15:32:09+02:00
-draft: false
-weight: 10
+title: "Infos / Ansprechpersonen"
+date: 2021-03-06T09:14:35
+weight: 200
+chapter: false
+pre: ""
 ---
 
 ### Informationssicherheit

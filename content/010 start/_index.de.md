@@ -1,8 +1,9 @@
 ---
 title: "Start"
 date: 2021-03-06T09:11:59
-draft: false
 weight: 10
+hidden: true
+disableToc: true
 ---
 
 #### {{< param BITS >}} {{< param Ver >}} 

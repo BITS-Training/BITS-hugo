@@ -20,73 +20,69 @@ theme = "hugo-theme-learn"
   disableBreadcrumb = false
   disableNextPrev = false
   disableAssetsBusting = true
+  disableLanguageSwitchingButton = true
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   # Hier wird die für BITS angepasste blaue Variante eingestellt
   themeVariant = "bits"
   
   BITS = "BITS"
-  Ver = "6.0beta3"
+  Ver = "6.0beta4"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
 
 [Languages.de]
 title = "BITS | Behörden-IT-Sicherheitstraining"
 weight = 1
 languageName = "Deutsch"
+landingPageURL = "/010-start/"
+landingPageName = "<i class='fas fa-home'></i> Start"
 Einrichtung = "Behörde oder Einrichtung"
 Einrichtungen = "Behörden und Einrichtungen"
 
 [[Languages.de.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Repo GitHub"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
+identifier = "wi"
+url = "/300 infos/weitere-informationen/"
 weight = 10
 
 [[Languages.de.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
-url = "/showcase"
-weight = 11
-
-[[Languages.de.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
+name = "<i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz"
+url = "/300 infos/herausgeber-und-lizenz/"
 weight = 20
 
 [[Languages.de.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
-url = "/credits"
+name = "<i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit"
+identifier = "usability"
+url = "/300 infos/barrierefreiheit/"
 weight = 30
 
-[Languages]
 [Languages.en]
 title = "BITS | IT security training for public authorities"
-weight = 1
+weight = 2
 languageName = "English"
+landingPageURL = "/010-start/"
+landingPageName = "<i class='fas fa-home'></i> Start"
 Einrichtung = "Authority or institution"
 Einrichtungen = "Authorities or institutions"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+name = "<i class='fas fa-fw fa-info-circle'></i> more informations"
+identifier = "wi"
+url = "/300 infos/weitere-informationen/"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
+name = "<i class='fas fa-fw fa-id-card'></i> Publisher and License"
+url = "/300 infos/herausgeber-und-lizenz/"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
+name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
+identifier = "usability"
+url = "/300 infos/barrierefreiheit/"
 weight = 30
 
 [minify]

@@ -42,3 +42,8 @@ Vertretungsberechtigte:
 
 - Dr. Ralf Togler
 - Dr. jur. Peter Queitsch
+
+Bildrechte:
+
+- 404 Fehlerseite: Photo by [Donald Giannatti](https://unsplash.com/@wizwow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadend?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
