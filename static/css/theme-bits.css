@@ -128,6 +128,18 @@ a:hover {
 }
 
 /* overrites for layout changes */
+#chapter #body-inner.body-404 {
+	padding-bottom: 0rem;
+}
+
+#body-inner.body-404 {
+	margin-bottom: 0rem;
+}
+
+.body-404 p {
+	text-align: center !important;
+}
+
 #chapter p {
     text-align: left;
 }
