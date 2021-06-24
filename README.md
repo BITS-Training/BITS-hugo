@@ -7,7 +7,7 @@
 
 Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein der in der PATH-Variablen des Betriebssystems enthalten ist. Alternativ kann sie auch in das Projektverzeichnis kopiert werden.
 
-## Anleitung
+## Anleitung für Anpassungen
 
 1. Lokales Klonen des Repositorys (rekursiv!)
    
@@ -21,7 +21,7 @@ Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein d
     cd BITS-hugo
     ```
 
-3. Hugo-Server lokal starten
+3. Hugo-Server starten
 
     ```bash
     hugo server
@@ -29,11 +29,16 @@ Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein d
 
 4. Browser öffnen und auf http://localhost:1313 navigieren
 
-## BITS Version generieren
+5. Anpassungen an den Markdown-Dateien vornehmen. 
 
-Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML Dateien von Hugo für die veröffentlichung generiert.
+    - Änderungen werden direkt von Hugo erkannt und im Browser angezeigt.
+    - Tipps und weitere Infos findet man in der Datei [LearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md) 
 
-1. für die Verwendung mit einem Webserver und voller funktionalität:
+## BITS Release generieren
+
+Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML Dateien von Hugo für die Veröffentlichung generiert.
+
+1. für die Verwendung mit einem Webserver und voller Funktionalität:
 
 	```bash
 	hugo --cleanDestinationDir
