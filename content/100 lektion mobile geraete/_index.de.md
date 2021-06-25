@@ -4,6 +4,7 @@ date: 2021-03-09T09:52:36
 weight: 100 
 chapter: true
 pre: "<b>8. </b>"
+icon: mobile
 ---
 
 # Lektion 8

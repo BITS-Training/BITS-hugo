@@ -1,11 +1,16 @@
 # BITS - Behörden IT Sicherheitstraining
 
+## Einleitung
+Diese Datei beschreibt, wie BITS über das Werkzeug Hugo bearbeitet werden kann. Alternativ kann die HTML-Version heruntergeladen und direkt über einen Text-Editor in den statischen HTML-Seiten gearbeitet werden.
+
+Das BITS-Repository liegt auf github hier: [BITS-hugo](https://github.com/BITS-Editor/BITS-hugo)
+
 ## Abhängigkeiten
 
-1. Hugo extended version
-   1. [Dowload hugo from GitHub releases](https://github.com/gohugoio/hugo/releases)
+Hugo extended version
+[Dowload hugo from GitHub releases](https://github.com/gohugoio/hugo/releases)
 
-Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein der in der PATH-Variablen des Betriebssystems enthalten ist. Alternativ kann sie auch in das Projektverzeichnis kopiert werden.
+Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein, der in der PATH-Variable des Betriebssystems enthalten ist. Alternativ kann sie auch in das Projektverzeichnis kopiert werden.
 
 ## Anleitung für Anpassungen
 
@@ -29,14 +34,14 @@ Die EXE-Datei sollte, für einfache Verwendung, in einem Pfad gespeichert sein d
 
 4. Browser öffnen und auf http://localhost:1313 navigieren
 
-5. Anpassungen an den Markdown-Dateien vornehmen. 
+5. Anpassungen an den Markdown-Dateien, insbesondere im Ordner /content vornehmen. 
 
     - Änderungen werden direkt von Hugo erkannt und im Browser angezeigt.
     - Tipps und weitere Infos findet man in der Datei [LearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md) 
 
 ## BITS Release generieren
 
-Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML Dateien von Hugo für die Veröffentlichung generiert.
+Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML-Dateien von Hugo für die Veröffentlichung für die Beschäftigten generiert:
 
 1. für die Verwendung mit einem Webserver und voller Funktionalität:
 

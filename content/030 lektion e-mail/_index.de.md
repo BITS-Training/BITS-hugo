@@ -5,7 +5,7 @@ date: 2021-03-06T09:10:07
 weight: 35
 chapter: true
 pre: "<b>1. </b>"
-icon: envelope-open-text
+icon: envelope
 ---
 
 # Lektion 1

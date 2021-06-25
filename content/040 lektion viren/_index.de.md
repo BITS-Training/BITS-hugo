@@ -5,6 +5,7 @@ date: 2021-03-06T09:14:35
 weight: 40
 chapter: true
 pre: "<b>2. </b>"
+icon: virus
 ---
 
 # Lektion 2
