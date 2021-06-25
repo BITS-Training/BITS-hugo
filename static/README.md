@@ -1,6 +1,6 @@
 # BITS Behörden-IT-Sicherheitstraining
 
-Stand: 24.06.2021
+Stand: 29.06.2021
 
 Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: g@backbeat.eu
@@ -19,7 +19,7 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen veröffentlicht. Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*.
+BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*).
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden.
 
@@ -27,10 +27,10 @@ Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse an
 Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen. Anschließend alle Dateien in das Root-Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
 
 ### c) Anpassung
-* Vor der Freigabe für die Mitarbeiterschaft sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
+* Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
-* Das BITS-Logo kann durch ein eigenes ersetzt werden. Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit, 140px hoch sein.
+* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit, 140px hoch sein.
 
 ## 4. Bedienung und technische Anforderungen
 
@@ -42,15 +42,13 @@ BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktivi
 
 Es besteht die Möglichkeit, dass bei den Wissenschecks am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch den Nutzer innerhalb eines Gewinnspiels der Behörde eingesendet werden, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
 
+Dazu muss in den Ordnern der Lektionen die jeweilige Datei "Quiz" mit einem Text-Editor geöffnet werden. Dort ist dann bei der jeweiligen Zeile "Richtige Antwort" der gewünschte Lösungsbuchstaben (ggf. auch ein Sonderzeichen wie Unterstrich oder Komma) zu hinterlegen, also z.B. "Richtige Antwort. Notieren Sie sich den Lösungsbuchstaben **B**".
 
-
-XXX hier muss noch die Anleitung eingebaut werden wie man das Gewinnspiel in das Quiz eingefügt XXX
-
-
+Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 41 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes.
 
 ## 6. BITS-Portal
 
-Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu zur Verfügung. Dort werden Beta-Versionen bereitgehalten, neue Funktionen und Inhalte vorgestellt und diskutiert.
+Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu zur Verfügung. Dort werden Beta-Versionen bereitgehalten, neue Funktionen und Inhalte vorgestellt und diskutiert. Außerdem steht dort ein Newsletter zum Abonnieren bereit.
 
 
 ## 7. Rechtliches
@@ -86,7 +84,7 @@ Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 # 8. Feedback
 
-## via eMail
+## via E-Mail
 
 Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (g@backbeat.eu) gerne entgegen. 
 
@@ -94,4 +92,4 @@ Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 Der "Quellcode" von [BITS](https://github.com/BITS-Training/BITS-hugo) ist auf GitHub öffentlich verfügbar. Mit [Hugo](https://gohugo.io) kann man daraus die statischen Seiten bauen.
 
-Anregungen, Wünsche und Bugs können einfach mit Hilfe von [Issues](https://github.com/BITS-Training/BITS-hugo/issues) mitgeteilt und besprochen werden. Und wer sich richtig mit Git und GitHub auskennt, kann auch das gesamte Repository Forken und Anpassungen selbst vornehmen. Über einen Pull-Request würden wir uns dann sehr freuen.
+Anregungen, Wünsche und Bugs können einfach mit Hilfe von [Issues](https://github.com/BITS-Training/BITS-hugo/issues) mitgeteilt und besprochen werden. Und wer sich richtig mit Git und GitHub auskennt, kann auch das gesamte Repository forken und Anpassungen selbst vornehmen. Über einen Pull-Request würden wir uns dann sehr freuen.
