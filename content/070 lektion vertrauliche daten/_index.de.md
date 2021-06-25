@@ -4,6 +4,7 @@ date: 2021-03-09T09:52:21
 weight: 70 
 chapter: true
 pre: "<b>5. </b>"
+icon: check-double
 ---
 
 # Lektion 5

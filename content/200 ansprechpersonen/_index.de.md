@@ -4,6 +4,7 @@ date: 2021-03-06T09:14:35
 weight: 200
 chapter: false
 pre: ""
+icon: user-shield
 ---
 
 ### Informationssicherheit

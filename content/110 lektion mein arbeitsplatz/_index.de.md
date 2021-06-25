@@ -4,6 +4,7 @@ date: 2021-03-06T09:10:07
 weight: 110
 chapter: true
 pre: "<b>9. </b>"
+icon: laptop-code
 ---
 
 # Lektion 9

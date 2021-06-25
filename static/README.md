@@ -30,7 +30,7 @@ Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen. Anschließe
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
-* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit, 140px hoch sein.
+* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
 
 ## 4. Bedienung und technische Anforderungen
 
@@ -59,6 +59,7 @@ Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
 
 Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
 
+Das verwendete [hugo-Framework](https://gohugo.io/) steht unter der [Apache-Lizenz, v2.0](https://www.apache.org/licenses/LICENSE-2.0), das [Learn-Theme](https://themes.gohugo.io/hugo-theme-learn/) und das [Quiz](https://bonartm.github.io/hugo-quiz/) inkl. [quizdown-js](https://github.com/bonartm/quizdown-js) unter der [MIT-Lizenz](https://opensource.org/licenses/MIT). Die Icons stammen von https://fontawesome.com und sind Open Source.
 
 BITS ist kostenlos und steht unter der Creative Commons (CC) Lizenz BY-SA (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 

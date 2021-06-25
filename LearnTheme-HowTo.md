@@ -1,5 +1,9 @@
 # Learn-Theme - HowTo
 
+## O. Einleitung
+
+Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS über hugo und das Learn-Theme angepasst werden kann.
+
 ## 1. Variablen und Parameter (hinterlegt in config.toml)
 
 ### Textvariablen
@@ -10,7 +14,7 @@
  - Behörde oder Einrichtung
 ``{{< param Einrichtung >}}``
 
- - 6.0beta1
+ - 6.0beta1 (Versionsnummer)
 ``{{< param Ver >}}``
 
 ## 2. Notizen
@@ -34,7 +38,7 @@ Schutzziele der Informationssicherheit:
 ## 3. Interne Links
 
  - zu Lektionen
-``[Viren]({{< ref "/040 lektion viren" >}})``
+	``[Viren]({{< ref "/040 lektion viren" >}})``
 	
  - zu Unterseiten
 ``[Viren]({{< ref "/040 lektion viren/05.Risiko-und-Schaeden.de.md" >}})``
@@ -42,12 +46,15 @@ Schutzziele der Informationssicherheit:
 
  - zu Ansprechperson
 ``[Ansprechperson]({{< ref "/200 ansprechpersonen/" >}})``
-	
 ## 4. Quiz
+
+### Fragen und Antworten sortieren
+
+Als Voreinstellung sind die Fragen in ihrer Reihenfolge fest ("Shuffle Questions: True"), die vorgeschlagenen Antworten zufällig sortiert ("Shuffle Answers: False"). Dies kann über die jeweilige Lektions-Seite der Quizzes beliebig geändert werden.
 
 ### Multiple-Choice-Antworten
 
-- Will man mehere Antworten zulassen, dann sind die Antworten als ungeordnete Liste zu formatieren (die Formatierung als "Aufgabenliste" (über die eckigen Klammern mit Leerzeichen muss erhalten bleiben, daher ggf. in den Quellcode-Modus des Editors wechseln)
+- Will man mehrere Antworten zulassen, dann sind die Antworten als ungeordnete Liste zu formatieren (die Formatierung als "Aufgabenliste" (über die eckigen Klammern mit Leerzeichen muss erhalten bleiben, daher ggf. in den Quellcode-Modus des Editors wechseln)
 
 ```
 - [x] Kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können.

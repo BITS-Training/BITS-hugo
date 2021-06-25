@@ -4,6 +4,7 @@ date: 2021-03-09T09:52:29
 weight: 80 
 chapter: true
 pre: "<b>6. </b>"
+icon: share-square
 ---
 
 # Lektion 6
