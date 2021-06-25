@@ -23,10 +23,12 @@ BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mi
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden.
 
-### a) Installation
+### Installation
 Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen. Anschließend alle Dateien in das Root-Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
 
-### c) Anpassung
+Als Startseite kann im Webserver direkt auf die Unterseite "/010-start" weitergeleitet werden.
+
+### Anpassung
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
@@ -34,7 +36,7 @@ Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen. Anschließe
 
 ## 4. Bedienung und technische Anforderungen
 
-Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der „index.html“-Seite (statisches HTML) oder XXX. Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
+Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der URL im Browser (Webserver) oder der „010-start.html“-Datei (Dateisystem). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
 BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Internet Explorer, Edge, Vivaldi, Mozilla Firefox und Chrome getestet.
 
