@@ -1,9 +1,9 @@
 # BITS - Behörden IT Sicherheitstraining
 
 ## Einleitung
-Diese Datei beschreibt, wie BITS über das Werkzeug Hugo bearbeitet werden kann. Alternativ kann die HTML-Version heruntergeladen und direkt über einen Text-Editor in den statischen HTML-Seiten gearbeitet werden.
+Diese Datei beschreibt, wie BITS über das Werkzeug Hugo bearbeitet werden kann. Alternativ kann die HTML-Version heruntergeladen und direkt über einen Text-Editor in den statischen HTML-Seiten gearbeitet werden. In den Download-Archiven ist eine weitere Readme.md enthalten, die konkrete Hinweise zur Anpassung, aber auch zur Aktivierung des Gewinnspiels etc. beinhaltet.
 
-Das BITS-Repository liegt auf github hier: [BITS-hugo](https://github.com/BITS-Editor/BITS-hugo)
+Das BITS-Repository mit den Download-Archiven ("Releases") liegt auf github hier: [BITS-hugo](https://github.com/BITS-Editor/BITS-hugo)
 
 ## Abhängigkeiten
 
