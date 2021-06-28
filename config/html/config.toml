@@ -35,7 +35,7 @@ weight = 30
 landingPageURL = "/010-start.html"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-info-circle'></i> more informations"
+name = "<i class='fas fa-fw fa-info-circle'></i> more information"
 identifier = "wi"
 url = "/300 infos/weitere-informationen.html"
 weight = 10

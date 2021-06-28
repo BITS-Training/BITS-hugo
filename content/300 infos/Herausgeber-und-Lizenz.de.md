@@ -43,7 +43,3 @@ Vertretungsberechtigte:
 
 - Dr. Ralf Togler
 - Dr. jur. Peter Queitsch
-
-Bildrechte:
-
-- 
