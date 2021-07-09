@@ -46,7 +46,7 @@ Es besteht die Möglichkeit, dass bei den Wissenschecks am Ende der Lektionen be
 
 Dazu muss in den Ordnern der Lektionen die jeweilige Datei "Quiz" mit einem Text-Editor geöffnet werden. Dort ist dann bei der jeweiligen Zeile "Richtige Antwort" der gewünschte Lösungsbuchstaben (ggf. auch ein Sonderzeichen wie Unterstrich oder Komma) zu hinterlegen, also z.B. "Richtige Antwort. Notieren Sie sich den Lösungsbuchstaben **B**".
 
-Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 41 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes.
+Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 34 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes.
 
 ## 6. BITS-Portal
 
