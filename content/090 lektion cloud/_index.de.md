@@ -14,5 +14,5 @@ In dieser Lektion lernen Sie,
 
 - was man unter Cloud-Diensten versteht,
 - welche Cloud-Dienste es gibt,
-- wie sich behördliche und private Cloud-Dienste unterscheiden und
+- wie sich öffentliche und private Cloud-Dienste unterscheiden und
 - wie Sie Cloud-Dienste sicher nutzen können.

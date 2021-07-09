@@ -33,12 +33,17 @@ Als Startseite kann im Webserver direkt auf die Unterseite "/010-start" weiterge
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
+* Über hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
+  * Einrichtung = "Behörde oder Einrichtung"
+  * Einrichtungen = "Behörden und Einrichtungen"
+  * BITS = "BITS"
+  * Ver = "6.0beta4"
 
 ## 4. Bedienung und technische Anforderungen
 
 Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der URL im Browser (Webserver) oder der „010-start.html“-Datei (Dateisystem). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
-BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern Edge, Vivaldi, Firefox und Chrome getestet.
+BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern Edge, Vivaldi, Firefox und Chrome getestet. Der MS Internet Explorer wird nicht unterstützt.
 
 ## 5. Gewinnspiel
 
