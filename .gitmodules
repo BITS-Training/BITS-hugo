@@ -1,0 +1,7 @@
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/BITS-Training/hugo-theme-learn.git
+	branch = master
+[submodule "hugo-theme-learn"]
+	path = hugo-theme-learn
+	url = https://github.com/BITS-Training/hugo-theme-learn.git

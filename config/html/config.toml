@@ -1,0 +1,51 @@
+### Diese Datei enhält alle abweichenden Einstellungen um das Tranining ohne einen Web-Server zu betreiben
+###
+### Generiert wird die Version mit dem Befehl:
+### hugo --environment html --cleanDestinationDir
+relativeURLs = true
+uglyurls = true
+disableSearch = true
+
+### Die Suche und die Anzeige besuchter Seiten funktioniert nur beim Betrieb über einen Web-Server!!
+
+[Languages]
+
+[Languages.de]
+landingPageURL = "/010-start.html"
+
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
+identifier = "wi"
+url = "/300 infos/weitere-informationen.html"
+weight = 10
+
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz"
+url = "/300 infos/herausgeber-und-lizenz.html"
+weight = 20
+
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit"
+identifier = "usability"
+url = "/300 infos/barrierefreiheit.html"
+weight = 30
+
+[Languages.en]
+landingPageURL = "/010-start.html"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-info-circle'></i> more information"
+identifier = "wi"
+url = "/300 infos/weitere-informationen.html"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-id-card'></i> Publisher and License"
+url = "/300 infos/herausgeber-und-lizenz.html"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
+identifier = "usability"
+url = "/300 infos/barrierefreiheit.html"
+weight = 30

@@ -1,0 +1,6 @@
+{{ if .HasShortcode "quizdown" -}}
+    <script src={{ (resources.Get "quizdown/quizdown.js").RelPermalink }}></script>
+    <script src={{ (resources.Get "quizdown/extensions/quizdownKatex.js").RelPermalink }}></script>
+    <script src={{ (resources.Get "quizdown/extensions/quizdownHighlight.js").RelPermalink }}></script>
+    <script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
+{{- end }}
