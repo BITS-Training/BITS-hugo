@@ -30,6 +30,7 @@
 }
 
 body {
+    font-size: 18px !important;
     color: var(--MAIN-TEXT-color) !important;
 }
 
