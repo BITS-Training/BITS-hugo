@@ -21,6 +21,9 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*).
 
+Die Webserver Version muss im Root-Verzeichnis abgelegt werden, da alle Pfade absolut definiert sind. Es kann eine Beliebige Domain (https://example.com) oder Sub-Domain (https://bits.example.com) verwendet werden.
+Alternative kann die "fileshare" Version in einem beliebigen Unterverzeichnis verwendet werden (http://www.example.com/bits-training/). Dadurch werden die Suche und die Anzeige bereits besuchter Seiten deaktiviert!
+
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden.
 
 ### Installation
