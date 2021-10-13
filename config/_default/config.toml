@@ -1,5 +1,5 @@
 ### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben
-baseURL = "//bits-training.de/BITS-training-dev/"
+baseURL = "/"
 relativeURLs = false
 uglyurls = false
 disableSearch = false
