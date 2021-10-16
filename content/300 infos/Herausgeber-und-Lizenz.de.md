@@ -4,6 +4,7 @@ date: 2020-07-21T15:32:09+02:00
 draft: false
 weight: 30
 icon: file-contract
+hidden: true
 ---
 
 {{< param BITS >}} wird herausgegeben von der [Kommunal Agentur NRW GmbH](https://www.kommunalagenturnrw.de) und Herrn [Dr. Lutz Gollan](mailto:g@backbeat.eu) vom [Landesbetrieb Verkehr](https://www.hamburg.de/lbv), Hamburg, und steht unter der Schirmherrschaft des [Städte- und Gemeindebundes NRW](https://www.kommunen.nrw). Die Urheber sind Herr Dr. Lutz Gollan und Herr Helmut Honermann, [PureSec GmbH](https://puresec.de). Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der [Chr. Mayr GmbH + Co. KG](https://www.mayr.com).

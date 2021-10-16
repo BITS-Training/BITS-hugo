@@ -1,10 +1,10 @@
 ---
 title: "Barrierefreiheit"
 date: 2021-03-12T11:14:35
+draft: false
 weight: 40
-chapter: true
 pre: ""
-
+hidden: true
 ---
 
 ## Tastaturnavigation

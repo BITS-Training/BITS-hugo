@@ -1,5 +1,5 @@
 ---
-title: "Lektion Mein Arbeitsplatz"
+title: "Weitere Informationen"
 date: 2021-03-06T09:10:07
 weight: 300
 chapter: true
