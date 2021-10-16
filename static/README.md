@@ -19,7 +19,7 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*).
+BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen sind auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des Github-Repositories abgelegt.
 
 Die Webserver-Version (**BITS-v6.x.x-webroot.zip**) muss im Root-Verzeichnis abgelegt werden, da alle Pfade absolut definiert sind. Es kann eine beliebige Domain (https://example.com) verwendet werden, aber auch eine Sub-Domain (https://bits.example.com), falls das höchste Root-Verzeichnis nicht zugänglich ist.
 

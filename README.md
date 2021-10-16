@@ -69,7 +69,6 @@ Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML-Dateien von 
 ## Weitere Infos
 
 Hinweise zur Installation der Releases und den sinnvollen lokalen Anpassungen liegen hier:
-
 https://github.com/BITS-Training/BITS-hugo/blob/main/static/README.md
 
 Hugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Learn-Theme:
