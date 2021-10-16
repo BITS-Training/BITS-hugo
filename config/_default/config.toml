@@ -27,7 +27,7 @@ theme = "hugo-theme-learn"
   themeVariant = "bits"
 
   BITS = "BITS"
-  Ver = "6.0.0"
+  Ver = "6.0.1-beta"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

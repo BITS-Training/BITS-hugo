@@ -1,7 +1,9 @@
+Stand: 16.10.2021
+
 # BITS - Behörden-IT-Sicherheitstraining
 
 ## Einleitung
-Diese Datei beschreibt, wie BITS über das Werkzeug Hugo bearbeitet werden kann.
+Diese Datei beschreibt, wie BITS über das Werkzeug "Hugo" bearbeitet werden kann.
 
 Alternativ kann die HTML-Version von BITS heruntergeladen und direkt über einen Text-Editor in den statischen HTML-Seiten gearbeitet werden. Dies entspricht BITS, wie es bis Version 5.5 entwickelt wurde. Außerdem gibt es neben dieser HTML-Version ein weiteres Archiv mit dem gleichen Stand, das die Installation auf einem Web-Server ermöglicht - damit funktionieren u.a. die eingebaute Suche und die Verlaufsdarstellung der bereits besuchten Seiten.  In diesen Download-Archiven ist eine weitere Readme.md enthalten, die konkrete Hinweise zur Anpassung, aber auch zur Aktivierung des Gewinnspiels etc. beinhaltet.
 
@@ -48,7 +50,7 @@ Nach der Installation von Hugo ist das BITS-hugo-Repository von Github herunter 
     - Änderungen werden direkt von Hugo erkannt und im Browser angezeigt.
     - Tipps und weitere Infos findet man in der Datei [LearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md) 
 
-## BITS Release generieren
+## BITS-Release generieren
 
 Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML-Dateien von Hugo für die Veröffentlichung für die Beschäftigten generiert:
 
@@ -65,6 +67,10 @@ Mit folgenden Befehlen werden im Unterverzeichnis "public" die HTML-Dateien von 
 	```
 
 ## Weitere Infos
+
+Hinweise zur Installation der Releases und den sinnvollen lokalen Anpassungen liegen hier:
+
+https://github.com/BITS-Training/BITS-hugo/blob/main/static/README.md
 
 Hugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Learn-Theme:
 https://themes.gohugo.io/themes/hugo-theme-learn/
