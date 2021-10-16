@@ -74,7 +74,8 @@ https://github.com/BITS-Training/BITS-hugo/blob/main/static/README.md
 Hugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Learn-Theme:
 https://themes.gohugo.io/themes/hugo-theme-learn/
 
-Welche Anpassungen über Parameter in BITS für das Learn-Theme hinterlegt sind, steht in der Datei https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md
+Welche Anpassungen über Parameter in BITS für das Learn-Theme hinterlegt sind, steht in der Datei
+https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md
 
 Weitere Hinweise und Hilfe zu Hugo findet sich hier:
 https://gohugo.io/documentation/
