@@ -28,6 +28,7 @@ theme = "hugo-theme-relearn"
 
   BITS = "BITS"
   Ver = "6.0.1"
+  Release = "aus Herbst 2021"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
