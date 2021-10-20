@@ -1,0 +1,3 @@
+### Konfig-Datei für Entwicklungsumgebung
+baseURL = "/BITS-training-dev/"
+canonifyURLs = true
