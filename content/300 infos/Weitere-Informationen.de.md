@@ -6,5 +6,5 @@ weight: 20
 hidden: true
 ---
 
-- Updates und Infos zu BITS: [www.bits-training.de](https://www.bits-training.de/)
+- Updates und Infos zu BITS: [www.bits-portal.eu](https://www.bits-portal.eu/)
 - Bundesamt für Sicherheit in der Informationstechnik (Bürgerportal): [www.bsi-fuer-buerger.de](https://www.bsi-fuer-buerger.de/)
