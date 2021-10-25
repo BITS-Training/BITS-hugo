@@ -1,6 +1,7 @@
 ### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben
 baseURL = "/"
-relativeURLs = false
+canonifyURLs = true
+relativeURLs = true
 uglyurls = false
 disableSearch = false
 

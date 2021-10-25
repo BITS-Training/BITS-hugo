@@ -1,3 +1,2 @@
 ### Konfig-Datei für Entwicklungsumgebung
-baseURL = "/BITS-training-dev/"
-canonifyURLs = true
+baseURL = "https://www.bits-training.de/BITS-training-dev/"
