@@ -6,7 +6,7 @@ relativeURLs = true
 uglyurls = true
 disableSearch = true
 
-### Die Suche und die Anzeige besuchter Seiten funktioniert nur beim Betrieb über einen Web-Server!!
+### Die Suche funktioniert nur beim Betrieb über einen Web-Server!!
 
 [Languages]
 
