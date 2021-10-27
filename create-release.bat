@@ -16,7 +16,14 @@ if "%ERRORLEVEL%" == "1" (
   echo Fehler beim Auschecken des TAGs %1. Bitte pruefen!
   pause
   exit 1
-)  
+)
+echo Submodule werden aktualisiert
+git submodule update --init --recursive
+if "%ERRORLEVEL%" == "1" (
+  echo Fehler beim aktualisieren der Submodule. Bitte pruefen!
+  pause
+  exit 1
+)
 
 echo.
 echo BITS Release wird in den Verzeichnissen '..\BITS-%1-webroot' erstellt...
@@ -40,6 +47,12 @@ del ..\BITS-%1-fileshare\CNAME
 
 echo "vorheriger Branch %CURBR% wird wieder ausgecheckt..."
 git checkout %CURBR%
+echo Submodule werden auf alten stand gebracht.
+git submodule update --init --recursive
+if "%ERRORLEVEL%" == "1" (
+  echo Fehler beim aktualisieren der Submodule. Bitte pruefen!
+  pause
+)
 
 echo.
 echo fertig.
