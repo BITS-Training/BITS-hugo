@@ -1,8 +1,8 @@
 # BITS Behörden-IT-Sicherheitstraining
 
-Stand: 16.10.2021
+Stand: 28.10.2021
 
-Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
+Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
 
 ## 1. Überblick
@@ -19,25 +19,25 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen sind auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des Github-Repositories abgelegt.
+BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen sind auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys abgelegt. Die Fileserver-Version unterstützt nicht die integrierte Suche.
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
 ### Installation
-Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen. Anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
+Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
 
-Als Startseite kann im Webserver direkt auf die Unterseite "/010-start" weitergeleitet werden.
+Als Startseite kann direkt auf den Unterordner /010-start (Webserver-Version) bzw. auf die Seite 010-start.html (Fileserver-Version) verlinkt werden.
 
 ### Anpassung
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
-* Über hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
+* Über Hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
   * Einrichtung = "Behörde oder Einrichtung"
   * Einrichtungen = "Behörden und Einrichtungen"
   * BITS = "BITS"
-  * Ver = "6.0beta4"
+  * Ver = "6.0.1"
 
 ## 4. Bedienung und technische Anforderungen
 
