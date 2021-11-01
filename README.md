@@ -48,7 +48,7 @@ Nach der Installation von Hugo ist das BITS-hugo-Repository von GitHub herunter 
 5. Anpassungen an den Markdown-Dateien, insbesondere im Unterordner /content, mit einem beliebigen Text-Editor vornehmen. 
 
     - Änderungen werden direkt von Hugo erkannt und im Browser sofort nach dem Speichern angezeigt.
-    - Tipps und weitere Infos findet man in der Datei [LearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md) 
+    - Tipps und weitere Infos findet man in der Datei [RelearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/ReLearnTheme-HowTo.md) 
 
 ## BITS-Release generieren
 
@@ -71,11 +71,11 @@ Mit folgenden Befehlen werden anschließend im Unterverzeichnis "public" die HTM
 Hinweise zur Installation der Releases und den sinnvollen lokalen Anpassungen der Inhalte und des Layouts liegen hier:
 https://github.com/BITS-Training/BITS-hugo/blob/main/static/README.md
 
-Hugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Learn-Theme:
+Hugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Relearn-Theme:
 https://themes.gohugo.io/themes/hugo-theme-relearn/
 
-Welche Anpassungen über Parameter in BITS für das Learn-Theme hinterlegt sind, steht in dieser Datei:
-https://github.com/BITS-Training/BITS-hugo/blob/main/LearnTheme-HowTo.md
+Welche Anpassungen über Parameter in BITS für das Relearn-Theme hinterlegt sind, steht in dieser Datei:
+https://github.com/BITS-Training/BITS-hugo/blob/main/ReLearnTheme-HowTo.md
 
 Weitere Hinweise und Hilfe zu Hugo findet sich hier:
 https://gohugo.io/documentation/
