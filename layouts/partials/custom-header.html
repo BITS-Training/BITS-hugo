@@ -1,3 +1,5 @@
+
+	<meta name="date" content="{{ now.Format "02 Jan 06 15:04 MST" }}">
 {{ if .HasShortcode "quizdown" -}}
     <script src={{ (resources.Get "quizdown/quizdown.js").RelPermalink }}></script>
     <script src={{ (resources.Get "quizdown/extensions/quizdownKatex.js").RelPermalink }}></script>
