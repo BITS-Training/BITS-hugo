@@ -1,5 +1,8 @@
-
+{{ if eq hugo.Environment "dev" -}}
 	<meta name="date" content="{{ now.Format "02 Jan 06 15:04 MST" }}">
+{{ else }}
+	<meta name="date" content="{{ now.Format "02 Jan 06" }}">
+{{- end }}
 {{ if .HasShortcode "quizdown" -}}
     <script src={{ (resources.Get "quizdown/quizdown.js").RelPermalink }}></script>
     <script src={{ (resources.Get "quizdown/extensions/quizdownKatex.js").RelPermalink }}></script>
