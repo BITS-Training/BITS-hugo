@@ -1,8 +1,8 @@
-# Learn-Theme - HowTo
+# Relearn-Theme - HowTo
 
 ## O. Einleitung
 
-Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS über hugo und das Learn-Theme angepasst werden kann.
+Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS über hugo und das Relearn-Theme angepasst werden kann.
 
 ## 1. Variablen und Parameter (hinterlegt in config.toml)
 
@@ -14,7 +14,7 @@ Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS �
  - Behörde oder Einrichtung
 ``{{< param Einrichtung >}}``
 
- - 6.0beta1 (Versionsnummer)
+ - 6.0.1 (Versionsnummer)
 ``{{< param Ver >}}``
 
 ## 2. Notizen
@@ -54,7 +54,7 @@ Als Voreinstellung sind die Fragen in ihrer Reihenfolge fest ("Shuffle Questions
 
 ### Multiple-Choice-Antworten
 
-- Will man mehrere Antworten zulassen, dann sind die Antworten als ungeordnete Liste zu formatieren (die Formatierung als "Aufgabenliste" (über die eckigen Klammern mit Leerzeichen muss erhalten bleiben, daher ggf. in den Quellcode-Modus des Editors wechseln)
+- Will man **mehrere Antworten** zulassen, dann sind die Antworten als **ungeordnete** Liste zu formatieren (die Formatierung als "Aufgabenliste" über die eckigen Klammern mit Leerzeichen muss erhalten bleiben, daher ggf. in den Quellcode-Modus des Editors wechseln)
 
 ```
 - [x] Kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können.
@@ -62,7 +62,7 @@ Als Voreinstellung sind die Fragen in ihrer Reihenfolge fest ("Shuffle Questions
 - [ ] Schädliche Programme, die jedoch in Ihrer Einrichtung keine Gefahr darstellen, weil sie durch Verschlüsselungssoftware und Virenscanner sofort unschädlich gemacht werden.
 ```
 
-  - Will man nur eine Antwort zulassen, dann sind die Antworten als geordnete Liste zu formatieren:
+  - Will man nur **eine Antwort** zulassen, dann sind die Antworten als **geordnete** Liste zu formatieren:
 
 ```
 1. [x] Ein netter Anruf einer Ihnen nicht bekannten Mitarbeiterin der IT-Abteilung, mit der Bitte, ihr Ihre Zugangsdaten zu geben.
@@ -76,3 +76,4 @@ Als Voreinstellung sind die Fragen in ihrer Reihenfolge fest ("Shuffle Questions
 Dies ist ein Beispiel
 {{% /expand %}}
 ```
+
