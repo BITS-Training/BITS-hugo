@@ -3,7 +3,9 @@ title: "Weitere Informationen"
 date: 2020-07-21T15:32:09+02:00
 draft: false
 weight: 20
+icon: info
 hidden: true
+
 ---
 
 - Updates und Infos zu BITS: [www.bits-portal.eu](https://www.bits-portal.eu/)
