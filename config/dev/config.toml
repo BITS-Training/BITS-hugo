@@ -1,2 +1,6 @@
 ### Konfig-Datei für Entwicklungsumgebung
 baseURL = "https://www.bits-training.de/BITS-training-dev/"
+
+[params]
+  Ver = "6.0-dev"
+  Release = "bleeding edge testing"
