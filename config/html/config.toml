@@ -4,9 +4,10 @@
 ### hugo --environment html --cleanDestinationDir
 relativeURLs = true
 uglyurls = true
-disableSearch = true
 
-### Die Suche funktioniert nur beim Betrieb über einen Web-Server!!
+[params]
+  ### Die Suche funktioniert nur beim Betrieb über einen Web-Server!!
+  disableSearch = true
 
 [Languages]
 

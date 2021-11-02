@@ -3,7 +3,6 @@ baseURL = "/"
 canonifyURLs = true
 relativeURLs = true
 uglyurls = false
-disableSearch = false
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
@@ -18,6 +17,7 @@ theme = "hugo-theme-relearn"
   description = "BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen."
   author = "Dr. Lutz Gollan"
   showVisitedLinks = true
+  disableSearch = false
   disableBreadcrumb = false
   disableNextPrev = false
   disableAssetsBusting = true
