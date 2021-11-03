@@ -1,3 +1,3 @@
-<a id="logo" href="{{ if (or .IsPage .IsSection) }}{{ ref . "/010 start" }}{{ else }} {{ .Site.BaseURL }}{{ end }}">
+<a id="logo" href="{{ .Site.Params.landingPageURL | default "/" | relLangURL }}">
   <img src="/images/logo.jpg" alt="BITS Logo" title="BITS Logo">
 </a>
