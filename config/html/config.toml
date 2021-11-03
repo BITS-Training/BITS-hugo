@@ -17,18 +17,18 @@ landingPageURL = "/010-start.html"
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
 identifier = "wi"
-url = "/300 infos/weitere-informationen.html"
+url = "/weitere-informationen.html"
 weight = 10
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz"
-url = "/300 infos/herausgeber-und-lizenz.html"
+url = "/herausgeber-und-lizenz.html"
 weight = 20
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit"
 identifier = "usability"
-url = "/300 infos/barrierefreiheit.html"
+url = "/barrierefreiheit.html"
 weight = 30
 
 [Languages.en]
@@ -37,16 +37,16 @@ landingPageURL = "/010-start.html"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> more information"
 identifier = "wi"
-url = "/300 infos/weitere-informationen.html"
+url = "/weitere-informationen.html"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Publisher and License"
-url = "/300 infos/herausgeber-und-lizenz.html"
+url = "/herausgeber-und-lizenz.html"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
 identifier = "usability"
-url = "/300 infos/barrierefreiheit.html"
+url = "/barrierefreiheit.html"
 weight = 30

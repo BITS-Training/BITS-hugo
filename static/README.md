@@ -31,7 +31,7 @@ Als Startseite kann direkt auf den Unterordner /010-start (Webserver-Version) bz
 ### Anpassung
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
-* Individuelle Verweise auf weitere Informationsquellen können in der Datei "\300-infos\weitere-informationen\index.html" (Webserver) oder "\300-infos\weitere-informationen.html" (Dateisystem) verlinkt werden.
+* Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (Dateisystem) verlinkt werden.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logolinks.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
 * Über Hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
   * Einrichtung = "Behörde oder Einrichtung"

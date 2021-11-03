@@ -49,18 +49,18 @@ Einrichtungen = "Behörden und Einrichtungen"
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
 identifier = "wi"
-url = "/300 infos/weitere-informationen/"
+url = "/weitere-informationen/"
 weight = 10
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz"
-url = "/300 infos/herausgeber-und-lizenz/"
+url = "/herausgeber-und-lizenz/"
 weight = 20
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit"
 identifier = "usability"
-url = "/300 infos/barrierefreiheit/"
+url = "/barrierefreiheit/"
 weight = 30
 
 [Languages.en]
@@ -75,18 +75,18 @@ Einrichtungen = "Authorities or institutions"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> more information"
 identifier = "wi"
-url = "/300 infos/weitere-informationen/"
+url = "/weitere-informationen/"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Publisher and License"
-url = "/300 infos/herausgeber-und-lizenz/"
+url = "/herausgeber-und-lizenz/"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
 identifier = "usability"
-url = "/300 infos/barrierefreiheit/"
+url = "/barrierefreiheit/"
 weight = 30
 
 [minify]

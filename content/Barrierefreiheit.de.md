@@ -3,9 +3,7 @@ title: "Barrierefreiheit"
 date: 2021-03-12T11:14:35
 draft: false
 weight: 40
-pre: ""
 icon: universal-access
-hidden: true
 ---
 
 ## Tastaturnavigation
