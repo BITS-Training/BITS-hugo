@@ -19,6 +19,7 @@ theme = "hugo-theme-relearn"
   showVisitedLinks = true
   disableSearch = false
   disableBreadcrumb = true
+  disableToc = true
   disableNextPrev = false
   disableAssetsBusting = true
   disableLanguageSwitchingButton = true
