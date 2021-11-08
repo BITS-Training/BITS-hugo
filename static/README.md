@@ -33,11 +33,6 @@ Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf di
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (Dateisystem) verlinkt werden.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logo.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
-* Über Hugo können Sie bestimmter Parameter oder Platzhalter mit eigenen Werten gleichzeitig auf allen Seiten überschreiben. Folgende Parameter sind \config\_default\config.toml hinterlegt:
-  * Einrichtung = "Behörde oder Einrichtung"
-  * Einrichtungen = "Behörden und Einrichtungen"
-  * BITS = "BITS"
-  * Ver = "6.0.1"
 
 ## 4. Bedienung und technische Anforderungen
 
