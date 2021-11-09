@@ -26,7 +26,7 @@ Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse an
 ### Installation
 Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
 
-Als Startseite kann direkt auf den Unterordner /010-start (Webserver-Version) bzw. auf die Seite 010-start.html (Fileserver-Version) verlinkt werden.
+Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf die Seite index.html (Fileserver-Version) verlinkt werden.
 
 ### Anpassung
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
@@ -41,7 +41,7 @@ Als Startseite kann direkt auf den Unterordner /010-start (Webserver-Version) bz
 
 ## 4. Bedienung und technische Anforderungen
 
-Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der URL im Browser (Webserver) oder der „010-start.html“-Datei (Dateisystem). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
+Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der URL im Browser (Webserver) oder der „index.html“-Datei (Dateisystem). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
 BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern Edge, Vivaldi, Firefox und Chrome getestet. Der MS Internet Explorer wird nicht unterstützt.
 
