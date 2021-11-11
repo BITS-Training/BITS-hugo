@@ -7,6 +7,9 @@
 # Hugo Binary inside path
 hugo.exe
 
+# Hugo lock-file
+.hugo_build.lock
+
 ## OS Files
 # Windows
 Thumbs.db
