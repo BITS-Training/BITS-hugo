@@ -18,7 +18,7 @@ theme = "hugo-theme-relearn"
   author = "Dr. Lutz Gollan"
   showVisitedLinks = true
   disableSearch = false
-  disableBreadcrumb = true
+  disableBreadcrumb = false
   disableToc = true
   disableNextPrev = false
   disableAssetsBusting = true
@@ -41,7 +41,7 @@ home = [ "HTML", "RSS", "JSON"]
 title = "BITS | Behörden-IT-Sicherheitstraining"
 weight = 1
 languageName = "Deutsch"
-landingPageURL = "/010-start/"
+landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
 Einrichtung = "Behörde oder Einrichtung"
 Einrichtungen = "Behörden und Einrichtungen"
@@ -67,7 +67,7 @@ weight = 30
 title = "BITS | IT security training for public authorities"
 weight = 2
 languageName = "English"
-landingPageURL = "/010-start/"
+landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
 Einrichtung = "Authority or institution"
 Einrichtungen = "Authorities or institutions"
