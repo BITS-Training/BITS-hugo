@@ -8,11 +8,12 @@ uglyurls = true
 [params]
   ### Die Suche funktioniert nur beim Betrieb über einen Web-Server!!
   disableSearch = true
+  disableBreadcrumb = true
 
 [Languages]
 
 [Languages.de]
-landingPageURL = "/010-start.html"
+landingPageURL = "/index.html"
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
@@ -32,7 +33,7 @@ url = "/barrierefreiheit.html"
 weight = 30
 
 [Languages.en]
-landingPageURL = "/010-start.html"
+landingPageURL = "/index.html"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> more information"
