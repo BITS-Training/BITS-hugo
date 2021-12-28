@@ -7,7 +7,7 @@ weight: 20
 
 ## Informationen sind wertvoll
 
-### Ziele des Behörden-IT-Sicherheitstrainings BITS
+### Ziele des  {{< param BITS_Titel >}}
 
 Informationen sind wertvoll. Sie werden immer bedeutender für {{< param Einrichtungen >}}, aber auch Privatpersonen. Heute werden Informationen größtenteils digital gespeichert und verarbeitet. Daher rückt das Thema IT-Sicherheit mehr und mehr in den Blickpunkt. Im Zentrum stehen die **Schutzziele der Informationssicherheit**.
 
