@@ -32,6 +32,18 @@ identifier = "usability"
 url = "/barrierefreiheit.html"
 weight = 30
 
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-file-contract'></i> Impressum"
+identifier = "imprint"
+url = "/impressum.html"
+weight = 40
+
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-user-shield'></i> Datenschutz"
+identifier = "datasecurity"
+url = "/datenschutz.html"
+weight = 50
+
 [Languages.en]
 landingPageURL = "/index.html"
 
@@ -51,3 +63,15 @@ name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
 identifier = "usability"
 url = "/barrierefreiheit.html"
 weight = 30
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-file-contract'></i> Imprint"
+identifier = "imprint"
+url = "/impressum.html"
+weight = 40
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-user-shield'></i> Datasecurity"
+identifier = "datasecurity"
+url = "/datenschutz.html"
+weight = 50

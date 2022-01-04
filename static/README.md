@@ -25,11 +25,14 @@ BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mi
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
 ### Installation
+
 Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
 
 Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf die Seite index.html (Fileserver-Version) verlinkt werden.
 
 ### Anpassung
+
+* Das Impressum und die Datenschutzerklärung müssen angepasst werden!
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (Dateisystem) verlinkt werden.
