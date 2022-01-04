@@ -29,7 +29,7 @@ theme = "hugo-theme-relearn"
   themeVariant = "bits"
 
   BITS = "BITS"
-  BITS_Titel = "BITS | Behörden-IT-Sicherheitstraining"
+  BITS_Titel = "Behörden-IT-Sicherheitstraining"
   Ver = "6.0.2"
   Release = "aus Herbst 2021"
 
