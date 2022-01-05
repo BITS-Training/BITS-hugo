@@ -6,9 +6,9 @@ weight: 60
 icon: user-shield
 ---
 
-**Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
+**Diese Seite ist Teil der Demo-Version von BITS. Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
 
-Die Datenschutzerklärung für die Online-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de
+**Die Datenschutzerklärung für die Online-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de/datenschutz**
 
 ### Datenschutz
 

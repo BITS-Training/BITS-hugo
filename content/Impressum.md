@@ -6,7 +6,9 @@ weight: 50
 icon: file-contract
 ---
 
-## Bitte vor einer eventuellen Veröffentlichung anpassen!
+**Diese Seite ist Teil der Demo-Version von BITS. Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
+
+**Das Impressum für die Online-Demo-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de/impressum**
 
 ### Informationen zum Diensteanbieter gemäß § 5 Absatz 1 Telemediengesetz
 | Impressum                         | [Hier eintragen] | [Hilfsspalte] |
@@ -22,4 +24,4 @@ icon: file-contract
 
 
 
-#### Das Impressum für die Online-Demo-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de.
+#### 
