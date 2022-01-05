@@ -9,14 +9,15 @@ icon: file-contract
 ## Bitte vor einer eventuellen Veröffentlichung anpassen!
 
 ### Informationen zum Diensteanbieter gemäß § 5 Absatz 1 Telemediengesetz
-| Impressum                         | Kommunal Agentur NRW GmbH   |                         |
-|-----------------------------------|-----------------------------|-------------------------|
-| Anschrift                         | Cecilienallee 59            | 40474 Düsseldorf        |
-| Rechtsform                        | GmbH                        |                         |
-| Vertretungsberechtigt             | Dr. Ralf Togler             | Dr. jur. Peter Queitsch |
-| E-Mail                            | klick@kommunalagenturnrw.de |                         |
-| Register                          | Amtsgericht Düsseldorf      | HRB 53640               |
-| Umsatzsteueridentifikationsnummer | 105/5826/1765               |                         |
+| Impressum                         | [Hier eintragen] | [Hilfsspalte] |
+| --------------------------------- | --------------------------- | --------- |
+| Diensteanbieter | XX | |
+| Anschrift                         | XX                          |         |
+| Rechtsform                        | XX                          |           |
+| Vertretungsberechtigt             | XX                          |         |
+| E-Mail                            | XX |           |
+| Register                          | XX                           |  |
+| Umsatzsteueridentifikationsnummer | XX               |           |
 
 
 
