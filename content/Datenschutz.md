@@ -6,9 +6,9 @@ weight: 60
 icon: user-shield
 ---
 
-**Diese Seite ist Teil der Demo-Version von BITS. Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
-
 **Die Datenschutzerklärung für die Online-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de/datenschutz**
+
+**Diese Seite ist Teil der Demo-Version von {{< param BITS >}}. Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
 
 ### Datenschutz
 
@@ -33,4 +33,6 @@ Betroffene Personen haben ein Recht auf Auskunft, Berichtigung, Löschung und di
 Auf das Widerspruchsrecht nach Art. 21 DSGVO wird ausdrücklich hingewiesen.
 
 ### Hosting
+
+[XX]
 

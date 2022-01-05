@@ -6,11 +6,12 @@ weight: 50
 icon: file-contract
 ---
 
-**Diese Seite ist Teil der Demo-Version von BITS. Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
+**Das Impressum für die Online-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de/impressum**
 
-**Das Impressum für die Online-Demo-Version von {{< param BITS >}} finden Sie auf https://www.bits-training.de/impressum**
+**Diese Seite ist Teil der Demo-Version von {{< param BITS >}}. Bitte vor der Nutzung anpassen, dies gilt insbesondere für die Platzhalter [XX]!**
 
 ### Informationen zum Diensteanbieter gemäß § 5 Absatz 1 Telemediengesetz
+
 | Impressum                         | [Hier eintragen] | [Hilfsspalte] |
 | --------------------------------- | --------------------------- | --------- |
 | Diensteanbieter | XX | |
@@ -21,7 +22,3 @@ icon: file-contract
 | Register                          | XX                           |  |
 | Umsatzsteueridentifikationsnummer | XX               |           |
 
-
-
-
-#### 
