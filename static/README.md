@@ -1,7 +1,7 @@
 # BITS Behörden-IT-Sicherheitstraining
 
 
-Stand: 12.11.2021
+Stand: 05.01.2022
 
 Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
@@ -32,11 +32,11 @@ Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf di
 
 ### Anpassung
 
-* Das Impressum und die Datenschutzerklärung müssen angepasst werden!
-* Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem)
+* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version veröffentlicht werden soll, auch das Impressum..
+* Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem).
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (Dateisystem) verlinkt werden.
-* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\images\logo.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
+* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\static\images\logo.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
 
 ## 4. Bedienung und technische Anforderungen
 
