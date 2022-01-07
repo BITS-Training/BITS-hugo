@@ -34,6 +34,8 @@ theme = "hugo-theme-relearn"
   Release = "aus Herbst 2021"
 
   BITS_Password_Length = "12"
+  # BITS_Private_EMail kann : " Demo | Custom " enthalten bei Custom ist die Datei "content/anpassungen/private-mail.md" auf die eigenen Anforderungen anzupassen
+  BITS_Private_EMails = "Demo"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

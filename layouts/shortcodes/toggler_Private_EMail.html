@@ -1,0 +1,4 @@
+{{ $value := .Get 0 }}
+{{ if eq .Site.Params.BITS_Private_EMails $value }}
+{{ .Inner }}
+{{ end }}
