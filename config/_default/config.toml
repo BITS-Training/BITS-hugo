@@ -32,6 +32,7 @@ theme = "hugo-theme-relearn"
   BITS_Titel = "Behörden-IT-Sicherheitstraining"
   Ver = "6.1"
   Release = "aus Frühjar 2022"
+  BITS_Password_Length = "8"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
