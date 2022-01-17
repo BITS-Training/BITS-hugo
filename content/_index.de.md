@@ -6,7 +6,7 @@ disableToc: true
 ---
 # Willkommen bei {{< param BITS >}}
 
-# Behörden-IT-Sicherheitstraining
+# {{< param BITS_Titel >}}
 
 {{< param BITS >}} {{< param Ver >}} {{< param Release >}} 
 

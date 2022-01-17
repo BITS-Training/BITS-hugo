@@ -8,11 +8,15 @@ icon: universal-access
 
 ## Tastaturnavigation
 
-BITS unterstützt die Navigation auch über die Tastatur.
+BITS unterstützt die Navigation auch über die Tastatur. Aufzuklappende weiterführende Erläuterungen erfordern aktuell noch eine Mausbedienung.
+
+### Seitennavigation
 
 Um zur nächsten Seite zu gelangen, ist die Taste Pfeiltaste nach rechts zu verwenden, um zur vorangehenden Seite zu kommen die Pfeiltaste nach links.
 
-Aufzuklappende weiterführende Erläuterungen und das Quiz erfordern aktuell noch eine Mausbedienung.
+### Quiz
+
+Für das Quiz muss auf der jeweils ersten Seite über die Tabulator-Taste der Antwort-Block aktiviert werden. Mit den Pfeiltasten kann eine Antwort markiert werden. Anschließend ist über die Tabulator-Taste und die Return-Taste die nächste Aktion auszuwählen und auszulösen. Auf der nächsten Seite muss bei bei gedrückter Umschalt-Taste über die Tabulator-Taste der Antwort-Block angesteuert werden, um über die Pfeiltasten die nächste Antwort zu markieren.
 
 ## Kontrast
 

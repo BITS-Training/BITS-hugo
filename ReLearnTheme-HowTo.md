@@ -1,21 +1,29 @@
 # Relearn-Theme - HowTo
 
+Stand 17.01.2022
+
 ## O. Einleitung
 
 Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS über hugo und das Relearn-Theme angepasst werden kann.
 
-## 1. Variablen und Parameter (hinterlegt in config.toml)
+## 1. Variablen und Parameter (hinterlegt in config/_default/config.toml)
 
 ### Textvariablen
 
- - Behörden und Einrichtungen
-``{{< param Einrichtungen >}}``
+In der Datei config/_default/config.toml sind verschiedene Variablen hinterlegt. Änderungen führen beim Erzeugen der HTML-Seiten zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. In den Inhaltsseiten lautet der entsprechende Syntax: {{< param VARIABLE >}}.
 
- - Behörde oder Einrichtung
-``{{< param Einrichtung >}}``
+#### Abschnitt [params]
 
- - 6.0.1 (Versionsnummer)
-``{{< param Ver >}}``
+ -  BITS = "BITS"
+ -  BITS_Titel = "Behörden-IT-Sicherheitstraining"
+ -  Ver = "6.0.3"
+ -  Release = "aus Winter 2021/2022
+ -  BITS_Password_Length = "acht"
+
+#### Abschnitt [Languages.de]
+
+- Einrichtung = "Behörde oder Einrichtung"
+- Einrichtungen = "Behörden und Einrichtungen"
 
 ## 2. Notizen
 

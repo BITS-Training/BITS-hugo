@@ -1,4 +1,4 @@
-Stand: 28.10.2021
+Stand: 17.01.2022
 
 # BITS - Behörden-IT-Sicherheitstraining
 
@@ -45,10 +45,12 @@ Nach der Installation von Hugo ist das BITS-hugo-Repository von GitHub herunter 
 
 4. Browser öffnen und auf http://localhost:1313 navigieren
 
-5. Anpassungen an den Markdown-Dateien, insbesondere im Unterordner /content, mit einem beliebigen Text-Editor vornehmen. 
+## Anpassungen
 
-    - Änderungen werden direkt von Hugo erkannt und im Browser sofort nach dem Speichern angezeigt.
-    - Tipps und weitere Infos findet man in der Datei [RelearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/ReLearnTheme-HowTo.md) 
+Anpassungen an den Markdown-Dateien, insbesondere im Unterordner /content, können mit einem beliebigen Text-Editor vorgenommen werden.
+
+- Änderungen werden direkt von Hugo erkannt und im Browser bei laufendem hugo server sofort nach dem Speichern angezeigt.
+- Tipps und weitere Infos findet man in der Datei [RelearnTheme-howto.md](https://github.com/BITS-Training/BITS-hugo/blob/main/ReLearnTheme-HowTo.md) 
 
 ## BITS-Release generieren
 
