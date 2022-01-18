@@ -27,13 +27,13 @@ In der Datei config/_default/config.toml sind verschiedene Variablen hinterlegt.
 
 ## 2. Notizen
 
- - Anmerkung (orange) = das was in BITS v5 links steht
+ - Anmerkung (orange) = das was in BITS v5 links stand
 ```
 {{% notice note %}}
 Nach diesem Training werden Sie wissen, wie Sie sich richtig am Computer, am Smartphone und im Internet verhalten. Nutzen Sie Ihr Wissen auch für den privaten Bereich, es drohen überall die gleichen Gefahren!
 {{% /notice %}}
 ```
- - Tipp (grün) = das was in BITS v5 rechts steht
+ - Tipp (grün) = das was in BITS v5 rechts stand
 ```
 {{% notice tip %}}
 Schutzziele der Informationssicherheit:
@@ -46,8 +46,9 @@ Schutzziele der Informationssicherheit:
 ## 3. Interne Links
 
  - zu Lektionen
+
 	``[Viren]({{< ref "/040 lektion viren" >}})``
-	
+
  - zu Unterseiten
 ``[Viren]({{< ref "/040 lektion viren/05.Risiko-und-Schaeden.de.md" >}})``
 ``[Informationen]({{< ref "02.Dokumente-und-Informationen.de.md" >}})``

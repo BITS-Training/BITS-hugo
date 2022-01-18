@@ -31,7 +31,7 @@ theme = "hugo-theme-relearn"
   BITS = "BITS"
   BITS_Titel = "Behörden-IT-Sicherheitstraining"
   Ver = "6.1"
-  Release = "aus Frühjar 2022"
+  Release = "aus Winter 2021/2022"
   BITS_Password_Length = "acht"
 
 [outputs]
