@@ -32,10 +32,11 @@ Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf di
 
 ### Anpassung
 
-* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version veröffentlicht werden soll, auch das Impressum..
+* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version veröffentlicht werden soll, auch das Impressum. Diese Daten liegen unter \content.
 * Vor der Freigabe für die Beschäftigten sollte die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver) oder "\200-ansprechpersonen.html" (Dateisystem).
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (Dateisystem) verlinkt werden.
+* Variablen wie z.B. die an einigen Stellen empfohlene Mindestpasswortlänge, werden über die Datei config/_default/config.toml gesteuert. Wie diese zu verwenden sind, wird in der Datei ReLearnTheme-HowTo.md im obersten Ordner erläutert.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\static\images\logo.jpg" überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
 
 ## 4. Bedienung und technische Anforderungen
