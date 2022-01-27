@@ -57,6 +57,7 @@ theme = "hugo-theme-relearn"
   Matomo_URL = ""
   #
   #für weitere Einstellungen/Anpassungen des Trackingscripts siehe -> "\BITS-hugo\layouts\partials\custom-header.html"
+  #Das OptOut Frame wird über den Shortcode {{< matomo >}} erzeugt. Optional kann ein CSS Style String übergeben werden {{< matomo "border: 2px solid black; height: 170px; width: 100%; background: #fff" >}}
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
