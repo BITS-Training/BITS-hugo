@@ -2,3 +2,5 @@
 
 [params]
   GoatCounter_ID = "bits-training"
+  Matomo_ID = "8"
+  Matomo_URL = "piwik.kommunalagenturnrw.de"

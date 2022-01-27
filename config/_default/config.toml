@@ -48,14 +48,15 @@ theme = "hugo-theme-relearn"
   GoatCounter_SRC = ""
 
   # Benutzertracking über die Open Source Matomo
-  # Online service via https://www.matomo.org/ oder self-hosted
+  # Online service via https://matomo.cloud/ oder self-hosted
   #
   #IDSITE der Webseite die in Matomo getrackt werden soll (leer = deaktiviert)
   Matomo_ID = ""
   #
-  # nur bei self-hosted den folgenden Werte setzen (sonst leer lassen!)
-  #URL von der das Tracking Script geladen wird (bsp: "matomo.example.com")
+  #URL von der das Tracking Script geladen wird (bsp: "example.matomo.cloud")
   Matomo_URL = ""
+  #
+  #für weitere Einstellungen/Anpassungen des Trackingscripts siehe -> "\BITS-hugo\layouts\partials\custom-header.html"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
