@@ -34,10 +34,11 @@ theme = "hugo-theme-relearn"
   Release = "aus Winter 2021/2022"
   BITS_Password_Length = "acht"
   
-  # Benutzertracking über die Open Source GoatCounter
+  # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo. Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
+  Benutzertracking über die Open Source-Anwendung GoatCounter
   # Online service via https://www.goatcounter.com/ oder self-hosted
   #
-  #CODE für den Online Service der bei Registrierung angegeben wurde (leer = deaktiviert, auch leer für self-hosted!)
+  #CODE für den Online Service, der bei Registrierung zum Tracking angegeben wurde (leer = deaktiviert, auch leer für self-hosted!)
   GoatCounter_ID = ""
   #
   # nur bei self-hosted die folgenden Werte setzen (sonst leer lassen!)
@@ -47,7 +48,7 @@ theme = "hugo-theme-relearn"
   #Source für das Script Tag von dem count.js geladen wird (ohne http/https, mit Dateiname, bsp: "count.example.com/count.js", default = GoutCount_URL + "/count.js")
   GoatCounter_SRC = ""
 
-  # Benutzertracking über die Open Source Matomo
+  # Benutzertracking über die Open Source-Anwendung Matomo
   # Online service via https://matomo.cloud/ oder self-hosted
   #
   #IDSITE der Webseite die in Matomo getrackt werden soll (leer = deaktiviert)
@@ -57,7 +58,7 @@ theme = "hugo-theme-relearn"
   Matomo_URL = ""
   #
   #für weitere Einstellungen/Anpassungen des Trackingscripts siehe -> "\BITS-hugo\layouts\partials\custom-header.html"
-  #Das OptOut Frame wird über den Shortcode {{< matomo >}} erzeugt. Optional kann ein CSS Style String übergeben werden {{< matomo "border: 2px solid black; height: 170px; width: 100%; background: #fff" >}}
+  #Das OptOut-Frame wird über den Shortcode {{< matomo >}} erzeugt. Optional kann ein CSS Style String übergeben werden {{< matomo "border: 2px solid black; height: 170px; width: 100%; background: #fff" >}}
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
