@@ -34,8 +34,9 @@ theme = "hugo-theme-relearn"
   Release = "aus Winter 2021/2022"
   BITS_Password_Length = "acht"
   
-  # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo. Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
-  Benutzertracking über die Open Source-Anwendung GoatCounter
+  # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
+  # Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
+  # Benutzertracking über die Open Source-Anwendung GoatCounter
   # Online service via https://www.goatcounter.com/ oder self-hosted
   #
   #CODE für den Online Service, der bei Registrierung zum Tracking angegeben wurde (leer = deaktiviert, auch leer für self-hosted!)
