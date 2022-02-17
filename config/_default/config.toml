@@ -24,16 +24,11 @@ theme = "hugo-theme-relearn"
   disableAssetsBusting = true
   disableLanguageSwitchingButton = true
   disableLandingPageButton = true
+  titleSeparator = "::"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   # Hier wird die für BITS angepasste blaue Variante eingestellt
   themeVariant = "bits"
 
-  BITS = "BITS"
-  BITS_Titel = "Behörden-IT-Sicherheitstraining"
-  Ver = "6.1.1"
-  Release = "aus Winter 2021/2022"
-  BITS_Password_Length = "acht"
-  
   # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
   # Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
   # Benutzertracking über die Open Source-Anwendung GoatCounter
@@ -72,6 +67,12 @@ weight = 1
 languageName = "Deutsch"
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
+
+BITS = "BITS"
+BITS_Titel = "Behörden-IT-Sicherheitstraining"
+Ver = "6.1.1"
+Release = "aus Winter 2021/2022"
+BITS_Password_Length = "acht"
 Einrichtung = "Behörde oder Einrichtung"
 Einrichtungen = "Behörden und Einrichtungen"
 
@@ -110,6 +111,12 @@ weight = 2
 languageName = "English"
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
+
+BITS = "BITS"
+BITS_Titel = "Authority-IT-Security Training"
+Ver = "6.1.1"
+Release = "from winter 2021/2022"
+BITS_Password_Length = "eight"
 Einrichtung = "Authority or institution"
 Einrichtungen = "Authorities or institutions"
 
