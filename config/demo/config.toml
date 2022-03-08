@@ -1,7 +1,8 @@
 ### Konfig-Datei für bits-training.de
 
 [params]
+  #GoatCounter_ID = "bit-training"
   GoatCounter_URL = "https://bits.zaehlschafe.de"
-  GoatCounter_SRC = "static.zaehlschafe.de/count.js"
+  GoatCounter_SRC = "static.zaehlschafe.de"
   Matomo_ID = "8"
   Matomo_URL = "piwik.kommunalagenturnrw.de"
