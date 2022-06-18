@@ -1,10 +1,11 @@
-{{ if .Params.tags }}
+
+{{- if .Params.tags }}
 <div class="tags">
-{{range .Params.tags}}
+{{- range sort .Params.tags }}
   <a class="tag-link" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-{{end}}
+{{- end }}
 </div>
-{{end}}
-{{ if or .Params.icon .CurrentSection.Params.icon }}
+{{- end }}
+{{- if or .Params.icon .CurrentSection.Params.icon }}
 <div id="site-icon" class="{{ if .IsPage }}site-icon-page{{ else }}site-icon-list{{ end }}"><i class="fas fa-{{ or .Params.icon .CurrentSection.Params.icon }}"></i></div>
-{{end}}
+{{- end }}

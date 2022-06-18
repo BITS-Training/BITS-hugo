@@ -1,35 +1,51 @@
-:root{
-    --MAIN-TEXT-color: #323232; /* Color of text by default */
-    --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5-h6 */
-    --MAIN-LINK-color: #095faa; /* Color of links */
-    --MAIN-LINK-HOVER-color: #0d4373; /* Color of hovered links */
-    --MAIN-ANCHOR-color: #095faa; /* color of anchors on titles */
+/* here in this showcase we use our own modified chroma syntax highlightning style;
+   if you want to use a predefined style instead:
+   - remove `markup.highlight.noClasses` from your config.toml
+   - set `markup.highlight.style` to a predefined style name in your config.toml
+   - remove the following `@import` of the self-defined chroma stylesheet */
+@import "chroma-learn.css";
 
-    --MAIN-CODE-color: #e2e4e5; /* fallback color for code background */
-    --MAIN-CODE-BG-color: #282a36; /* fallback color for code text */
+:root {
+    --PRIMARY-color: #1C90F3; /* brand primary color */
+    --SECONDARY-color: #33a1ff; /* brand secondary color */
 
-    --MENU-HOME-LINK-color: #323232; /* Color of the home button text */
-    --MENU-HOME-LINK-HOVER-color: #5e5e5e; /* Color of the hovered home button text */
+    --MAIN-TEXT-color: #323232; /* text color of content and h1 titles */
+    --MAIN-LINK-HOVER-color: #0d4373; /* hoverd link color of content */
+    --MAIN-BG-color: #ffffff; /* background color of content */
+    --MAIN-TITLES-TEXT-color: #5e5e5e; /* text color of h2-h6 titles and transparent box titles */
+
+    /* adjusted to relearn-light chroma style */
+    --CODE-BLOCK-color: #000000; /* fallback text color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BG-color: #f8f8f8; /* fallback background color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BORDER-color: #d8d8d8; /* border color of block code */
+
+    --CODE-INLINE-color: #5e5e5e; /* text color of inline code */
+    --CODE-INLINE-BG-color: #fffae9; /* background color of inline code */
+    --CODE-INLINE-BORDER-color: #f8e8c8; /* border color of inline code */
+
+    --MENU-HOME-LINK-color: #323232; /* home button color if configured */
+    --MENU-HOME-LINK-HOVER-color: #5e5e5e; /* hoverd home button color if configured */
 
     --MENU-HEADER-BG-color: #1C90F3; /* Background color of menu header */
     --MENU-HEADER-BORDER-color: #33a1ff; /*Color of menu header border */
 
-    --MENU-SEARCH-BG-color: #167ad0; /* Search field background color (by default borders + icons) */
-    --MENU-SEARCH-BOX-color: #33a1ff; /* Override search field border color */
-    --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
+    --MENU-SEARCH-color: #ffffff; /* text and icon color of search box */
+    --MENU-SEARCH-BG-color: #167ad0; /* background color of search box */
+    --MENU-SEARCH-BORDER-color: #33a1ff; /* border color of search box */
 
-    --MENU-SECTIONS-ACTIVE-BG-color: #20272b; /* Background color of the active section and its children */
-    --MENU-SECTIONS-BG-color: #252c31; /* Background color of other sections */
-    --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
-    --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6;  /* Color of links in menu, when hovered */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #595959; /* Color of active category text */
-    --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #fff; /* Color of background for the active category (only) */
+    --MENU-SECTIONS-BG-color: #252c31; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+    --MENU-SECTIONS-ACTIVE-BG-color: rgba( 0, 0, 0, .166 ); /* background color of the active menu section */
+    --MENU-SECTIONS-LINK-color: #ccc; /* link color of menu topics */
+    --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6; /* hoverd link color of menu topics */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #595959; /* text color of the displayed menu topic */
+    --MENU-SECTION-HR-color: #20272b; /* separator color of menu footer */
 
     --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
-    --MENU-SECTION-HR-color: #20272b; /* Color of <hr> separator in menu */
 
+    --BOX-CAPTION-color: rgba( 255, 255, 255, 1 ); /* text color of colored box titles */
+    --BOX-BG-color: rgba( 255, 255, 255, .833 ); /* background color of colored boxes */
+    --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
 }
-
 
 /* BITS specific overrites for layout changes */
 body {
@@ -48,16 +64,9 @@ body {
 	text-align: center !important;
 }
 
-#chapter p {
-    text-align: left;
-}
-
-#sidebar ul li li {
-    text-indent: 0rem;
-}
-
-#sidebar h3 {
-    color: var(--MENU-SECTIONS-LINK-color) !important;
+/* fix for https://github.com/McShelby/hugo-theme-relearn/issues/275 */
+div.box > .box-content > :first-child {
+    margin-top: 0 !important;
 }
 
 .site-icon-list {
