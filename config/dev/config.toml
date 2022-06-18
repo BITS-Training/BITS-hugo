@@ -1,6 +1,6 @@
 ### Konfig-Datei für Entwicklungsumgebung
-baseURL = "https://www.bits-training.de/BITS-training-dev/"
+baseURL = "https://bits-training.github.io/training/"
 
 [params]
-  Ver = "6.0-dev"
+  Ver = "6.x.x-dev"
   Release = "bleeding edge testing"
