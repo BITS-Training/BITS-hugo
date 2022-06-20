@@ -87,7 +87,7 @@ div.box > .box-content > :first-child {
 	width: 100px;
 	height: 100px;
 	margin-left: auto;
-	margin-bottom: -4rem;
+	margin-bottom: -6rem;
 }
 
 @media only all and (min-width: 48em) and (max-width: 59.938em) {
@@ -109,7 +109,7 @@ div.box > .box-content > :first-child {
 		width: 50px;
 		height: 50px;
 		margin-left: auto;
-		margin-bottom: -3rem;
+		margin-bottom: -4rem;
 	}
 }
 
@@ -126,12 +126,12 @@ div.box > .box-content > :first-child {
 	}
 
 	.site-icon-page {
-		font-size: 2rem;
+		font-size: 3rem;
 		text-align: right;
 		color: #DCDCDC;
-		width: 30px;
+		width: 40px;
 		height: 30px;
 		margin-left: auto;
-		margin-bottom: -2rem;
+		margin-bottom: -3rem;
 	}
 }
