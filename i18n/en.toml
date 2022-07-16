@@ -3,3 +3,6 @@ other = "Attention"
 
 [tip]
 other = "Good to know"
+
+[Chapter]
+other = "Lesson {{.}}"

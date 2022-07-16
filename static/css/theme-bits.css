@@ -69,69 +69,57 @@ div.box > .box-content > :first-child {
     margin-top: 0 !important;
 }
 
+#site-icon-pre,
+#site-icon-post {
+	float: left;
+	min-height: 1px;
+	width: 10%;
+}
+
+#site-icon-h1 {
+	float: left;
+	width: 80%;
+}
+
+#site-icon-wrap::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
 .site-icon-list {
 	font-size: 5rem;
 	text-align: right;
 	color: var(--MAIN-TITLES-TEXT-color);
-	/*position: relative;*/
-	width: 150px;
-	height: 5rem;
-	margin-left: auto;
-	margin-bottom: -5rem;
+	margin-top: -1rem;
 }
 
 .site-icon-page {
 	font-size: 4rem;
 	text-align: right;
 	color: #DCDCDC;
-	width: 100px;
-	height: 100px;
-	margin-left: auto;
-	margin-bottom: -6rem;
+}
+
+.site-icon-wrap-chapter {
+	margin-bottom: 1rem;
+	border-bottom: 4px solid rgba( 134, 134, 134, .125 );
+}
+
+.site-icon-wrap-chapter h1 {
+	margin-bottom: 0;
+	border-bottom: none !important;	
 }
 
 @media only all and (min-width: 48em) and (max-width: 59.938em) {
 	.site-icon-list {
 		font-size: 4rem;
-		text-align: right;
-		color: var(--MAIN-TITLES-TEXT-color);
-		/*position: relative;*/
-		width: 100px;
-		height: 4rem;
-		margin-left: auto;
-		margin-bottom: -4rem;
 	}
 
-	.site-icon-page {
-		font-size: 3rem;
-		text-align: right;
-		color: #DCDCDC;
-		width: 50px;
-		height: 50px;
-		margin-left: auto;
-		margin-bottom: -4rem;
-	}
 }
 
 @media only all and (max-width: 47.938em) {
 	.site-icon-list {
 		font-size: 3rem;
-		text-align: right;
-		color: var(--MAIN-TITLES-TEXT-color);
-		/*position: relative;*/
-		width: 80px;
-		height: 3rem;
-		margin-left: auto;
-		margin-bottom: -3rem;
 	}
 
-	.site-icon-page {
-		font-size: 3rem;
-		text-align: right;
-		color: #DCDCDC;
-		width: 40px;
-		height: 30px;
-		margin-left: auto;
-		margin-bottom: -3rem;
-	}
 }

@@ -2,7 +2,7 @@
 title: "Einleitung"
 date: 2021-03-06T09:12:20
 draft: false
-weight: 20
+weight: -1
 ---
 
 ## Informationen sind wertvoll

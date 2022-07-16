@@ -1,0 +1,4 @@
+{{ .Params.headingPre | safeHTML }}
+{{- if or .Params.icon .CurrentSection.Params.icon }}
+<div id="site-icon-wrap"{{ if (eq .Params.archetype "chapter") }} class="site-icon-wrap-chapter"{{ end }}><div id="site-icon-pre"></div><div id="site-icon-h1">
+{{- end }}

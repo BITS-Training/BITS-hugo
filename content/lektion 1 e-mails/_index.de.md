@@ -1,14 +1,11 @@
 ---
-title: "Lektion Sicherer Umgang mit E-Mails"
-menuTitle:  "Lektion E-Mails"
+archetype: "chapter"
+title: "E-Mails"
 date: 2021-03-06T09:10:07
-weight: 35
-chapter: true
-pre: "<b>1. </b>"
+weight: 1
 icon: envelope
 ---
 
-# Lektion 1
 ## Sicherer Umgang mit E-Mails
 
 In dieser Lektion lernen Sie,

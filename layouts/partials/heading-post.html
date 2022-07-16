@@ -1,0 +1,4 @@
+{{- if or .Params.icon .CurrentSection.Params.icon }}
+</div><div id="site-icon-post"><div id="site-icon" class="{{ if .IsPage }}site-icon-page{{ else }}site-icon-list{{ end }}"><i class="fas fa-{{ or .Params.icon .CurrentSection.Params.icon }}"></i></div></div></div>
+{{- end }}
+{{ .Params.headingPost | safeHTML }}
