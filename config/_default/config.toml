@@ -1,4 +1,4 @@
-### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben
+### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben oder zur Erstellung der statischen Seiten
 baseURL = "/"
 canonifyURLs = true
 relativeURLs = true
@@ -28,10 +28,11 @@ theme = "hugo-theme-relearn"
   # Hier wird die für BITS angepasste blaue Variante eingestellt
   themeVariant = "bits"
 
+  #Es können VARIABLEN (im Folgenden "Wort-Variablen") verwendet werden, die hier und unten unter [Languages] definiert werden. Änderungen führen beim Erzeugen der HTML-Seiten zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. In den Inhaltsseiten lautet der entsprechende Syntax: {{< param VARIABLE >}}, wobei als VARIABLE z.B. "BITS_Titel" für "Behörden-IT-Sicherheitstraining" steht.
   BITS = "BITS"
   BITS_Titel = "Behörden-IT-Sicherheitstraining"
-  Ver = "6.1.1"
-  Release = "aus Winter 2021/2022"
+  Ver = "6.1.2"
+  Release = "aus Herbst 2022"
   BITS_Password_Length = "acht"
   
   # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
@@ -72,6 +73,7 @@ weight = 1
 languageName = "Deutsch"
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
+ #Die Syntax für Wort-Variablen lautet {{< param VARIABLE >}}, wobei als VARIABLE z.B. "Einrichtung" für "Behörde oder Einrichtung" steht.
 Einrichtung = "Behörde oder Einrichtung"
 Einrichtungen = "Behörden und Einrichtungen"
 
