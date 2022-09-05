@@ -10,7 +10,7 @@ E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
 
 Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Behörden und anderen Einrichtungen angepasst. Mittlerweile liegt die aktualisierte Version 6 vor. Seit 2006 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg, herausgegeben.
 
-Der Quellcode für Hugo ist unter https://github.com/BITS-Training/BITS-hugo kostenfrei verfügbar. Die URL für die Online-Version lautet https://www.bits-training.de. BITS steht unter Creative Commons-Lizenz BY-SA 4.0 und kann beliebig angepasst werden (siehe unten 7.).
+Der Quellcode für BITS ist unter https://github.com/BITS-Training/BITS-hugo kostenfrei verfügbar. Die URL für die Online-Version lautet https://www.bits-training.de. BITS steht unter Creative Commons-Lizenz BY-SA 4.0 und kann beliebig angepasst werden (siehe unten 7.).
 
 ## 2. Ziel
 
@@ -24,6 +24,8 @@ BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mi
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
+Im [BITS-Portal](https://www.bits-portal.eu) befinden sich mehrere leicht verständliche Tutorial-Videos, die alle erforderlichen Schritte umfassend darstellen.
+
 ### Installation
 
 Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
@@ -31,6 +33,8 @@ Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließe
 Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf die Seite index.html (Fileserver-Version) verlinkt werden.
 
 ### Anpassung
+
+Technisch kann die Anpassung von BITS an die lokalen Anforderungen über das direkte Bearbeiten der statischen HTML-Seiten aus den Releases, oder, vorzugsweise, über die Änderung der Markdown-Textdateien, die im BITS-Repository liegen, erfolgen. Für den zweiten Weg empfiehlt sich die Nutzung des Open Source-Werkzeugs hugo in Verbindung mit der Versionsverwaltung Git, um die statischen Webseiten neu zu erstellen. Näheres ist in der [README.md-Datei](https://github.com/BITS-Training/BITS-hugo#readme) beschrieben.
 
 * Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version im Internet veröffentlicht werden soll, auch das Impressum. Diese Daten liegen im Repository unter \content und bei den Release-Versionen auf der obersten Dateiebene (Fileserver-Version) oder in den entsprechenden Unterordnern datenschutz bzw. impressum (Webserver-Version).
 * Vor der Freigabe für die Beschäftigten muss die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver-Version) oder "200-ansprechpersonen.html" (Fileserver-Version). Im Repository liegt sie unter  \content\200 ansprechpersonen.
@@ -98,6 +102,6 @@ Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 ## via GitHub
 
-Der "Quellcode" von [BITS](https://github.com/BITS-Training/BITS-hugo) ist auf GitHub öffentlich verfügbar. Mit [Hugo](https://gohugo.io) kann man daraus die statischen Seiten bauen.
+Der Quellcode von [BITS](https://github.com/BITS-Training/BITS-hugo) ist auf GitHub öffentlich verfügbar. Mit [hugo](https://gohugo.io) kann man daraus die statischen Seiten bauen.
 
 Anregungen, Wünsche und Bugs können einfach mit Hilfe von [Issues](https://github.com/BITS-Training/BITS-hugo/issues) mitgeteilt und besprochen werden. Und wer sich richtig mit Git und GitHub auskennt, kann auch das gesamte Repository forken und Anpassungen selbst vornehmen. Über einen Pull-Request würden wir uns dann sehr freuen.
