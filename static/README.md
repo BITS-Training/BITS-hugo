@@ -43,6 +43,8 @@ Technisch kann die Anpassung von BITS an die lokalen Anforderungen über das dir
 * Variablen wie z.B. die an einigen Stellen empfohlene Mindestpasswortlänge, werden über die Datei config/_default/config.toml gesteuert. Wie diese zu verwenden sind, wird in der Datei ReLearnTheme-HowTo.md im obersten Ordner erläutert. Dies erfordert im Nachgang ein Erzeugen der statischen HTML-Seiten über Hugo.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\static\images\logo.jpg" (Repository) bzw. im Ordner \images (Fileserver-Version und Webserver-Version) oder überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
 
+Farbliche Anpassungen der Links, der Suchbox etc. sind über die Datei static/css/theme-bits.css möglich.
+
 ## 4. Bedienung und technische Anforderungen
 
 Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der URL im Browser (Webserver) oder der „index.html“-Datei (Dateisystem). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.

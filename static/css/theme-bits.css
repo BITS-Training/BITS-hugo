@@ -1,7 +1,7 @@
 :root{
     --MAIN-TEXT-color: #323232; /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5-h6 */
-    --MAIN-LINK-color: #095faa; /* Color of links */
+    --MAIN-LINK-color: #064479; /* Color of links default value #095faa */
     --MAIN-LINK-HOVER-color: #0d4373; /* Color of hovered links */
     --MAIN-ANCHOR-color: #095faa; /* color of anchors on titles */
 
@@ -14,9 +14,9 @@
     --MENU-HEADER-BG-color: #1C90F3; /* Background color of menu header */
     --MENU-HEADER-BORDER-color: #33a1ff; /*Color of menu header border */
 
-    --MENU-SEARCH-BG-color: #167ad0; /* Search field background color (by default borders + icons) */
-    --MENU-SEARCH-BOX-color: #33a1ff; /* Override search field border color */
-    --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
+    --MENU-SEARCH-BG-color: #ffffff; /* Search field background color (by default borders + icons) default value #167ad0 */
+    --MENU-SEARCH-BOX-color: #404040; /* Override search field border color default value #33a1ff*/
+    --MENU-SEARCH-BOX-ICONS-color: #064479; /* Override search field icons color default value #a1d2fd*/
 
     --MENU-SECTIONS-ACTIVE-BG-color: #20272b; /* Background color of the active section and its children */
     --MENU-SECTIONS-BG-color: #252c31; /* Background color of other sections */
