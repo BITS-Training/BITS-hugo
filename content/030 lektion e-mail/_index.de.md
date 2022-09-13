@@ -18,5 +18,5 @@ In dieser Lektion lernen Sie,
   * was Phishing und Pharming bedeuten und warum beide so gefährlich sind,
   * was Spam-E-Mails sind und wie mit ihnen umzugehen ist,
   * wie vertrauliche Informationen zu behandeln sind und was E-Mail-Verschlüsselung ist, und
-  * wie man E-Mails angemessen schreibt - "Net(t)ikette"
+  * wie man E-Mails angemessen schreibt - "Netiquette"
 
