@@ -15,6 +15,7 @@ hugo.exe
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+*.bak
 $RECYCLE.BIN/
 
 # MacOS

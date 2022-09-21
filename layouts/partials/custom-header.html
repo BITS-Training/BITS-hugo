@@ -1,12 +1,35 @@
-
-{{ if eq hugo.Environment "dev" -}}
+{{- if eq hugo.Environment "dev" }}
 	<meta name="date" content="{{ now.Format "02 Jan 06 15:04 MST" }}">
 {{ else }}
 	<meta name="date" content="{{ now.Format "02 Jan 06" }}">
-{{- end }}
-{{ if .HasShortcode "quizdown" -}}
+{{ end }}
+{{- if .HasShortcode "quizdown" }}
     <script src={{ (resources.Get "quizdown/quizdown.js").RelPermalink }}></script>
     <script src={{ (resources.Get "quizdown/extensions/quizdownKatex.js").RelPermalink }}></script>
     <script src={{ (resources.Get "quizdown/extensions/quizdownHighlight.js").RelPermalink }}></script>
     <script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
+{{- end -}}
+{{- $GoatSRC := .Site.Params.GoatCounter_SRC -}}
+{{- with .Site.Params.GoatCounter_ID }}
+    <script data-goatcounter="https://{{.}}.goatcounter.com/count" async src="//{{ $GoatSRC | default "gc.zgo.at/count.js" }}"></script>
+{{- end }}
+{{- with .Site.Params.GoatCounter_URL }}
+    <script data-goatcounter="{{.}}/count" async src="//{{ $GoatSRC | default (urls.Parse .).Host }}/count.js"></script>
+{{- end }}
+{{- $MatomoURL := (print "//" .Site.Params.Matomo_URL "/") -}}
+{{ with .Site.Params.Matomo_ID }}
+	<script>
+		var _paq = window._paq = window._paq || [];
+		_paq.push(["setDoNotTrack", true]);
+		_paq.push(["disableCookies"]);
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function() {
+		  var u={{ $MatomoURL }};
+		  _paq.push(['setTrackerUrl', u+'matomo.php']);
+		  _paq.push(['setSiteId', '{{.|safeJS}}']);
+		  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		  g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+		})();
+	</script>
 {{- end }}

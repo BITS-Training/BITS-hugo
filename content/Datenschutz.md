@@ -34,5 +34,16 @@ Auf das Widerspruchsrecht nach Art. 21 DSGVO wird ausdrücklich hingewiesen.
 
 ### Hosting
 
+Unser Hoster benötigt bestimmte Daten, um die Seiten anzuzeigen und verarbeitet in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
+
 [XX]
 
+Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 Satz 1 lit. f) DSGVO. 
+
+Der Hoster ist Empfänger Ihrer personenbezogenen Daten. Sie werden nach [XX] Tagen gelöscht.
+
+### Tracking
+
+[XX]
+
+{{< matomo >}}

@@ -1,0 +1,5 @@
+{{ $iframeSRC := (print "https://" $.Page.Site.Params.Matomo_URL "/index.php?module=CoreAdminHome&action=optOut&idsite=" $.Page.Site.Params.Matomo_ID "&language=de" ) }}
+{{ $iframeCSS := .Get 0 }}
+{{ with .Site.Params.Matomo_ID }}
+<iframe id="matomoFrame" style="{{ safeCSS ($iframeCSS | default "border: 0px; height: 170px; width: 100% ")}}" src="{{ $iframeSRC | safeHTMLAttr }}"></iframe>
+{{ end }}

@@ -1,4 +1,4 @@
-### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben
+### Default Konfig-Datei mit allen Einstellungen um das BITS-Training mit einem Webserver zu betreiben oder zur Erstellung der statischen Seiten
 baseURL = "/"
 canonifyURLs = true
 relativeURLs = true
@@ -28,11 +28,39 @@ theme = "hugo-theme-relearn"
   # Hier wird die für BITS angepasste blaue Variante eingestellt
   themeVariant = "bits"
 
+  #Es können VARIABLEN (im Folgenden "Wort-Variablen") verwendet werden, die hier und unten unter [Languages] definiert werden. Änderungen führen beim Erzeugen der HTML-Seiten zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. In den Inhaltsseiten lautet der entsprechende Syntax: {{< param VARIABLE >}}, wobei als VARIABLE z.B. "BITS_Titel" für "Behörden-IT-Sicherheitstraining" steht.
   BITS = "BITS"
   BITS_Titel = "Behörden-IT-Sicherheitstraining"
-  Ver = "6.1.1"
-  Release = "aus Winter 2021/2022"
+  Ver = "6.1.2"
+  Release = "aus Herbst 2022"
   BITS_Password_Length = "acht"
+  
+  # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
+  # Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
+  # Benutzertracking über die Open Source-Anwendung GoatCounter
+  # Online service via https://www.goatcounter.com/ oder self-hosted
+  #
+  #CODE für den Online Service, der bei Registrierung zum Tracking angegeben wurde (leer = deaktiviert, auch leer für self-hosted!)
+  GoatCounter_ID = ""
+  #
+  # nur bei self-hosted die folgenden Werte setzen (sonst leer lassen!)
+  # es ist möglich nur GountCounter_SRC zu setzten, wenn das count.js selbst gehostet wird.
+  #URL des Endpoints wo das Script /count aufruft (bsp: "https://count.example.com", /count wird immer angehängt!)
+  GoatCounter_URL = ""
+  #Source für das Script Tag von dem count.js geladen wird (ohne http/https, mit Dateiname, bsp: "count.example.com/count.js", default = GoutCount_URL + "/count.js")
+  GoatCounter_SRC = ""
+
+  # Benutzertracking über die Open Source-Anwendung Matomo
+  # Online service via https://matomo.cloud/ oder self-hosted
+  #
+  #IDSITE der Webseite die in Matomo getrackt werden soll (leer = deaktiviert)
+  Matomo_ID = ""
+  #
+  #URL von der das Tracking Script geladen wird (bsp: "example.matomo.cloud")
+  Matomo_URL = ""
+  #
+  #für weitere Einstellungen/Anpassungen des Trackingscripts siehe -> "\BITS-hugo\layouts\partials\custom-header.html"
+  #Das OptOut-Frame wird über den Shortcode {{< matomo >}} erzeugt. Optional kann ein CSS Style String übergeben werden {{< matomo "border: 2px solid black; height: 170px; width: 100%; background: #fff" >}}
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -45,6 +73,7 @@ weight = 1
 languageName = "Deutsch"
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
+ #Die Syntax für Wort-Variablen lautet {{< param VARIABLE >}}, wobei als VARIABLE z.B. "Einrichtung" für "Behörde oder Einrichtung" steht.
 Einrichtung = "Behörde oder Einrichtung"
 Einrichtungen = "Behörden und Einrichtungen"
 

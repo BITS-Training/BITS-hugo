@@ -1,6 +1,20 @@
 ### Konfig-Datei für Entwicklungsumgebung
-baseURL = "https://www.bits-training.de/BITS-training-dev/"
+baseURL = "https://bits-training.github.io/training/"
 
-[params]
-  Ver = "6.0-dev"
-  Release = "bleeding edge testing"
+[Languages]
+
+[Languages.de]
+title = "TEST BITS | Behörden-IT-Sicherheitstraining"
+
+BITS = "TEST BITS"
+BITS_Titel = "Behörden-IT-Sicherheitstraining"
+Ver = "6.x.x-dev"
+Release = "bleeding edge testing"
+
+[Languages.en]
+title = "BITS | IT security training for public authorities"
+
+BITS = "BITS"
+BITS_Titel = "Authority-IT-Security Training"
+Ver = "6.x.x-dev"
+Release = "bleeding edge testing"
