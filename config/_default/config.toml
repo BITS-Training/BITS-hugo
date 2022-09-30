@@ -28,9 +28,7 @@ theme = "hugo-theme-relearn"
   disableLanguageSwitchingButton = true
   disableLandingPageButton = true
   titleSeparator = "::"
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  # Hier wird die für BITS angepasste blaue Variante eingestellt
-  themeVariant = "bits"
+  themeVariant = [ "bits", "bits-dark", "bits-highcontrast"]
 
   # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
   # Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
