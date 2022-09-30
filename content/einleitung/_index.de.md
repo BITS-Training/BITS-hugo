@@ -19,7 +19,7 @@ Und schließlich ist die **Verfügbarkeit** von Informationen zu gewährleisten 
 
 Bitte unterschätzen Sie dabei nicht, welche Bedeutung Informationen über Ihre Person für Angreifende haben können! Oft sucht man sich ein vermeintlich schwaches Glied in der Kette, um diese darüber zu brechen.
 
-Das {{< param BITS_Titel >}} {{< param BITS >}} erläutert allgemein anerkannte Sicherheitsrichtlinien und vermittelt konkrete Verhaltenshinweise zum praktischen Umgang mit Informationen. Bitte beachten Sie, dass Dienstanweisungen oder -vereinbarungen Ihrer {{< param Einrichtung >}} stets Vorrang haben. Im Zweifel wenden Sie sich bitte an die zuständige [Ansprechperson]({{< ref "/200 ansprechpersonen/" >}}).
+Das {{< param BITS_Titel >}} {{< param BITS >}} erläutert allgemein anerkannte Sicherheitsrichtlinien und vermittelt konkrete Verhaltenshinweise zum praktischen Umgang mit Informationen. Bitte beachten Sie, dass Dienstanweisungen oder -vereinbarungen Ihrer {{< param Einrichtung >}} stets Vorrang haben. Im Zweifel wenden Sie sich bitte an die zuständige [Ansprechperson]({{< ref "/ansprechpersonen/" >}}).
 
 Nach diesem Training werden Sie wissen, wie Sie sich richtig am Computer, am Smartphone und im Internet verhalten. Nutzen Sie Ihr Wissen auch für den privaten Bereich, es drohen überall die gleichen Gefahren!
 
