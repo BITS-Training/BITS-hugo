@@ -64,11 +64,6 @@ body {
 	text-align: center !important;
 }
 
-/* fix for https://github.com/McShelby/hugo-theme-relearn/issues/275 */
-div.box > .box-content > :first-child {
-    margin-top: 0 !important;
-}
-
 #site-icon-pre,
 #site-icon-post {
 	float: left;
