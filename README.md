@@ -73,6 +73,8 @@ Mit folgenden Befehlen werden anschließend im Unterverzeichnis "public" von hug
 	hugo --environment html --cleanDestinationDir
 	```
 
+Die "create-release.bat" erzeugt aus einem Tag automatisch die beiden ZIP-Dateien für die github-Releases.
+
 ## Weitere Infos
 
 Hinweise zur Installation der Releases und den sinnvollen lokalen Anpassungen der Inhalte und des Layouts liegen hier:
