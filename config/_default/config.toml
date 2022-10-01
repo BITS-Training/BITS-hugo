@@ -44,7 +44,7 @@ theme = "hugo-theme-relearn"
   # es ist möglich nur GountCounter_SRC zu setzten, wenn das count.js selbst gehostet wird.
   #URL des Endpoints wo das Script /count aufruft (bsp: "https://count.example.com", /count wird immer angehängt!)
   GoatCounter_URL = ""
-  #Source für das Script Tag von dem count.js geladen wird (ohne http/https, mit Dateiname, bsp: "count.example.com/count.js", default = GoutCount_URL + "/count.js")
+  #Source für das Script Tag von dem count.js geladen wird (ohne http/https, mit Dateiname, bsp: "count.example.com/count.js", default = GoutCounter_URL, /count.js wird immer angehängt!)
   GoatCounter_SRC = ""
 
   # Benutzertracking über die Open Source-Anwendung Matomo
