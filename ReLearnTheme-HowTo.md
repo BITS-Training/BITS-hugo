@@ -8,20 +8,32 @@ Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS �
 
 ## 1. Variablen und Parameter (hinterlegt in config/_default/config.toml)
 
+In der Konfig-Datei sind verschiedene Variablen hinterlegt. Änderungen führen beim Erzeugen der HTML-Seiten zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. 
+
+### Metadaten
+
+Die Variablen für die Metadaten in den HTML-Dateien werden hier zentral definiert.
+
+#### Abschnitt [params] für Standardsprache
+
+- description
+- author
+
+#### Abschnitt [Languages.xy] sprachabhängig
+
+- title = "BITS | Behörden-IT-Sicherheitstraining"
+
 ### Textvariablen
 
-In der Datei config/_default/config.toml sind verschiedene Variablen hinterlegt. Änderungen führen beim Erzeugen der HTML-Seiten zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. In den Inhaltsseiten lautet der entsprechende Syntax: {{< param VARIABLE >}}.
+Sie werden im geamten Inhalt verwendet und können bei Bedarf zentral verändert werden. In den Inhaltsseiten lautet der entsprechende Syntax: {{< param VARIABLE >}}.
 
-#### Abschnitt [params]
+#### Abschnitt [Languages.xy] sprachabhängig
 
- -  BITS = "BITS"
- -  BITS_Titel = "Behörden-IT-Sicherheitstraining"
- -  Ver = "6.0.3"
- -  Release = "aus Winter 2021/2022
- -  BITS_Password_Length = "acht"
-
-#### Abschnitt [Languages.de]
-
+- BITS = "BITS"
+- BITS_Titel = "Behörden-IT-Sicherheitstraining"
+- Ver = "6.1.2"
+- Release = "aus Herbst 2022"
+- BITS_Password_Length = "acht"
 - Einrichtung = "Behörde oder Einrichtung"
 - Einrichtungen = "Behörden und Einrichtungen"
 
@@ -47,15 +59,15 @@ Schutzziele der Informationssicherheit:
 
  - zu Lektionen
 
-	``[Viren]({{< ref "/040 lektion viren" >}})``
+	``[Viren]({{< ref "/02 lektion viren" >}})``
 
  - zu Unterseiten
-``[Viren]({{< ref "/040 lektion viren/05.Risiko-und-Schaeden.de.md" >}})``
+``[Viren]({{< ref "/02 lektion viren/05.Risiko-und-Schaeden.de.md" >}})``
 
 ``[Informationen]({{< ref "02.Dokumente-und-Informationen.de.md" >}})``
 
  - zu Ansprechperson
-``[Ansprechperson]({{< ref "/200 ansprechpersonen/" >}})``
+``[Ansprechperson]({{< ref "/ansprechpersonen/" >}})``
 ## 4. Quiz
 
 ### Fragen und Antworten sortieren
