@@ -50,6 +50,7 @@
 /* BITS specific overrites for layout changes */
 body {
     font-size: 18px !important;
+    hyphens: auto;
 }
 
 #chapter #body-inner.body-404 {
