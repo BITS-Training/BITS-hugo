@@ -51,7 +51,11 @@ Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den 
 
 BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern Edge, Vivaldi, Firefox und Chrome getestet. Der MS Internet Explorer wird nicht unterstützt.
 
-## 5. Gewinnspiel
+## 5. Statistische Auswertungen
+
+BITS ist auf die Nutzung von [Matomo](https://matomo.org) und [Goatcounter](https://www.goatcounter.com) zu statistischen, anonymisierten Nutzungsauswertungen vorbereitet. Die entsprechenden Open-Source-Dienste müssen in XXX konfiguriert werden.
+
+## 6. Gewinnspiel
 
 Es besteht die Möglichkeit, dass bei den Quizzes am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch den Nutzer innerhalb eines Gewinnspiels der Behörde eingesendet werden, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
 
@@ -59,12 +63,12 @@ Dazu muss in den Ordnern der Lektionen die jeweilige Datei "Quiz" mit einem Text
 
 Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 34 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes. Diesen könnten dann die Nutzer:innen im Rahmen einer Awareness-Kampagne per E-Mail einsenden um einer Verlosung, z.B. von Kino-Gutscheinen, teilzunehmen.
 
-## 6. BITS-Portal
+## 7. BITS-Portal
 
 Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu zur Verfügung. Dort werden neue Funktionen und Inhalte vorgestellt. Außerdem steht dort ein Newsletter zum Abonnieren bereit.
 
 
-## 7. Rechtliches
+## 8. Rechtliches
 
 „BITS Behörden-IT-Sicherheitstraining“ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security GmbH, herausgegeben wurde.
 
@@ -96,7 +100,7 @@ Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die L
 
 Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
-# 8. Feedback
+# 9. Feedback
 
 ## via E-Mail
 
@@ -107,3 +111,6 @@ Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 Der Quellcode von [BITS](https://github.com/BITS-Training/BITS-hugo) ist auf GitHub öffentlich verfügbar. Mit [hugo](https://gohugo.io) kann man daraus die statischen Seiten bauen.
 
 Anregungen, Wünsche und Bugs können einfach mit Hilfe von [Issues](https://github.com/BITS-Training/BITS-hugo/issues) mitgeteilt und besprochen werden. Und wer sich richtig mit Git und GitHub auskennt, kann auch das gesamte Repository forken und Anpassungen selbst vornehmen. Über einen Pull-Request würden wir uns dann sehr freuen.
+
+## via IT-SiBe-Forum
+Beschäftigte aus dem öffentlichen Dienst, die im Bereich der Informationssicherheit tätig sind, können sich im [IT-Sicherheitsbeauftragten-Forum](https://it-sibe-forum.de) und dem dortigen [Unterforum](https://it-sibe-forum.de/index.php?board=98.0) zu BITS austauschen.
