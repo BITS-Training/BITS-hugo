@@ -19,7 +19,7 @@ Für die Versionspflege und zur lokalen Verwaltung der Daten sollte als erstes d
 
 Git ist für die gängigsten Betriebsysteme u.a. unter [https://git-scm.com/downloads](https://git-scm.com/downloads) verfügbar. 
 
-hugo steht bei [GitHub](https://github.com/gohugoio/hugo/releases) zum Download bereit.
+hugo steht bei [GitHub](https://github.com/gohugoio/hugo/releases) zum Download bereit. Für die Nutzung mit BITS muss mindestens die Version v0.100.0 installiert sein.
 
 Anschließend muss hugo installiert werden, siehe die [Installationsanweisungen](https://gohugo.io/getting-started/installing/) auf der hugo-Homepage. 
 
@@ -73,7 +73,7 @@ Mit folgenden Befehlen werden anschließend im Unterverzeichnis "public" von hug
 	hugo --environment html --cleanDestinationDir
 	```
 
-Die "create-release.bat" erzeugt aus einem Tag automatisch die beiden ZIP-Dateien für die github-Releases.
+Die "create-release.bat" im Repository erzeugt aus einem Tag automatisch die beiden ZIP-Dateien für die github-Releases.
 
 ## Weitere Infos
 
