@@ -20,4 +20,4 @@ Für das Quiz muss auf der jeweils ersten Seite über die Tabulator-Taste der An
 
 ## Kontrast
 
-Die Kontrast-Darstellung wurde weitestgehend barrierefrei gestaltet.
+Die Kontrast-Darstellung wurde weitestgehend barrierefrei gestaltet. Im linken Menü kann unten beim Pinsel-Symbol ein besonders deutliche Kontrast-Darstellung ausgewählt werden.
