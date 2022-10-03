@@ -28,7 +28,7 @@ theme = "hugo-theme-relearn"
   disableLanguageSwitchingButton = true
   disableLandingPageButton = true
   titleSeparator = "::"
-  themeVariant = [ "bits", "bits-dark", "bits-highcontrast"]
+  themeVariant = [ "bits-normal", "bits-dark-mode", "bits-high-contrast"]
 
   # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
   # Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
