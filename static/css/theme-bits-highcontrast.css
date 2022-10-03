@@ -1,0 +1,127 @@
+/* here in this showcase we use our own modified chroma syntax highlightning style;
+   if you want to use a predefined style instead:
+   - remove `markup.highlight.noClasses` from your config.toml
+   - set `markup.highlight.style` to a predefined style name in your config.toml
+   - remove the following `@import` of the self-defined chroma stylesheet */
+@import "chroma-learn.css";
+
+:root {
+    --PRIMARY-color: #1C90F3; /* brand primary color */
+    --SECONDARY-color: #33a1ff; /* brand secondary color */
+
+    --MAIN-TEXT-color: #000000; /* text color of content and h1 titles */
+    --MAIN-LINK-color: #1a53ff; /* not --INTERNAL-SECONDARY-color */
+    --MAIN-LINK-HOVER-color: #0033cc;
+    --MAIN-BG-color: #ffffff; /* background color of content */
+    --MAIN-TITLES-TEXT-color: #0a0a0a; /* text color of h2-h6 titles and transparent box titles */
+
+    /* adjusted to relearn-light chroma style */
+    --CODE-BLOCK-color: #000000; /* fallback text color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BG-color: #f8f8f8; /* fallback background color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BORDER-color: #d8d8d8; /* border color of block code */
+
+    --CODE-INLINE-color: #5e5e5e; /* text color of inline code */
+    --CODE-INLINE-BG-color: #fffae9; /* background color of inline code */
+    --CODE-INLINE-BORDER-color: #f8e8c8; /* border color of inline code */
+
+    --MENU-HOME-LINK-color: #323232; /* home button color if configured */
+    --MENU-HOME-LINK-HOVER-color: #5e5e5e; /* hoverd home button color if configured */
+
+    --MENU-HEADER-BG-color: #1C90F3; /* Background color of menu header */
+    --MENU-HEADER-BORDER-color: #33a1ff; /*Color of menu header border */
+
+    --MENU-SEARCH-color: #000000; /* text and icon color of search box */
+    --MENU-SEARCH-BG-color: #ffffff; /* background color of search box */
+    --MENU-SEARCH-BORDER-color: #33a1ff; /* border color of search box */
+
+    --MENU-SECTIONS-BG-color: #21272c; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+    --MENU-SECTIONS-ACTIVE-BG-color: rgba( 0, 0, 0, .166 ); /* background color of the active menu section */
+    --MENU-SECTIONS-LINK-color: #eee; /* link color of menu topics */
+    --MENU-SECTIONS-LINK-HOVER-color: #f9f9f9; /* hoverd link color of menu topics */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #595959; /* text color of the displayed menu topic */
+    --MENU-SECTION-HR-color: #20272b; /* separator color of menu footer */
+
+    --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
+
+    --BOX-CAPTION-color: rgba( 0, 0, 0, 1 ); /* text color of colored box titles */
+    --BOX-BG-color: rgba( 255, 255, 255, .533 ); /* background color of colored boxes */
+    --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
+}
+
+/* BITS specific overrites for layout changes */
+body {
+    font-size: 20px !important;
+	font-weight: 400;
+    hyphens: auto;
+}
+
+#chapter #body-inner.body-404 {
+	padding-bottom: 0rem;
+}
+
+#body-inner.body-404 {
+	margin-bottom: 0rem;
+}
+
+.body-404 p {
+	text-align: center !important;
+}
+
+.searchbox label {
+    color: rgba( 0, 0, 0, .8 );
+}
+
+#site-icon-pre,
+#site-icon-post {
+	float: left;
+	min-height: 1px;
+	width: 10%;
+}
+
+#site-icon-h1 {
+	float: left;
+	width: 80%;
+}
+
+#site-icon-wrap::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.site-icon-list {
+	font-size: 5rem;
+	text-align: right;
+	color: var(--MAIN-TITLES-TEXT-color);
+	margin-top: -1rem;
+}
+
+.site-icon-page {
+	font-size: 4rem;
+	text-align: right;
+	color: #939393;
+}
+
+.site-icon-wrap-chapter {
+	margin-bottom: 1rem;
+	border-bottom: 4px solid rgba( 134, 134, 134, .125 );
+}
+
+.site-icon-wrap-chapter h1 {
+	margin-bottom: 0;
+	border-bottom: none !important;	
+}
+
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
+	.site-icon-list {
+		font-size: 4rem;
+	}
+
+}
+
+@media only all and (max-width: 47.938em) {
+	.site-icon-list {
+		font-size: 3rem;
+	}
+
+}
