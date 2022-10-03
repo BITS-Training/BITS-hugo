@@ -37,7 +37,7 @@ Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf di
 Technisch kann die Anpassung von BITS an die lokalen Anforderungen über das direkte Bearbeiten der statischen HTML-Seiten aus den Releases, oder, vorzugsweise, über die Änderung der Markdown-Textdateien, die im BITS-Repository liegen, erfolgen. Für den zweiten Weg empfiehlt sich die Nutzung des Open Source-Werkzeugs hugo in Verbindung mit der Versionsverwaltung Git, um die statischen Webseiten neu zu erstellen. Näheres ist in der [README.md-Datei](https://github.com/BITS-Training/BITS-hugo#readme) beschrieben.
 
 * Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version im Internet veröffentlicht werden soll, auch das Impressum. Diese Daten liegen im Repository unter \content und bei den Release-Versionen auf der obersten Dateiebene (Fileserver-Version) oder in den entsprechenden Unterordnern datenschutz bzw. impressum (Webserver-Version).
-* Vor der Freigabe für die Beschäftigten muss die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\200-ansprechpersonen\index.html" (Webserver-Version) oder "200-ansprechpersonen.html" (Fileserver-Version). Im Repository liegt sie unter  \content\200 ansprechpersonen.
+* Vor der Freigabe für die Beschäftigten muss die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\ansprechpersonen\index.html" (Webserver-Version) oder "ansprechpersonen.html" (Fileserver-Version). Im Repository liegt sie unter  \content\ansprechpersonen.
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (File-Server) bzw. \content\Weitere-Informationen.md (Repository) verlinkt werden.
 * Variablen wie z.B. die an einigen Stellen empfohlene Mindestpasswortlänge, werden über die Datei config/_default/config.toml gesteuert. Wie diese zu verwenden sind, wird in der Datei ReLearnTheme-HowTo.md im obersten Ordner erläutert. Dies erfordert im Nachgang ein Erzeugen der statischen HTML-Seiten über Hugo.
@@ -53,7 +53,7 @@ BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktivi
 
 ## 5. Statistische Auswertungen
 
-BITS ist auf die Nutzung von [Matomo](https://matomo.org) und [Goatcounter](https://www.goatcounter.com) zu statistischen, anonymisierten Nutzungsauswertungen vorbereitet. Die entsprechenden Open-Source-Dienste müssen in XXX konfiguriert werden.
+BITS ist auf die Nutzung von [Matomo](https://matomo.org) und [Goatcounter](https://www.goatcounter.com) zu statistischen, anonymisierten Nutzungsauswertungen vorbereitet. Dies erfordert ein Erzeugen der statischen HTML-Seiten über Hugo. Die jeweilige Konfiguration der beiden Dienste ist in der Datei \config\_default\config.toml dokumentiert.
 
 ## 6. Gewinnspiel
 
@@ -100,17 +100,17 @@ Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die L
 
 Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
-# 9. Feedback
+## 9. Feedback
 
-## via E-Mail
+### via E-Mail
 
 Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan ([g@backbeat.eu](mailto:g@backbeat.eu)) gerne entgegen. 
 
-## via GitHub
+### via GitHub
 
 Der Quellcode von [BITS](https://github.com/BITS-Training/BITS-hugo) ist auf GitHub öffentlich verfügbar. Mit [hugo](https://gohugo.io) kann man daraus die statischen Seiten bauen.
 
 Anregungen, Wünsche und Bugs können einfach mit Hilfe von [Issues](https://github.com/BITS-Training/BITS-hugo/issues) mitgeteilt und besprochen werden. Und wer sich richtig mit Git und GitHub auskennt, kann auch das gesamte Repository forken und Anpassungen selbst vornehmen. Über einen Pull-Request würden wir uns dann sehr freuen.
 
-## via IT-SiBe-Forum
+### via IT-SiBe-Forum
 Beschäftigte aus dem öffentlichen Dienst, die im Bereich der Informationssicherheit tätig sind, können sich im [IT-Sicherheitsbeauftragten-Forum](https://it-sibe-forum.de) und dem dortigen [Unterforum](https://it-sibe-forum.de/index.php?board=98.0) zu BITS austauschen.
