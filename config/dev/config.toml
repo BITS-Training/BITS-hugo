@@ -12,9 +12,9 @@ Ver = "6.x.x-dev"
 Release = "bleeding edge testing"
 
 [Languages.en]
-title = "BITS | IT security training for public authorities"
+title = "TEST BITS | IT security training for public authorities"
 
-BITS = "BITS"
+BITS = "TEST BITS"
 BITS_Titel = "Authority-IT-Security Training"
 Ver = "6.x.x-dev"
 Release = "bleeding edge testing"
