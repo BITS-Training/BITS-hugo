@@ -20,7 +20,7 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen veröffentlicht: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen sind auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys abgelegt. Die Fileserver-Version unterstützt nicht die integrierte Suche.
+BITS wird in zwei Versionen angeboten: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen werden auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys veröffentlicht. Die Fileserver-Version unterstützt nicht die integrierte Suche.
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
@@ -28,28 +28,29 @@ Im [BITS-Portal](https://www.bits-portal.eu) befinden sich mehrere leicht verst�
 
 ### Installation
 
-Die Release-ZIP entpacken und die benötigten Anpassungen vornehmen ,anschließend alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung kopieren.
+Die Release-ZIPs mit den HTML-Dateien sind zu entpacken und die benötigten Anpassungen vorzunehmen, anschließend snid alle Dateien in das Verzeichnis des Webservers oder in den Ordner für die Veröffentlichung zu kopieren.
 
-Als Startseite kann direkt auf den Root-Ordner / (Webserver-Version) bzw. auf die Seite index.html (Fileserver-Version) verlinkt werden.
+Als Startseite kann direkt auf den Root-Ordner (Webserver-Version) bzw. auf die Seite index.html (Fileserver-Version) verlinkt werden.
 
 ### Anpassung
 
 Technisch kann die Anpassung von BITS an die lokalen Anforderungen über das direkte Bearbeiten der statischen HTML-Seiten aus den Releases, oder, vorzugsweise, über die Änderung der Markdown-Textdateien, die im BITS-Repository liegen, erfolgen. Für den zweiten Weg empfiehlt sich die Nutzung des Open Source-Werkzeugs hugo in Verbindung mit der Versionsverwaltung Git, um die statischen Webseiten neu zu erstellen. Näheres ist in der [README.md-Datei](https://github.com/BITS-Training/BITS-hugo#readme) beschrieben.
 
-* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version im Internet veröffentlicht werden soll, auch das Impressum. Diese Daten liegen im Repository unter \content und bei den Release-Versionen auf der obersten Dateiebene (Fileserver-Version) oder in den entsprechenden Unterordnern datenschutz bzw. impressum (Webserver-Version).
+* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version im Internet veröffentlicht werden soll, auch das Impressum. Diese Daten liegen im Repository unter \content und bei den Release-Versionen auf der obersten Dateiebene (Fileserver-Version) oder in den entsprechenden Unterordnern datenschutz bzw. impressum (Webserver-Version). Falls man mit hugo arbeitet kann die Impressumsdatei einfach bei fehlendem Bedarf aus den Daten gelöscht werden.
 * Vor der Freigabe für die Beschäftigten muss die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\ansprechpersonen\index.html" (Webserver-Version) oder "ansprechpersonen.html" (Fileserver-Version). Im Repository liegt sie unter  \content\ansprechpersonen.
 * Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
 * Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (File-Server) bzw. \content\Weitere-Informationen.md (Repository) verlinkt werden.
 * Variablen wie z.B. die an einigen Stellen empfohlene Mindestpasswortlänge, werden über die Datei config/_default/config.toml gesteuert. Wie diese zu verwenden sind, wird in der Datei ReLearnTheme-HowTo.md im obersten Ordner erläutert. Dies erfordert im Nachgang ein Erzeugen der statischen HTML-Seiten über Hugo.
 * Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\static\images\logo.jpg" (Repository) bzw. im Ordner \images (Fileserver-Version und Webserver-Version) oder überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
-
-Farbliche Anpassungen der Links, der Suchbox etc. sind über die Datei static/css/theme-bits.css möglich.
+* Farbliche Anpassungen der Links, der Suchbox etc. sind über die Datei static/css/theme-bits.css möglich.
 
 ## 4. Bedienung und technische Anforderungen
 
-Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der URL im Browser (Webserver) oder der „index.html“-Datei (Dateisystem). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
+Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf des Root-Ordners (Webserver-Version) oder der „index.html“-Datei (Fileserver-Version) im Browser durch die Beschäftigten. Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
 BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern Edge, Vivaldi, Firefox und Chrome getestet. Der MS Internet Explorer wird nicht unterstützt.
+
+Im Hauptmenü stehen links unten drei Kontraststufen zur individuellen Auswahl bereit.
 
 ## 5. Statistische Auswertungen
 
@@ -57,7 +58,7 @@ BITS ist auf die Nutzung von [Matomo](https://matomo.org) und [Goatcounter](http
 
 ## 6. Gewinnspiel
 
-Es besteht die Möglichkeit, dass bei den Quizzes am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch den Nutzer innerhalb eines Gewinnspiels der Behörde eingesendet werden, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
+Es besteht die Möglichkeit, dass bei den Quizzes am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch die Beschäftigten innerhalb eines Gewinnspiels der Behörde oder Einrichtung an eine interne Stelle eingesendet werden und eine Losziehung erfolgt, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
 
 Dazu muss in den Ordnern der Lektionen die jeweilige Datei "Quiz" mit einem Text-Editor geöffnet werden. Dort ist dann bei der jeweiligen Zeile "Richtige Antwort" der gewünschte Lösungsbuchstaben (ggf. auch ein Sonderzeichen wie Unterstrich oder Komma) zu hinterlegen, also z.B. "Richtige Antwort. Notieren Sie sich den Lösungsbuchstaben **B**".
 
@@ -74,7 +75,7 @@ Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu
 
 Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
 
-Die technische Realisierung erfolgt durch Herrn Werner Eising und durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
+Die technische Realisierung erfolgt durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
 
 Das verwendete [hugo-Framework](https://gohugo.io/) steht unter der [Apache-Lizenz, v2.0](https://www.apache.org/licenses/LICENSE-2.0), das [Relearn-Theme](https://themes.gohugo.io/hugo-theme-relearn/) und das [Quiz](https://bonartm.github.io/hugo-quiz/) inkl. [quizdown-js](https://github.com/bonartm/quizdown-js) unter der [MIT-Lizenz](https://opensource.org/licenses/MIT). Die Icons stammen von https://fontawesome.com und sind Open Source. Das Bild auf der 404-Fehlerseite ist open source: Photo by [Donald Giannatti](https://unsplash.com/@wizwow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadend?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 

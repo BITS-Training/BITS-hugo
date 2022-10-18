@@ -1,14 +1,14 @@
 # Relearn-Theme - HowTo
 
-Stand 17.01.2022
+Stand 01.10.2022
 
 ## O. Einleitung
 
-Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS über hugo und das Relearn-Theme angepasst werden kann.
+Dieses Dokument beschreibt, welche Anpassungsmöglichkeiten es gibt, wenn BITS über hugo und das Relearn-Theme angepasst werden.
 
 ## 1. Variablen und Parameter (hinterlegt in config/_default/config.toml)
 
-In der Konfig-Datei sind verschiedene Variablen hinterlegt. Änderungen führen beim Erzeugen der HTML-Seiten zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. 
+In der Datei config/_default/config.toml verschiedene Variablen hinterlegt. Änderungen führen beim Erzeugen der HTML-Seiten über hugo zum Austausch des entsprechenden Wertes auf allen betroffenen Seiten. 
 
 ### Metadaten
 
@@ -25,20 +25,20 @@ Die Variablen für die Metadaten in den HTML-Dateien werden hier zentral definie
 
 ### Textvariablen
 
-Sie werden im geamten Inhalt verwendet und können bei Bedarf zentral verändert werden. In den Inhaltsseiten lautet der entsprechende Syntax: {{< param VARIABLE >}}.
+Textvariablen werden im geamten Inhalt verwendet und können bei Bedarf hier zentral verändert werden. In den Inhaltsseiten lautet die entsprechende Syntax der Variablen: {{< param VARIABLE >}}.
 
 #### Abschnitt [Languages.xy] sprachabhängig
 
 - BITS = "BITS"
 - BITS_Titel = "Behörden-IT-Sicherheitstraining"
-- Ver = "6.1.2"
+- Ver = "6.2.0"
 - Release = "aus Herbst 2022"
 - BITS_Password_Length = "acht"
 - Einrichtung = "Behörde oder Einrichtung"
 - Einrichtungen = "Behörden und Einrichtungen"
 
 ## 2. Notizen
-
+Die Notizen sind die farbigen Kästen mit Hinweisen.
  - Anmerkung (orange) = das was in BITS v5 links stand
 ```
 {{% notice note %}}
@@ -93,7 +93,9 @@ Als Voreinstellung sind die Fragen in ihrer Reihenfolge fest ("Shuffle Questions
 ```
 
 ## 5. Aufklappen von Texten
-```
+
+Um Textblöcke ein- und auszuklappen ist folgende Auszeichnung erforderlich:
+
 {{%expand "Datei-Viren" %}}
 Dies ist ein Beispiel
 {{% /expand %}}
