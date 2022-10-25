@@ -1,0 +1,1 @@
+<span id="{{ with .Get "id" }}{{ . | anchorize }}{{ else }}{{ plainify .Inner | anchorize }}{{end}}">{{ .Inner | .Page.RenderString }}</span>
