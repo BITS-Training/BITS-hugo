@@ -20,7 +20,7 @@ Das Training ist kostenlos, anpassbar und vollständig browserbasiert nutzbar.
 
 ## 3. Installation und Anpassung
 
-BITS wird in zwei Versionen angeboten: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick oder SharePoint Verzeichnis) (Dateiname \*fileshare\*). Die Versionen werden auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys veröffentlicht. Die Fileserver-Version unterstützt nicht die integrierte Suche.
+BITS wird in zwei Versionen angeboten: Eine Version für die Verwendung mit einem Webserver (Dateiname \*webroot\*) und eine Version für die Verwendung direkt aus dem Dateisystem (z.B. Fileserver, Dateifreigabe, USB-Stick) (Dateiname \*fileshare\*). Die Versionen werden auf der [Releases-Seite](https://github.com/BITS-Training/BITS-hugo/releases) des GitHub-Repositorys veröffentlicht. Die Fileserver-Version unterstützt nicht die integrierte Suche.
 
 Vor der Veröffentlichung sollten einige Dateien auf die eigenen Bedürfnisse angepasst und mit passenden Daten befüllt werden (siehe unten "Anpassung").
 
