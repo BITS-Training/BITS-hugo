@@ -15,4 +15,4 @@ In dieser Lektion lernen Sie,
   * wie Passwörter ausspioniert werden,
   * wie Sie sicher mit Ihren Passwörtern umgehen und sie vor Missbrauch schützen können,
   * welche Passwort-Regeln beachtet werden sollten und
-  * was man unter "Social Engineering" versteht und wie man sich davor schützt.
+  * was man unter „Social Engineering“ versteht und wie man sich davor schützt.

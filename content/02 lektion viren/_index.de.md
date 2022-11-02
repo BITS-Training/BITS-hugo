@@ -15,5 +15,5 @@ In dieser Lektion lernen Sie,
   * welche Risiken bestehen und welche Schäden entstehen können,
   * wie Sie Ihren PC und Ihre {{< param Einrichtung >}} vor Viren schützen können,
   * wie Sie einen Virenbefall erkennen und
-  * was Sie tun sollten, falls "es" doch passiert ist
+  * was Sie tun sollten, falls „es“ doch passiert ist
 
