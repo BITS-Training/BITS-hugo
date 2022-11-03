@@ -78,7 +78,7 @@ Die im Repository enthaltene "create-release.bat" erzeugt aus einem Tag automati
 Hinweise zur Installation der Releases und den sinnvollen lokalen Anpassungen der Inhalte und des Layouts liegen hier:
 https://github.com/BITS-Training/BITS-hugo/blob/main/static/README.md
 
-gugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Relearn-Theme:
+hugo arbeitet mit sog. Themes, die für das Layout zuständig sind. BITS-hugo verwendet das Relearn-Theme:
 https://themes.gohugo.io/themes/hugo-theme-relearn/
 
 Welche Anpassungen über Parameter und Variablen in BITS für das Relearn-Theme hinterlegt sind, steht in dieser Datei:
