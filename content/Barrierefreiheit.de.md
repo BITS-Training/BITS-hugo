@@ -16,7 +16,7 @@ Um zur nächsten Seite zu gelangen, ist die Taste Pfeiltaste nach rechts zu verw
 
 ### Quiz
 
-Für das Quiz muss auf der jeweils ersten Seite über die Tabulator-Taste der Antwort-Block aktiviert werden. Mit den Pfeiltasten kann eine Antwort markiert werden. Anschließend ist über die Tabulator-Taste und die Return-Taste die nächste Aktion auszuwählen und auszulösen. Auf der nächsten Seite muss bei bei gedrückter Umschalt-Taste über die Tabulator-Taste der Antwort-Block angesteuert werden, um über die Pfeiltasten die nächste Antwort zu markieren.
+Auf der ersten Seite jedes Quiz' muss aufgrund eines Bugs in der Version 6.2 der Mauszeiger kurz bewegt werden, bevor die Navigation im Quiz-Block über die Tastatur möglich ist, zunächst über die Tabulator-Taste. Mit den Pfeiltasten kann eine Antwort markiert werden. Anschließend ist über die Tabulator-Taste und die Return-Taste die nächste Aktion auszuwählen und auszulösen. Auf der nächsten Seite muss bei bei gedrückter Umschalt-Taste über die Tabulator-Taste der Antwort-Block angesteuert werden, um über die Pfeiltasten die nächste Antwort zu markieren.
 
 ## Kontrast
 
