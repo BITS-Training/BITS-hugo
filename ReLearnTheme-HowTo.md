@@ -1,6 +1,6 @@
 # Relearn-Theme - HowTo
 
-Stand 01.10.2022
+Stand 01.12.2022
 
 ## O. Einleitung
 

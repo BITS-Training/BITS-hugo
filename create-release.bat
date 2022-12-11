@@ -36,6 +36,16 @@ if "%ERRORLEVEL%" == "1" (
 del ..\BITS-%1-webroot\CNAME
 
 echo.
+echo Komprimiere BITS-%1-webroot
+"c:\Program Files\7-Zip\7z.exe" -tzip a ..\BITS-%1-webroot.zip ..\BITS-%1-webroot\*
+if "%ERRORLEVEL%" == "1" (
+  echo Fehler beim komprimieren der 'webroot' Version. Bitte pruefen!
+  pause
+  exit 1
+)  
+rd /s/q ..\BITS-%1-webroot\
+
+echo.
 echo BITS Release wird in den Verzeichnissen '..\BITS-%1-fileshare' erstellt...
 hugo --environment html --cleanDestinationDir --destination ..\BITS-%1-fileshare
 if "%ERRORLEVEL%" == "1" (
@@ -44,6 +54,24 @@ if "%ERRORLEVEL%" == "1" (
   exit 1
 )  
 del ..\BITS-%1-fileshare\CNAME
+
+echo.
+echo Komprimiere BITS-%1-fileshare
+"c:\Program Files\7-Zip\7z.exe" -tzip a ..\BITS-%1-fileshare.zip ..\BITS-%1-fileshare\*
+if "%ERRORLEVEL%" == "1" (
+  echo Fehler beim komprimieren der 'fileshare' Version. Bitte pruefen!
+  pause
+  exit 1
+)  
+rd /s/q ..\BITS-%1-fileshare\
+
+echo.
+echo erstelle MD5SUM Hashes
+md5sum ../BITS-*.zip >..\BITS-%1.md5
+if "%ERRORLEVEL%" == "1" (
+  echo Fehler beim erstellen der MD5SUM. Bitte pruefen!
+  pause
+)
 
 echo "vorheriger Branch %CURBR% wird wieder ausgecheckt..."
 git checkout %CURBR%

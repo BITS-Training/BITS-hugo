@@ -2,7 +2,7 @@
 
 [params]
   GoatCounter_URL = "https://bits.zaehlschafe.de"
-  GoatCounter_SRC = "//static.zaehlschafe.de/count.js"
+  GoatCounter_SRC = "static.zaehlschafe.de/count.js"
 
   Matomo_ID = "8"
   Matomo_URL = "piwik.kommunalagenturnrw.de"
