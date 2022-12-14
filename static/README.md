@@ -48,7 +48,7 @@ Technisch kann die Anpassung von BITS an die lokalen Anforderungen über das dir
 
 Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf des Root-Ordners (Webserver-Version) oder der „index.html“-Datei (Fileserver-Version) im Browser durch die Beschäftigten. Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
-BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern Edge, Vivaldi, Firefox und Chrome getestet. Der MS Internet Explorer wird nicht unterstützt.
+BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Edge, Vivaldi, Firefox und Chrome sowie Safari getestet. Der MS Internet Explorer wird nicht unterstützt.
 
 Im Hauptmenü stehen links unten drei Kontraststufen zur individuellen Auswahl bereit.
 
