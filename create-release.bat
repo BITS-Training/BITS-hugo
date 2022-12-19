@@ -37,7 +37,7 @@ del ..\BITS-%1-webroot\CNAME
 
 echo.
 echo Komprimiere BITS-%1-webroot
-"c:\Program Files\7-Zip\7z.exe" -tzip a ..\BITS-%1-webroot.zip ..\BITS-%1-webroot\*
+"c:\Program Files\7-Zip\7z.exe" -tzip -mx9 a ..\BITS-%1-webroot.zip ..\BITS-%1-webroot\*
 if "%ERRORLEVEL%" == "1" (
   echo Fehler beim komprimieren der 'webroot' Version. Bitte pruefen!
   pause
@@ -57,7 +57,7 @@ del ..\BITS-%1-fileshare\CNAME
 
 echo.
 echo Komprimiere BITS-%1-fileshare
-"c:\Program Files\7-Zip\7z.exe" -tzip a ..\BITS-%1-fileshare.zip ..\BITS-%1-fileshare\*
+"c:\Program Files\7-Zip\7z.exe" -tzip -mx9 a ..\BITS-%1-fileshare.zip ..\BITS-%1-fileshare\*
 if "%ERRORLEVEL%" == "1" (
   echo Fehler beim komprimieren der 'fileshare' Version. Bitte pruefen!
   pause
