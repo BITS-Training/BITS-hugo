@@ -6,7 +6,7 @@ weight: 6
 icon: share-square
 ---
 
-## Sicherer Umgang mit Soziale Medien
+## Sicherer Umgang mit Sozialen Medien
 
 In dieser Lektion lernen Sie,
 
