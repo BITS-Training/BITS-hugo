@@ -66,9 +66,10 @@ home = [ "HTML", "RSS", "JSON"]
 title = "BITS | Behörden-IT-Sicherheitstraining"
 weight = 1
 languageName = "Deutsch"
+
+[Languages.de.params]
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
-
 BITS = "BITS"
 BITS_Titel = "Behörden-IT-Sicherheitstraining"
 Ver = "6.2.2"
@@ -111,9 +112,10 @@ title = "BITS | IT security training for public authorities"
 description = "BITS, the free IT security training for public authorities, was created by the Information Technology Working Group of the Association of Towns and Municipalities in North Rhine-Westphalia as a web-based learning course for employees in public authorities and other institutions. It serves to inform and sensitize colleagues at IT workstations with regard to relevant security topics."
 weight = 2
 languageName = "English"
+
+[Languages.en.params]
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
-
 BITS = "BITS"
 BITS_Titel = "Authority-IT-Security Training"
 Ver = "6.2.2"
