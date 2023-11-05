@@ -67,7 +67,8 @@ rd /s/q ..\BITS-%1-fileshare\
 
 echo.
 echo erstelle MD5SUM Hashes
-md5sum ../BITS-*.zip >..\BITS-%1.md5
+powershell -command "get-filehash ..\BITS-*.zip -algorithm md5 | Foreach-Object {$file = $_.Path -split '\\'; write-host $_.hash $file[-1] }">..\BITS-%1.md5
+rem md5sum ../BITS-*.zip >..\BITS-%1.md5
 if "%ERRORLEVEL%" == "1" (
   echo Fehler beim erstellen der MD5SUM. Bitte pruefen!
   pause
