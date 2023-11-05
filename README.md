@@ -1,4 +1,4 @@
-Stand: 01.12.2022
+Stand: 01.12.2023
 
 # BITS - Behörden-IT-Sicherheitstraining
 
