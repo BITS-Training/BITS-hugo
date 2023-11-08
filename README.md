@@ -70,6 +70,7 @@ Mit folgenden Befehlen werden anschließend im Unterverzeichnis "public" von hug
 	```bash
 	hugo --environment html --cleanDestinationDir
 	```
+Die erzeugten HTML-Dateien liegen im Ordner "public".
 
 Die im Repository enthaltene "create-release.bat" erzeugt aus einem Tag automatisch die beiden ZIP-Dateien für die GitHub-Releases.
 
