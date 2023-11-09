@@ -14,8 +14,8 @@ disableToc: true
 
 ### Das Sicherheitstraining {{< param BITS >}} ist konzipiert für
 
-  * {{< param Einrichtungen >}}, die ihre Beschäftigten im sicheren Umgang mit dem Computer und dem Internet sensibilisieren wollen
-  * die Beschäftigten von {{< param Einrichtungen >}}, die sich auch über die private sichere Nutzung von Computer und Internet informieren wollen
+  * {{< param Einrichtungen >}}, die ihre Beschäftigten im sicheren Umgang mit der Informationstechnologie (IT) und dem Internet sensibilisieren wollen
+  * Beschäftigte von {{< param Einrichtungen >}}, die sich auch über die private sichere Nutzung von Computer, mobilen Geräten und Internet informieren wollen
 
     
 
