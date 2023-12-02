@@ -10,10 +10,10 @@ icon: virus
 
 In dieser Lektion lernen Sie,
 
-  * was ein Computervirus eigentlich ist und welche Typen von Viren existieren,
+  * was ein Computervirus ist und welche Typen von Viren existieren,
   * welche Infektionswege es gibt,
   * welche Risiken bestehen und welche Schäden entstehen können,
-  * wie Sie Ihren PC und Ihre {{< param Einrichtung >}} vor Viren schützen können,
+  * wie Sie Ihren Computer und Ihre {{< param Einrichtung >}} vor Viren schützen können,
   * wie Sie einen Virenbefall erkennen und
   * was Sie tun sollten, falls „es“ doch passiert ist
 

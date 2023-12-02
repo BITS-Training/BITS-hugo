@@ -1,4 +1,4 @@
-Stand: 01.12.2022
+Stand: 08.12.2023
 
 # BITS - Behörden-IT-Sicherheitstraining
 
@@ -19,7 +19,7 @@ Für die Versionspflege und zur lokalen Verwaltung der Daten sollte als erstes d
 
 Git ist für die gängigsten Betriebsysteme u.a. unter [https://git-scm.com/downloads](https://git-scm.com/downloads) verfügbar und wird lokal installiert.
 
-hugo steht bei [GitHub](https://github.com/gohugoio/hugo/releases) zum Download bereit und muss für die Nutzung mit BITS mindestens den Versionsstand v0.100.0 haben; siehe auch die  [Installationsanweisungen](https://gohugo.io/getting-started/installing/) auf der hugo-Homepage. 
+hugo steht bei [GitHub](https://github.com/gohugoio/hugo/releases) zum Download bereit und muss für die Nutzung mit BITS mindestens den Versionsstand v0.120.4 haben; siehe auch die  [Installationsanweisungen](https://gohugo.io/getting-started/installing/) auf der hugo-Homepage. 
 
 Die EXE-Datei von hugo sollte, für einfache Verwendung, in einem Pfad gespeichert sein, der in der PATH-Variable des Betriebssystems enthalten ist. Alternativ kann sie auch in das lokale Repository-Verzeichnis nach dem nächsten Schritt kopiert werden.
 
@@ -70,6 +70,7 @@ Mit folgenden Befehlen werden anschließend im Unterverzeichnis "public" von hug
 	```bash
 	hugo --environment html --cleanDestinationDir
 	```
+Die erzeugten HTML-Dateien liegen im Ordner "public".
 
 Die im Repository enthaltene "create-release.bat" erzeugt aus einem Tag automatisch die beiden ZIP-Dateien für die GitHub-Releases.
 
