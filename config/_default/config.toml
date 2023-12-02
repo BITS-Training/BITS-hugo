@@ -15,7 +15,7 @@ theme = "hugo-theme-relearn"
 
 [params]
   description = "BITS, das kostenlose Behörden-IT-Sicherheitstraining, wurde vom Arbeitskreis Informationstechnologie des Städte- und Gemeindebundes NRW als webbasierter Lernkurs für die Beschäftigten in Behörden und anderen Einrichtungen erstellt. Es dient der Information und Sensibilisierung der Kolleginnen und Kollegen an IT-Arbeitsplätzen hinsichtlich der relevanten Sicherheitsthemen."
-  author = "Dr. Lutz Gollan"
+  author.name = "Dr. Lutz Gollan"
   showVisitedLinks = true
   disableSearch = false
   disableSearchHiddenPages = true
@@ -109,11 +109,11 @@ weight = 50
 
 [Languages.en]
 title = "BITS | IT security training for public authorities"
-description = "BITS, the free IT security training for public authorities, was created by the Information Technology Working Group of the Association of Towns and Municipalities in North Rhine-Westphalia as a web-based learning course for employees in public authorities and other institutions. It serves to inform and sensitize colleagues at IT workstations with regard to relevant security topics."
 weight = 2
 languageName = "English"
 
 [Languages.en.params]
+description = "BITS, the free IT security training for public authorities, was created by the Information Technology Working Group of the Association of Towns and Municipalities in North Rhine-Westphalia as a web-based learning course for employees in public authorities and other institutions. It serves to inform and sensitize colleagues at IT workstations with regard to relevant security topics."
 landingPageURL = "/"
 landingPageName = "<i class='fas fa-home'></i> Start"
 BITS = "BITS"
