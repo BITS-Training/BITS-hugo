@@ -1,11 +1,11 @@
 ---
 archetype: "home"
-title: ""
+title: "Wilkommen"
 date: 2021-03-06T09:11:59
 weight: 10
 disableToc: true
 ---
-# Willkommen bei {{< param BITS >}}
+# bei {{< param BITS >}}
 
 # {{< param BITS_Titel >}}
 

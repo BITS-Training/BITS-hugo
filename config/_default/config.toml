@@ -22,6 +22,7 @@ theme = "hugo-theme-relearn"
   disableSeoHiddenPages = true
   disableTagHiddenPages = true
   disableBreadcrumb = false
+  disableRootBreadcrumb = true
   disableToc = true
   disableNextPrev = false
   disableAssetsBusting = true
