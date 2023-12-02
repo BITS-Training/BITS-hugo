@@ -27,6 +27,7 @@ theme = "hugo-theme-relearn"
   disableAssetsBusting = true
   disableLanguageSwitchingButton = true
   disableLandingPageButton = true
+  disableExplicitIndexURLs = true
   titleSeparator = "::"
   themeVariant = [ "normal", "dark-mode", "high-contrast"]
 
@@ -58,7 +59,7 @@ theme = "hugo-theme-relearn"
   #Das OptOut-Frame wird über den Shortcode {{< matomo >}} erzeugt. Optional kann ein CSS Style String übergeben werden {{< matomo "border: 2px solid black; height: 170px; width: 100%; background: #fff" >}}
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 
 [Languages]
 
