@@ -60,7 +60,7 @@ theme = "hugo-theme-relearn"
   #Das OptOut-Frame wird über den Shortcode {{< matomo >}} erzeugt. Optional kann ein CSS Style String übergeben werden {{< matomo "border: 2px solid black; height: 170px; width: 100%; background: #fff" >}}
 
 [outputs]
-home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+home = [ "HTML", "SEARCH", "SEARCHPAGE"]
 
 [Languages]
 
