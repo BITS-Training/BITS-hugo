@@ -17,7 +17,7 @@ Die Variablen für die Metadaten in den HTML-Dateien werden hier zentral definie
 #### Abschnitt [params] für Standardsprache
 
 - description
-- author
+- author.name
 
 #### Abschnitt [Languages.xy] sprachabhängig
 
@@ -27,7 +27,7 @@ Die Variablen für die Metadaten in den HTML-Dateien werden hier zentral definie
 
 Textvariablen werden im geamten Inhalt verwendet und können bei Bedarf hier zentral verändert werden. In den Inhaltsseiten lautet die entsprechende Syntax der Variablen: {{< param VARIABLE >}}.
 
-#### Abschnitt [Languages.xy] sprachabhängig
+#### Abschnitt [Languages.xy.params] sprachabhängig
 
 - BITS = "BITS"
 - BITS_Titel = "Behörden-IT-Sicherheitstraining"
