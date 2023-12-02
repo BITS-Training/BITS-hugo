@@ -19,30 +19,30 @@ landingPageURL = "/index.html"
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
 identifier = "wi"
-url = "/weitere-informationen.html"
+url = "/mehr/weitere-informationen.html"
 weight = 10
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz"
-url = "/herausgeber-und-lizenz.html"
+url = "/mehr/herausgeber-und-lizenz.html"
 weight = 20
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit"
 identifier = "usability"
-url = "/barrierefreiheit.html"
+url = "/mehr/barrierefreiheit.html"
 weight = 30
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-file-contract'></i> Impressum"
 identifier = "imprint"
-url = "/impressum.html"
+url = "/mehr/impressum.html"
 weight = 40
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-user-shield'></i> Datenschutz"
 identifier = "datasecurity"
-url = "/datenschutz.html"
+url = "/mehr/datenschutz.html"
 weight = 50
 
 [Languages.en]
@@ -51,28 +51,28 @@ landingPageURL = "/index.html"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> more information"
 identifier = "wi"
-url = "/weitere-informationen.html"
+url = "/mehr/weitere-informationen.html"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Publisher and License"
-url = "/herausgeber-und-lizenz.html"
+url = "/mehr/herausgeber-und-lizenz.html"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
 identifier = "usability"
-url = "/barrierefreiheit.html"
+url = "/mehr/barrierefreiheit.html"
 weight = 30
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-file-contract'></i> Imprint"
 identifier = "imprint"
-url = "/impressum.html"
+url = "/mehr/impressum.html"
 weight = 40
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-user-shield'></i> Datasecurity"
 identifier = "datasecurity"
-url = "/datenschutz.html"
+url = "/mehr/datenschutz.html"
 weight = 50

@@ -82,30 +82,30 @@ Einrichtungen = "Behörden und Einrichtungen"
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> Weitere Informationen"
 identifier = "wi"
-url = "/weitere-informationen/"
+url = "/mehr/weitere-informationen/"
 weight = 10
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Herausgeber und Lizenz"
-url = "/herausgeber-und-lizenz/"
+url = "/mehr/herausgeber-und-lizenz/"
 weight = 20
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Barrierefreiheit"
 identifier = "usability"
-url = "/barrierefreiheit/"
+url = "/mehr/barrierefreiheit/"
 weight = 30
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-file-contract'></i> Impressum"
 identifier = "imprint"
-url = "/impressum/"
+url = "/mehr/impressum/"
 weight = 40
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-user-shield'></i> Datenschutz"
 identifier = "datasecurity"
-url = "/datenschutz/"
+url = "/mehr/datenschutz/"
 weight = 50
 
 [Languages.en]
@@ -128,30 +128,30 @@ Einrichtungen = "Authorities or institutions"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> more information"
 identifier = "wi"
-url = "/weitere-informationen/"
+url = "/mehr/weitere-informationen/"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-id-card'></i> Publisher and License"
-url = "/herausgeber-und-lizenz/"
+url = "/mehr/herausgeber-und-lizenz/"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-wheelchair'></i> Accessibility"
 identifier = "usability"
-url = "/barrierefreiheit/"
+url = "/mehr/barrierefreiheit/"
 weight = 30
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-file-contract'></i> Imprint"
 identifier = "imprint"
-url = "/impressum/"
+url = "/mehr/impressum/"
 weight = 40
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-user-shield'></i> Datasecurity"
 identifier = "datasecurity"
-url = "/datenschutz/"
+url = "/mehr/datenschutz/"
 weight = 50
 
 [minify]
