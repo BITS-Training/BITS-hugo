@@ -59,15 +59,15 @@ Schutzziele der Informationssicherheit:
 
  - zu Lektionen
 
-	``[Viren]({{< ref "/02 lektion viren" >}})``
+	``[Viren](/02 lektion viren)``
 
  - zu Unterseiten
-``[Viren]({{< ref "/02 lektion viren/05.Risiko-und-Schaeden.de.md" >}})``
+``[Viren](/02 lektion viren/05.Risiko-und-Schaeden.de.md)``
 
-``[Informationen]({{< ref "02.Dokumente-und-Informationen.de.md" >}})``
+``[Informationen](02.Dokumente-und-Informationen.de.md)``
 
  - zu Ansprechperson
-``[Ansprechperson]({{< ref "/ansprechpersonen/" >}})``
+``[Ansprechperson](/ansprechpersonen/)``
 ## 4. Quiz
 
 ### Fragen und Antworten sortieren

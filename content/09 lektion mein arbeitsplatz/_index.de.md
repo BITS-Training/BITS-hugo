@@ -19,6 +19,6 @@ Diese Lektion fasst zusammen,
 - Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen.
 - Arbeiten Sie daher umsichtig und sorgfältig!
 - Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst!
-- Wenden Sie sich Zweifelsfall an Ihre [Ansprechperson]({{< ref "/ansprechpersonen/" >}})!
+- Wenden Sie sich Zweifelsfall an Ihre [Ansprechperson](/ansprechpersonen/)!
 
 {{% /notice %}}
