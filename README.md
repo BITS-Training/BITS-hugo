@@ -57,7 +57,7 @@ Anpassungen der Markdown-Dateien, insbesondere im Unterordner /content, können 
 
 ## BITS-Release generieren
 
-Mit folgenden Befehlen werden anschließend im Unterverzeichnis "public" von hugo aus den Markdown-Textdateien die statischen HTML-Seiten für die Veröffentlichung für die Beschäftigten auf einem lokalen Web- oder Fileserver generiert:
+Mit folgenden Befehlen werden mit hugo aus den Markdown-Textdateien die statischen HTML-Seiten, für die Veröffentlichung auf einem lokalen Web- oder Fileserver generiert:
 
 1. Für die Verwendung mit einem **Webserver** und voller Funktionalität:
 
