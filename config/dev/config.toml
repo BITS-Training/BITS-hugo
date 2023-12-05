@@ -6,6 +6,7 @@ baseURL = "https://bits-training.github.io/training/"
 [Languages.de]
 title = "TEST BITS | Behörden-IT-Sicherheitstraining"
 
+[Languages.de.params]
 BITS = "TEST BITS"
 BITS_Titel = "Behörden-IT-Sicherheitstraining"
 Ver = "6.x.x-dev"
@@ -14,6 +15,7 @@ Release = "bleeding edge testing"
 [Languages.en]
 title = "TEST BITS | IT security training for public authorities"
 
+[Languages.en.params]
 BITS = "TEST BITS"
 BITS_Titel = "Authority-IT-Security Training"
 Ver = "6.x.x-dev"
