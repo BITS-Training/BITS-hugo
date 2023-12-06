@@ -57,17 +57,19 @@ Schutzziele der Informationssicherheit:
 
 ## 3. Interne Links
 
- - zu Lektionen
+- zu Lektionen
+   - ``[Viren](/02 lektion viren)``
 
-	``[Viren](/02 lektion viren)``
+- zu Unterseiten
+   - ``[Viren](/02 lektion viren/05-Risiko-und-Schaeden)``
+   - ``[Informationen](02-Dokumente-und-Informationen)``
 
- - zu Unterseiten
-``[Viren](/02 lektion viren/05.Risiko-und-Schaeden.de.md)``
+- zu Anchor in Unterseiten
+  - ``[Social Engineering]({{% ref "/03 lektion passwoerter/02-Gefahren.de.md#social-engineering"%}})``
 
-``[Informationen](02.Dokumente-und-Informationen.de.md)``
+- zu Ansprechperson
+   - ``[Ansprechperson](/ansprechpersonen/)``
 
- - zu Ansprechperson
-``[Ansprechperson](/ansprechpersonen/)``
 ## 4. Quiz
 
 ### Fragen und Antworten sortieren

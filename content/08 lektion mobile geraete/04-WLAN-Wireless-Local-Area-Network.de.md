@@ -13,4 +13,4 @@ Bei Wireless LAN (WLAN) handelt es sich um eine Funknetzwerktechnik, die – wen
 - Wenn WLAN eingesetzt wird, muss grundsätzlich der höchstmögliche verfügbare Sicherheitsstandard zur Verschlüsselung des Zugangs gewählt werden (derzeit WPA3, mindestens WPA2).
 - Jeder ungewöhnliche Vorgang auf Ihrem Endgerät in Verbindung mit Funknetzen könnte ein Angriff sein; im Zweifel deaktivieren Sie die WLAN-Verbindung und informieren Sie Ihre [Ansprechperson](/ansprechpersonen/).
 - Sollten Sie keine Kenntnis über die Funktion und das Einstellen dieser Mechanismen haben, so informieren Sie sich bitte bei Ihrer [Ansprechperson](/ansprechpersonen/).
-- Besuchen Sie wenn möglich nur Internetseiten, die per [HTTPS](/04 lektion internet/05.Schutz-vor-technischen-Webinhalten.de.md) aufrufbar sind.
+- Besuchen Sie wenn möglich nur Internetseiten, die per [HTTPS](/04 lektion internet/05-Schutz-vor-technischen-Webinhalten) aufrufbar sind.
