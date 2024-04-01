@@ -13,7 +13,7 @@ Schließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Iden
 
 {{% notice note %}}
 
-- Es besteht die Gefahr, dass der KI sensible Daten für eine konkrete Aufgabe überlassen werden, ohne dass klar ist, wie diese verarbeitet werden.
+- Es besteht die Gefahr, dass der KI sensible Daten für eine konkrete Aufgabe überlassen werden, ohne dass klar ist, wie und wo diese für welche (weiteren Zwecke) verarbeitet werden.
 - Es besteht die Gefahr, dass der KI sensible Trainingsdaten überlassen werden, die nicht für diesen Zweck bestimmt sind.
 - Es besteht die Gefahr, dass die KI unrichtige Ergebnisse ausgibt, die nicht ohne weiteres als falsch erkannt werden.
 - Es besteht die Gefahr, KI böswillig einzusetzen, um Menschen oder anderen Computerprogramme zu manipulieren.
