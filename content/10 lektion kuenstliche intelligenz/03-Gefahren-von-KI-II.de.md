@@ -9,13 +9,9 @@ Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder Entscheid
 
 Wenn z.B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt immer wieder vor, dass z.B. Chat-Bots falsche Ergebnisse ausgegeben, die aber plaubsibel erscheinen. Es kommt dabei auch vor, dass KI-Programme "voreingenommen" sind, wenn z.B. keine repräsentativen Trainingsdaten eingesetzt wurden, und keine neutralen, ethisch einwandfreien Empfehlungen oder Ergebnisse liefert.
 
-Schließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Identitäten, Texten oder Bildern eingesetzt werden, die den Eindruck erwecken, echt zu sein, ohne dass sie als Fälschung erkennbar sind. Damit können Meinungen manipuliert oder Personen zu an sich ungewollten Handlungen verleitet werden.
+Schließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Identitäten, Texten oder Bildern, z.B. in [Social Media]({{% ref "06 lektion social media" %}}), eingesetzt werden, die den Eindruck erwecken, echt zu sein, ohne dass sie als Fälschung erkennbar sind. Damit können Meinungen manipuliert oder Personen zu an sich ungewollten Handlungen verleitet werden.
 
 {{% notice note %}}
-
-- Es besteht die Gefahr, dass der KI sensible Daten für eine konkrete Aufgabe überlassen werden, ohne dass klar ist, wie und wo diese für welche (weiteren Zwecke) verarbeitet werden.
-- Es besteht die Gefahr, dass der KI sensible Trainingsdaten überlassen werden, die nicht für diesen Zweck bestimmt sind.
-- Es besteht die Gefahr, dass die KI unrichtige Ergebnisse ausgibt, die nicht ohne weiteres als falsch erkannt werden.
-- Es besteht die Gefahr, KI böswillig einzusetzen, um Menschen oder anderen Computerprogramme zu manipulieren.
-
-  {{% /notice %}}
+- Es besteht die Gefahr, dass die KI-Anwendung unrichtige Ergebnisse ausgibt, die nicht ohne weiteres als falsch erkannt werden.
+- Es besteht die Gefahr, dass Dritte KI-Anwendungen böswillig einzusetzen, um Menschen oder anderen Computerprogramme zu täuschen.
+{{% /notice %}}

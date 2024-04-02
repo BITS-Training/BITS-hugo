@@ -5,21 +5,13 @@ draft: false
 weight: 50
 icon: robot
 ---
-Seien Sie misstrauisch, wenn jemand Ihre Zugangsdaten, insbesondere Passwörter erfragt. Dies gilt gerade bei Ihnen Unbekannten, die auf Auskunft drängen und sich auf ihre Autorität (hoher Funktionsträger etc.) oder eine hohe Dringlichkeit („Die Zeit drängt…“, „Sie behindern...“) berufen.
+Anwendungen, die Künstliche Intelligenz nutzen, sind für viele Einsatzbereiche hilfreich.
 
-Häufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheitsrelevanten Aufgaben haben. Über deren Zugänge zu Anwendungen und Netzwerken versuchen die Angreifer und Angreiferinnen als Sprungbrett dann weiter in die Systeme einzudringen.
+Gleichzeitig bringen sie Gefahren für Ihre {{< param Einrichtung >}} mit sich, die zum Teil nur schwer zu beherrschen sind.
 
-Wie verhalten Sie sich, wenn Sie Zweifel haben?
+Wie verwenden Sie KI verantwortungsvoll?
 
-- Lassen Sie sich im Zweifelsfall eine Rückrufnummer geben, die Sie überprüfen.
-- Erkundigen Sie sich bei Vorgesetzten, Kollegen oder Ihren [Ansprechperson](/ansprechpersonen/), ob die anfragende Person vertrauenswürdig und „echt“ ist.
+- Nutzen Sie im dienstlichen Bereich nur die von Ihrer {{< param Einrichtung >}} freigegebenen KI-Anwendungen.
+- Wenn Sie Informationen aus KI-Anwendungen verwenden wollen: überprüfen Sie die Richtigkeit der Antwort über weitere Quellen.
 
-Weitere Informationen gibt es in der Lektion [Passwörter]({{% ref "/03 lektion passwoerter/02-Gefahren.de.md#social-engineering"%}})
-
-{{% notice note %}} 
-
-- Geben Sie keine Zugangsdaten heraus
-- Versichern Sie sich der Identität der abfragenden Person
-
-{{% /notice %}}
 

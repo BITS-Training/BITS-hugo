@@ -3,7 +3,7 @@ title: "Quiz - Künstliche Intelligenz"
 date: 2021-04-18T14:18:09+02:00
 draft: false
 weight: 900
-icon: mobile-alt
+icon: robot
 ---
 
 Das folgende Quiz enthält Fragen, anhand derer Sie das Gelernte für sich selbst überprüfen können.
@@ -28,20 +28,21 @@ shuffle_answers: true
 
 ---
 
-## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook an Ihr dienstliches Netz anschließen. Wie gehen Sie vor?
+## Sie haben eine dienstliche Aufgabenstellung und wollen eine neue Anwendung mit Künstlicher Intelligenz (KI-Anwendung) im Internet nutzen, um sich Hilfe zu holen. Ist das zulässig?
 
 > Die Nutzung durch fremde Geräte birgt große Gefahren für Ihre {{< param Einrichtung >}}.
 
-1. [ ] Sie prüfen, ob der Dienstleister einen aktuelle Virenscanner hat und lassen ihn dann an einen Netzwerk-Anschluss.
+1. [ ] Nein, sicher nicht. Künstliche Intelligenz ist mir verdächtig. Ich nutze so etwas nie.
 
-	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt.
+	>Falls Ihre {{< param Einrichtung >}} den Einsatz bestimmter KI-Anwendungen erlaubt hat, können Sie diese nutzen. Die allgemeinen Vorsichtsmaßnahmen gelten aber auch dann..
    
-2. [x] Sie geben dem Dienstleister keinen Netzwerk-Zugang, da nur einrichtungseigene Notebooks angeschlossen werden dürfen.
+2. [ ] Na klar! "KI" schlägt "NI" (Natürliche Intelligenz)
+
+	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u.a. die Gefahr, dass dienstliche Daten an Unbefugte gelangen.
+	
+3. [x] Nur dann, wenn die Nutzung der KI-Anwendung in meiner {{< param Einrichtung >}} für dienstliche Zwecke freigegeben wurde.
 
 	>**Richtige Antwort**
-3. [ ] Sie lassen den Dienstleister an einen Netzwerk-Anschluss, falls er einen Auftrag Ihrer {{< param Einrichtung >}} vorzeigt.
-
-	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt.
 
 ## Ihnen ist auf einer Dienstreise ein Smartphone mit dienstlichen Informationen gestohlen worden. Wie verhalten Sie sich?
 
