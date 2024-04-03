@@ -4,9 +4,15 @@
 	<meta name="date" content="{{ now.Format "02 Jan 06" }}">
 {{ end }}
 {{- if .HasShortcode "quizdown" }}
-    <script src={{ (resources.Get "quizdown/quizdown.js").RelPermalink }}></script>
-    <script src={{ (resources.Get "quizdown/extensions/quizdownKatex.js").RelPermalink }}></script>
-    <script src={{ (resources.Get "quizdown/extensions/quizdownHighlight.js").RelPermalink }}></script>
+	{{- if (resources.Get ("quizdown/quizdown.js")) }}
+    <script src={{ "quizdown/quizdown.js" | relURL }}></script>
+	{{- end }}
+	{{- if (resources.Get ("quizdown/extensions/quizdownKatex.js")) }}
+    <script src={{ "quizdown/extensions/quizdownKatex.js" | relURL }}></script>
+	{{- end }}
+	{{- if (resources.Get ("quizdown/extensions/quizdownHighlight.js")) }}
+    <script src={{ "quizdown/extensions/quizdownHighlight.js" | relURL }}></script>
+	{{- end }}
     <script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
 {{- end -}}
 {{- $GoatSRC := .Site.Params.GoatCounter_SRC -}}
