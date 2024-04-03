@@ -3,6 +3,10 @@
 {{ else }}
 	<meta name="date" content="{{ now.Format "02 Jan 06" }}">
 {{ end }}
+	<link rel="apple-touch-icon" sizes="180x180" href={{ "images/apple-touch-icon.png" | relURL }}>
+	<link rel="icon" type="image/png" sizes="32x32" href={{ "images/favicon-32x32.png" | relURL }}>
+	<link rel="icon" type="image/png" sizes="16x16" href={{ "images/favicon-16x16.png" | relURL }}>
+	<link rel="manifest" href={{ "images/site.webmanifest" | relURL }}>
 {{- if .HasShortcode "quizdown" }}
 	{{- if (resources.Get ("quizdown/quizdown.js")) }}
     <script src={{ "quizdown/quizdown.js" | relURL }}></script>
