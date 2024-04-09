@@ -28,9 +28,9 @@ shuffle_answers: true
 
 ---
 
-## Sie haben eine dienstliche Aufgabenstellung und wollen eine neue Anwendung mit Künstlicher Intelligenz (KI-Anwendung) im Internet nutzen, um sich Hilfe zu holen. Ist das zulässig?
+## Sie haben eine dienstliche Aufgabenstellung und wollen eine Anwendung mit Künstlicher Intelligenz (KI-Anwendung) im Internet nutzen, um sich Hilfe zu holen. Ist das zulässig?
 
-> Die Nutzung durch fremde Geräte birgt große Gefahren für Ihre {{< param Einrichtung >}}.
+> Die KI-Regelungen Ihrer {{< param Einrichtung >}} sind maßgeblich!
 
 1. [ ] Nein, sicher nicht. Künstliche Intelligenz ist mir verdächtig. Ich nutze so etwas nie.
 
@@ -44,58 +44,33 @@ shuffle_answers: true
 
 	>**Richtige Antwort**
 
-## Ihnen ist auf einer Dienstreise ein Smartphone mit dienstlichen Informationen gestohlen worden. Wie verhalten Sie sich?
+## Welche größten Gefahren drohen beim Einsatz von KI?
 
-> Ihre {{< param Einrichtung >}} muss informiert werden.
+> Die verwendeten Daten und die Zwecke können kritisch sein.
 
-1. [ ] Sie rufen Ihre Ansprechperson an und bitten um die Herausgabe des „Recovery Keys“ für das Smartphone.
+1. [ ] Keine. Die Technik ist ausgereift und gut gesetzlich geregelt.
 
-	>Das ist leider falsch. Da das ganze Smartphone gestohlen wurde, nützt Ihnen ein „Recovery Key“ gar nichts.
+	>Leider nein. KI entwickelt sich ständig weiter. Die gesetzlichen Regelungen können nur einen Rahmen vorgeben.
 
-2. [x] Sie informieren unverzüglich Ihre Ansprechperson und Ihre Vorgesetzten über den Verlust des Smartphones.
+2. [x] Die KI-Anwendung wird mit nicht zugelassenen Daten genutzt oder damit trainiert, oder sie wird für Missbrauchszwecke zum Herstellen von gefälschten Daten verwendet.
 
 	>**Richtige Antwort**
-3. [ ] Sie zeigen den Diebstahl bei der Polizei an und kaufen sich ein neues Smartphone.
+3. [ ] Die KI-Anwendungen sind noch nicht "schlau" genug, um eine echte Gefahr in meinem Arbeitsalltag darzustellen.
 
-	>Nein. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihre {{< param Einrichtung >}} über den Verlust informiert werden.
-4. [ ] Sie sichern alle Spuren und versuchen zunächst, den Dieb aus eigenen Kräften zu überführen.
+	>Nein. Sehr mächtige KI-Anwendungen sind im Internet kostenlos verfügbar, zum Teil als Funktion in Suchmaschinen. Hierbei können sie erheblichen Einfluss auf Ihre Arbeit ausüben.
 
-	>Das ist nicht ausreichend. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihr Arbeitgeber über den Verlust informiert werden.
+## Welche Gefahr besteht bei der Nutzung von KI-Anwendungen, die allen offenstehen?
 
-## Jemand möchte Ihnen dienstliche Daten auf einem USB-Stick übergeben. Wie verhalten Sie sich?
+> Bei für alle offenen Angeboten gibt es häufig Nutzungsvorbehalte der Anbieter.
 
-> USB-Sticks sind potenzielle Virenschleudern!
+1. [ ] Wenn ich mich mit einem Benutzerkonto anmelden muss, gibt es keine Gefahr.
 
-1. [ ] Ich stecke den Stick in meinen Computer und bearbeite die Daten.
-
-	>Falsch. Falls Ihre USB-Buchsen überhaupt zugänglich sind, können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen.
+	>Leider falsch. Die Anbieter nutzen Ihre Daten möglicherweise für eigene Zwecke oder die Dritter!
    
-2. [ ] Ich kopiere die Daten vom USB-Stick auf meinen privaten Laptop und sende sie dann an mein dienstliches E-Mail-Postfach.
+2. [X] Bei offenen Angeboten ist nicht immer sichergestellt, dass die Daten nur für meine dienstlichen Zwecke verarbeitet werden und auch Dritte keinen Zugriff darauf erhalten.
 
-	>Nein. Abgesehen davon, dass dienstliche Daten nicht auf privaten Endgeräten verarbeitet werden dürfen, können auf diesem Weg Viren vom USB-Stick in das Netzwerk Ihrer {{< param Einrichtung >}} gelangen.
 	
-3. [x] Ich bitte die Person, mir die Daten elektronisch per E-Mail zuzusenden oder mir einen Download-Link zu schicken.
-
 	>**Richtige Antwort**
-4. [ ] Ich schaue mir den Stick zunächst auf einem Computer ohne Netzwerkanbindung an, um festzustellen, dass die gewünschten Dateien auch enthalten sind. Erst dann kann der USB-Stick im Zielsystem verwendet werden.
 
-	>Nicht richtig. Falls Ihre USB-Buchsen überhaupt zugänglich sind können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen.
-
-## Sie sitzen mit Ihrer Kollegin bei einem Ortstermin und müssen ihr ein vertrauliches Excel-Dokument als Datei übergeben. Wie gehen Sie vor?
-
-> Verschlüsselung ist Trumpf!
-
-1. [ ] Ich lese ihr die Zahlen vor allen laut und deutlich zum Mitschreiben vor.
-
-	>Vertrauliche Daten dürfen nicht so übertragen werden, dass Unbefugte Zugang zu den Informationen bekommen könnten. Das Vorlesen in der Öffentlichkeit gehört ebenfalls dazu.
-2. [ ] Da wir beide moderne Laptops mit Bluetooth-Technologie haben, „beame“ ich die Datei direkt zum Notebook der Kollegin.
-
-	>Die unverschlüsselte Übertragung von Daten über drahtlose Technologien wie WLAN oder Bluetooth ist wegen der Gefahr des Abhörens sehr unsicher und deshalb für interne und vertrauliche Daten verboten.
-3. [x] Falls wir beide im gleichen [VPN](/09 lektion mein arbeitsplatz/01-Sicherer-Arbeitsplatz) sind, stelle ich die Datei über ein Gruppenlaufwerk oder eine interne E-Mail bereit. Andernfalls verschlüssele ich die Datei und sende sie per E-Mail an die Kollegin, das Passwort teile ich ihr mündlich mit.
-
-	>**Richtige Antwort**
-4. [ ] Wir verbinden uns beide direkt mit dem WLAN im Café und ich schicke die Datei unverschlüsselt per E-Mail.
-
-	>Öffentliche WLAN-Anbindungen sind im Allgemeinen unverschlüsselt und offen. Sie sind mit dem Internet zu vergleichen. Eine unverschlüsselte Übertragung vertraulicher Daten über öffentliche WLAN-Verbindungen ist deshalb grundsätzlich nicht erlaubt.
 
 {{< /quizdown >}}

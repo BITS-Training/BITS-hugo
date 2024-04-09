@@ -9,9 +9,8 @@ Anwendungen, die Künstliche Intelligenz nutzen, sind für viele Einsatzbereiche
 
 Gleichzeitig bringen sie Gefahren für Ihre {{< param Einrichtung >}} mit sich, die zum Teil nur schwer zu beherrschen sind.
 
-Wie verwenden Sie KI verantwortungsvoll?
+An erster Stelle steht der *verantwortungsvolle* Einsatz von KI-Anwendungen, der auch in Ihren Händen liegt. Nutzen Sie die Informations- und Bildungsangebote Ihrer {{< param Einrichtung >}}, um die Bedeutung dieser Technologie, ihre Anwendungsmöglichkeiten und ihre Grenzen in Ihrem Arbeitsbereich kennenzulernen. 
 
-- Nutzen Sie im dienstlichen Bereich nur die von Ihrer {{< param Einrichtung >}} freigegebenen KI-Anwendungen.
-- Wenn Sie Informationen aus KI-Anwendungen verwenden wollen: überprüfen Sie die Richtigkeit der Antwort über weitere Quellen.
+Beim Einsatz selbst müssen Sie die Vorgaben Ihrer {{< param Einrichtung >}} berücksichtigen. Eine große Gefahr der Künstlichen Intelligenz liegt darin, KI-Anwendungen blind zu vertrauen und Warnhinweise zu den Gefahren zu vernachlässigen. Verfallen Sie nicht einem blinden Automatismus, sondern seien Sie kritisch und gebrauchen Sie Ihr Wissen, wenn Sie mit KI arbeiten!
 
 

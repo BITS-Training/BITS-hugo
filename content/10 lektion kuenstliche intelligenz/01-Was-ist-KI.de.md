@@ -5,13 +5,11 @@ draft: false
 weight: 10
 icon: robot
 ---
-Künstliche Intelligenz, abgekürzt "KI" (oder englisch "AI" für "Artificial Intelligence") ist die Fähigkeit eines Computers, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität nach zu machen (so das Europäische Parlament auf seiner Homepage).
+Künstliche Intelligenz, abgekürzt "KI" (oder englisch "AI" für "Artificial Intelligence"), ist die Fähigkeit eines Computers, menschliche Kompetenzen wie logisches Denken, Lernen, Planen und Kreativität nach zu machen (so das Europäische Parlament auf seiner Homepage).
 
-Im dienstlichen Alltag kann KI in verschiedenen Bereichen und mit unterschiedlichen Funktionen eingesetzt werden. Am bekanntesten sind Programme, die Texte oder Bilder (bis hin zu Filmen) oder Töne (bis hin zu Liedern mit Gesang) künstlich erzeugen.
+Im dienstlichen Alltag kann KI in verschiedenen Bereichen und mit unterschiedlichen Funktionen eingesetzt werden. Am bekanntesten sind Programme, die Texte oder Bilder (bis hin zu Filmen) oder Töne (bis hin zu Liedern mit Gesang) künstlich erzeugen. Ein Beispiel für ein solches Progamm ist ChatGPT. Dieses oder ähnliche Programme können in Ihrer {{< param Einrichtung >}} verwendet werden, um Texte zu erstellen oder umzuformulieren (z.B. Briefentwürfe, Programmcode) oder bestehende Daten auszuwerten (z.B. Berichte zusammenzufassen), nach außen können sie z.B. Anfragen von Kundinnen und Kunden live beantworten (Chat-Bots). 
 
-Ein Beispiel für ein solches Progamm ist ChatGPT. Dieses oder ähnliche Programme können in Ihrer {{< param Einrichtung >}} verwendet werden, um Texte zu erstellen oder umzuformulieren (z.B. Briefentwürfe, Programmcode) oder bestehende Daten auszuwerten (z.B. Texte zusammenzufassen), nach außen können sie z.B. Anfragen von Kundinnen und Kunden live beantworten (Chat-Bots). 
-
-Andere KI-Anwendungen werten große Mengen von Daten in kürzester Zeit aus oder machen Entscheidungsvorschläge. Im Gesundheitswesen kann KI die Diagnostik und Medikamentenforschung beschleunigen, in Wirtschaft und Verwaltung Datenanalysen, Vorhersagen und Prozessoptimierungen liefern, und im Verkehrsbereich und in der Logistik über Echtzeitbeobachtungen die Sicherheit und die Genauigkeit verbessern etc.
+Andere KI-Anwendungen werten große Mengen von Daten in kürzester Zeit aus oder machen Entscheidungsvorschläge. Im Gesundheitswesen kann KI z.B. die Diagnostik und Medikamentenforschung beschleunigen, in Wirtschaft und Verwaltung Datenanalysen, Vorhersagen und Prozessoptimierungen liefern, und im Verkehrsbereich und in der Logistik über Echtzeitbeobachtungen die Sicherheit und die Genauigkeit von Transporten verbessern etc.
 
 All dem liegt zugrunde, dass Künstliche Intelligenz Unmengen von Daten in hoher Geschwindigkeit auswerten und selbstlernend Erkenntnisse daraus ziehen kann. Je genauer, aktueller und größer die Datenbestände zum "Trainieren" ihrer Fähigkeiten sind, desto besser ist regelmäßig die Qualität der Ergebnisse.
 

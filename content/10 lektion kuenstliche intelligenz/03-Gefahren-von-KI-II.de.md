@@ -5,13 +5,13 @@ draft: false
 weight: 30
 icon: robot
 ---
-Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen eines Entscheidungsprozesses kommen, je nach Einsatzgebiet mit weitreichenden Folgen.
+Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder -Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen eines Entscheidungsprozesses kommen, je nach Einsatzgebiet mit weitreichenden Folgen.
 
-Wenn z.B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt immer wieder vor, dass z.B. Chat-Bots falsche Ergebnisse ausgegeben, die aber plaubsibel erscheinen. Es kommt dabei auch vor, dass KI-Programme "voreingenommen" sind, wenn z.B. keine repräsentativen Trainingsdaten eingesetzt wurden, und keine neutralen, ethisch einwandfreien Empfehlungen oder Ergebnisse liefert.
+Wenn z.B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt immer wieder vor, dass z.B. Chat-Bots falsche Angaben machen, die aber plaubsibel erscheinen. KI-Programme können auch "voreingenommen" sein, wenn z.B. keine repräsentativen Trainingsdaten eingesetzt wurden, und in der Folge ethisch bedenkliche Empfehlungen oder Ergebnisse liefern.
 
-Schließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Identitäten, Texten oder Bildern, z.B. in [Social Media]({{% ref "06 lektion social media" %}}), eingesetzt werden, die den Eindruck erwecken, echt zu sein, ohne dass sie als Fälschung erkennbar sind. Damit können Meinungen manipuliert oder Personen zu an sich ungewollten Handlungen verleitet werden.
+Schließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Identitäten, Texten oder Bildern, z.B. in [Social Media]({{% ref "06 lektion social media" %}}), eingesetzt werden, die den Eindruck erwecken, echt zu sein, ohne dass sie als Fälschung erkennbar sind. Damit können Meinungen manipuliert oder Personen zu ungewollten Handlungen verleitet werden.
 
 {{% notice note %}}
 - Es besteht die Gefahr, dass die KI-Anwendung unrichtige Ergebnisse ausgibt, die nicht ohne weiteres als falsch erkannt werden.
-- Es besteht die Gefahr, dass Dritte KI-Anwendungen böswillig einzusetzen, um Menschen oder anderen Computerprogramme zu täuschen.
+- Es besteht die Gefahr, dass Dritte KI-Anwendungen böswillig einsetzen, um Menschen oder anderen Computerprogramme zu täuschen.
 {{% /notice %}}

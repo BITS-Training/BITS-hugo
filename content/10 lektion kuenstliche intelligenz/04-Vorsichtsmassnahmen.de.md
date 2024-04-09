@@ -9,7 +9,7 @@ Für viele von uns ist der Einsatz von KI-Anwendungen noch ungewohnt. Schnell is
 
 Daher sollte Sie versuchen, folgende Vorsichtsmaßnahmen zu beherzigen:
 - Informieren Sie sich über die Funktionsweise von KI-Technologien, ihre potenziellen Risiken und Auswirkungen.
-- Nutzen Sie dienstlich nur freigegebene KI-Anwendungen im dienstlichen Bereich und nur mit den dafür zugelassenen Daten.
+- Nutzen Sie dienstlich nur die dafür freigegebenen KI-Anwendungen und nur mit den dafür zugelassenen Daten.
 - Beachten Sie die KI-Richtlinien und sonstigen Vorgaben Ihrer {{< param Einrichtung >}} bei der Nutzung von KI.
 - Seien Sie kritisch gegenüber Informationen, die aus KI-Anwendungen stammen, aber auch gegenüber Informationen aus Sozialen Medien und Online-Plattformen, die keine verlässliche Quellenangabe haben.
 - Überprüfen Sie die Quellen und verifizieren Sie die Informationen, bevor Sie ihnen Glauben schenken oder sie weitergeben.
