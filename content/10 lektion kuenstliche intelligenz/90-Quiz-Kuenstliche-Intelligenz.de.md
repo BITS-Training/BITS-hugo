@@ -59,18 +59,21 @@ shuffle_answers: true
 
 	>Nein. Sehr mächtige KI-Anwendungen sind im Internet kostenlos verfügbar, zum Teil als Funktion in Suchmaschinen. Hierbei können sie erheblichen Einfluss auf Ihre Arbeit ausüben.
 
-## Welche Gefahr besteht bei der Nutzung von KI-Anwendungen, die allen offenstehen?
+## Sie nehmen an einem Projekt in Ihrer {{< param Einrichtung >}} teil, bei dem eine KI-Anwendung eingeführt werden soll. Welche Maßnahmen treffen Sie vor der Nutzung?
 
-> Bei für alle offenen Angeboten gibt es häufig Nutzungsvorbehalte der Anbieter.
+> Interne Regelungen, Datenschutz und andere gesetzliche Bestimmungen beachten!
 
-1. [ ] Wenn ich mich mit einem Benutzerkonto anmelden muss, gibt es keine Gefahr.
+1. [ ] Einfach installieren und schauen, was passiert.
 
-	>Leider falsch. Die Anbieter nutzen Ihre Daten möglicherweise für eigene Zwecke oder die Dritter!
+	>Leider falsch. Nein, Sie müssen sich zuerst über ihre internen Regeln und die gesetzlichen Vorgaben informieren.
    
-2. [X] Bei offenen Angeboten ist nicht immer sichergestellt, dass die Daten nur für meine dienstlichen Zwecke verarbeitet werden und auch Dritte keinen Zugriff darauf erhalten.
+2. [X] Wir führen im Projekt eine gründliche Prüfung unserer internen Regelungen, der Datenschutzbestimmungen und der rechtlichen Rahmenbedingungen durch.
 
-	
 	>**Richtige Antwort**
+3. [ ] Wir sagen der IT-Abteilung Bescheid und legen los.
 
+	>Nein, Sie müssen sich zuerst über ihre internen Regeln und die gesetzlichen Vorgaben informieren.
+	
+	
 
 {{< /quizdown >}}
