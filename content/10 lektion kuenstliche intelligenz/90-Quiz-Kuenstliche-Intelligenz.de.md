@@ -44,15 +44,15 @@ shuffle_answers: true
 
 	>**Richtige Antwort**
 
-## Welche größten Gefahren drohen beim Einsatz von KI?
+## Welches sind die größten Gefahren beim Einsatz von KI?
 
 > Die verwendeten Daten und die Zwecke können kritisch sein.
 
-1. [ ] Keine. Die Technik ist ausgereift und gut gesetzlich geregelt.
+1. [ ] Es gibt keine. Die Technik ist ausgereift und gesetzlich gut geregelt.
 
 	>Leider nein. KI entwickelt sich ständig weiter. Die gesetzlichen Regelungen können nur einen Rahmen vorgeben.
 
-2. [x] Die KI-Anwendung wird mit nicht zugelassenen Daten genutzt oder damit trainiert, oder sie wird für Missbrauchszwecke zum Herstellen von gefälschten Daten verwendet.
+2. [x] Eine große Gefahr ist die Verwendung nicht zugelassener Daten oder der Missbrauch zum Herstellen von gefälschten Daten.
 
 	>**Richtige Antwort**
 3. [ ] Die KI-Anwendungen sind noch nicht "schlau" genug, um eine echte Gefahr in meinem Arbeitsalltag darzustellen.
@@ -67,7 +67,7 @@ shuffle_answers: true
 
 	>Leider falsch. Die Anbieter nutzen Ihre Daten möglicherweise für eigene Zwecke oder die Dritter!
    
-2. [X] Bei offenen Angeboten ist nicht immer sichergestellt, dass die Daten nur für meine dienstlichen Zwecke verarbeitet werden und auch Dritte keinen Zugriff darauf erhalten.
+2. [X] Bei offenen Angeboten ist nicht immer sichergestellt, dass die von mir eingegebenen Daten nur für dienstliche Zwecke verarbeitet werden und Dritte keinen Zugriff darauf erhalten.
 
 	
 	>**Richtige Antwort**
