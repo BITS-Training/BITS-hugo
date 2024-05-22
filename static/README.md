@@ -1,7 +1,7 @@
 # BITS Behörden-IT-Sicherheitstraining
 
 
-Stand: 08.12.2023
+Stand: 13.05.2024
 
 Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
@@ -62,7 +62,7 @@ Es besteht die Möglichkeit, dass bei den Quizzes am Ende der Lektionen bei Ankl
 
 Dazu muss in den Ordnern der Lektionen die jeweilige Datei "Quiz" mit einem Text-Editor geöffnet werden. Dort ist dann bei der jeweiligen Zeile "Richtige Antwort" der gewünschte Lösungsbuchstaben (ggf. auch ein Sonderzeichen wie Unterstrich oder Komma) zu hinterlegen, also z.B. "Richtige Antwort. Notieren Sie sich den Lösungsbuchstaben **B**".
 
-Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 34 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes. Diesen könnten dann die Nutzer:innen im Rahmen einer Awareness-Kampagne per E-Mail einsenden um einer Verlosung, z.B. von Kino-Gutscheinen, teilzunehmen.
+Bei der Auswahl der Lösungsbuchstaben sollte man sich zuvor einen Lösungssatz überlegen, der aus 37 Lösungsbuchstaben besteht - dies ist die Anzahl der Fragen aller Quizzes. Diesen könnten dann die Nutzer:innen im Rahmen einer Awareness-Kampagne per E-Mail einsenden um einer Verlosung, z.B. von Kino-Gutscheinen, teilzunehmen.
 
 ## 7. BITS-Portal
 
