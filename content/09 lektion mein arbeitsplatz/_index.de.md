@@ -3,7 +3,7 @@ archetype: "chapter"
 title: "Mein Arbeitsplatz"
 date: 2021-03-06T09:10:07
 weight: 9
-chapter: true
+icon: laptop-house
 ---
 
 ## Ihr Einfluss auf die IT-Sicherheit

@@ -3,7 +3,7 @@ archetype: "chapter"
 title: "KI"
 date: 28.03.2024
 weight: 10
-chapter: true
+icon: robot
 ---
 
 ## Künstliche Intelligenz
