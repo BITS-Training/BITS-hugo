@@ -35,19 +35,19 @@ theme = "hugo-theme-relearn"
   [[params.themeVariant]]
     auto = ['normal', 'dark-mode']
     identifier = 'auto'
-    name = 'auto Light/Dark'
+    name = 'Automatisch'
 
   [[params.themeVariant]]
     identifier = 'normal'
-    name = 'Light Mode'
+    name = 'Heller Modus'
 
   [[params.themeVariant]]
     identifier = 'dark-mode'
-    name = 'Dark Mode'
+    name = 'Dunkler Modus'
 
   [[params.themeVariant]]
     identifier = 'high-contrast'
-    name = 'High Contrast'
+    name = 'Starker Kontrast'
 
   # BITS unterstützt von Haus aus ein datenschutzfreundliches Tracking über GoatCounter oder alternativ Matomo.
   # Standardmäßig ist Tracking ausgeschaltet. Hier werden die Einstellungen für beide Dienste erläutert.
