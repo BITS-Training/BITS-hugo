@@ -8,15 +8,9 @@
 	<link rel="icon" type="image/png" sizes="16x16" href={{ "images/favicon-16x16.png" | relURL }}>
 	<link rel="manifest" href={{ "images/site.webmanifest" | relURL }}>
 {{- if .HasShortcode "quizdown" }}
-	{{- if (resources.Get ("quizdown/quizdown.js")) }}
     <script src={{ "quizdown/quizdown.js" | relURL }}></script>
-	{{- end }}
-	{{- if (resources.Get ("quizdown/extensions/quizdownKatex.js")) }}
     <script src={{ "quizdown/extensions/quizdownKatex.js" | relURL }}></script>
-	{{- end }}
-	{{- if (resources.Get ("quizdown/extensions/quizdownHighlight.js")) }}
     <script src={{ "quizdown/extensions/quizdownHighlight.js" | relURL }}></script>
-	{{- end }}
     <script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
 {{- end -}}
 {{- $GoatSRC := .Site.Params.GoatCounter_SRC -}}
