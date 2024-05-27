@@ -23,4 +23,4 @@ Bedingungen:
 
 Das verwendete [hugo-Framework](https://gohugo.io/) steht unter der [Apache-Lizenz, v2.0](https://www.apache.org/licenses/LICENSE-2.0), das [Relearn-Theme](https://themes.gohugo.io/hugo-theme-relearn/), das [Quiz](https://bonartm.github.io/hugo-quiz/) inkl. [quizdown-js](https://github.com/bonartm/quizdown-js) und die [jQuery-Bibliothek](https://jquery.com) unter der [MIT-Lizenz](https://opensource.org/licenses/MIT). Die Icons stammen von https://fontawesome.com und stehen unter freier Lizenz.
 
-BITS basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt [NTT Security GmbH](https://www.nttsecurity.com/de-de), herausgegeben wurde.
+BITS basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt [NTT Security GmbH](https://www.security.ntt), herausgegeben wurde.

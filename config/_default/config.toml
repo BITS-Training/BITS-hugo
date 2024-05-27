@@ -35,7 +35,7 @@ theme = "hugo-theme-relearn"
   [[params.themeVariant]]
     auto = ['normal', 'dark-mode']
     identifier = 'auto'
-    name = 'Automatisch'
+    name = 'Automatischer Modus'
 
   [[params.themeVariant]]
     identifier = 'normal'

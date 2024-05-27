@@ -5,7 +5,7 @@ draft: false
 weight: 40
 icon: robot
 ---
-Für viele von uns ist der Einsatz von KI-Anwendungen noch ungewohnt. Schnell ist man von der Leistungsfähigkeit, Kreativität und der damit verbundenen Arbeitserleichterung begeistert. Die auf den vorangehenden Seiten dargelegten Gefahren können jedoch ernstzunehmende Schäden in Ihrer {{< param Einrichtung >}} verursachen. Daher ist es wichtig, nur die dienstlich angebotenen KI-Anwendungen zu verwenden. Aber auch beim privaten Einsatz von KI-Anwendungen können Fehler passieren, die sich schnell negativ auswirken!
+Für viele von uns ist der Einsatz von KI-Anwendungen noch ungewohnt. Schnell ist man von der Leistungsfähigkeit, Kreativität und der damit verbundenen Arbeitserleichterung begeistert. Die hier beschrieben Gefahren können jedoch ernstzunehmende Schäden in Ihrer {{< param Einrichtung >}} verursachen. Daher ist es wichtig, nur die dienstlich angebotenen KI-Anwendungen zu verwenden. Aber auch beim privaten Einsatz von KI-Anwendungen können Fehler passieren, die sich schnell negativ auswirken!
 
 Daher sollten Sie folgende Vorsichtsmaßnahmen treffen:
 - Informieren Sie sich über die Funktionsweise von KI-Technologien, ihre potenziellen Risiken und Auswirkungen.

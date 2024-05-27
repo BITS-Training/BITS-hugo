@@ -38,7 +38,7 @@ Unser Hoster benötigt bestimmte Daten, um die Seiten anzuzeigen und verarbeitet
 
 [XX]
 
-Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 Satz 1 lit. f) DSGVO. 
+Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. 
 
 Der Hoster ist Empfänger Ihrer personenbezogenen Daten. Sie werden nach [XX] Tagen gelöscht.
 

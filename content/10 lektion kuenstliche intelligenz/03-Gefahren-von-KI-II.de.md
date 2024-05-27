@@ -5,7 +5,7 @@ draft: false
 weight: 30
 icon: robot
 ---
-Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder -Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen eines Entscheidungsprozesses kommen, je nach Einsatzgebiet mit weitreichenden Folgen.
+Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder -Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen in einem Entscheidungsprozess kommen, je nach Einsatzgebiet mit weitreichenden Folgen.
 
 Wenn z.B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt zudem immer wieder vor, dass Chat-Bots falsche Antworten geben, die auf den ersten Blick plaubsibel erscheinen. KI-Programme können auch "voreingenommen" sein, wenn z.B. keine repräsentativen Trainingsdaten eingesetzt wurden, und sie in der Folge ethisch bedenkliche Empfehlungen oder Ergebnisse liefern.
 
