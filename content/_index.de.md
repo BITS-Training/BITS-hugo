@@ -1,6 +1,6 @@
 ---
 archetype: "home"
-title: "Wilkommen"
+title: "Willkommen"
 date: 2021-03-06T09:11:59
 weight: 10
 disableToc: true
