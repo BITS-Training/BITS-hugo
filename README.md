@@ -5,7 +5,7 @@ Stand: 01.06.2024
 ## Einleitung
 Diese Datei beschreibt, wie BITS über das Open-Source-Werkzeug "hugo" bearbeitet und auf lokale Anforderungen hin angepasst werden kann. hugo dient der automatisierten Erstellung von statischen HTML-Seiten auf Basis von Markdown-Textdateien.
 
-Alternativ kann die HTML-Version von BITS heruntergeladen und direkt über einen Text-Editor in den statischen HTML-Seiten gearbeitet werden, um Anpassungen vorzunehmen. Dies entspricht BITS, wie es bis Version 5.5 entwickelt wurde. Außerdem gibt es neben der HTML-Version für die Installstion auf einem File-Server ein weiteres Archiv mit dem gleichen Stand, das die Installation auf einem Web-Server ermöglicht - nur mit diesem funktioniert die eingebaute Suche in BITS.  In diesen Download-Archiven (Repositorys) ist im Unterordner /static eine weitere Readme.md enthalten, die konkrete Hinweise zur Anpassung, aber auch zur Aktivierung des Gewinnspiels etc. beinhaltet.
+Alternativ kann die HTML-Version von BITS heruntergeladen und direkt über einen Text-Editor in den statischen HTML-Seiten gearbeitet werden, um Anpassungen vorzunehmen. Dies entspricht BITS, wie es bis Version 5.5 entwickelt wurde. Außerdem gibt es neben der HTML-Version für die Installstion auf einem File-Server ein weiteres Archiv mit dem gleichen Stand, das die Installation auf einem Web-Server ermöglicht.  In diesen Download-Archiven (Repositorys) ist im Unterordner /static eine weitere Readme.md enthalten, die konkrete Hinweise zur Anpassung, aber auch zur Aktivierung des Gewinnspiels etc. beinhaltet.
 
 Das BITS-Repository mit den beiden Download-Archiven ("Releases") liegt auf GitHub: [BITS-hugo](https://github.com/BITS-Editor/BITS-hugo)
 
@@ -65,7 +65,7 @@ Mit folgenden Befehlen werden mit hugo aus den Markdown-Textdateien die statisch
 	hugo --cleanDestinationDir
 	```
 
-2. Für die Verwendung ohne Webserver auf einem **Fileserver** als statische HTML-Dateien (Suche geht nicht!):
+2. Für die Verwendung ohne Webserver auf einem **Fileserver** als statische HTML-Dateien:
 
 	```bash
 	hugo --environment html --cleanDestinationDir

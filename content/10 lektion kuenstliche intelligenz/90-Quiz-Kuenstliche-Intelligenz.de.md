@@ -38,7 +38,7 @@ shuffle_answers: true
    
 2. [ ] Na klar! "KI" schlägt "NI" (Natürliche Intelligenz)
 
-	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u.a. die Gefahr, dass dienstliche Daten an Unbefugte gelangen.
+	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u.a. die Gefahr, dass dienstliche Informationen an Unbefugte gelangen.
 	
 3. [x] Nur dann, wenn die Nutzung der KI-Anwendung in meiner {{< param Einrichtung >}} für dienstliche Zwecke freigegeben wurde.
 

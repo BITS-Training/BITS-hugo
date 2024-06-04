@@ -16,8 +16,8 @@ Passwort-Manager sind Computer-Anwendungen, die es häufig auch als Apps für Sm
 Der Vorteil eines Passwort-Managers ist, dass Sie sich nur das Master-Passwort merken müssen. Dies ist gleichzeitig der größte Nachteil. Wenn Sie es vergessen, haben Sie keinen Zugang zu den weiteren Passwörtern!
 
 
-### Zwei-Faktor-Authentisierung (2FA)
-Bei einer Zwei-Faktor-Authentisierung (abgekürzt 2FA) wird neben dem Wissen (z.B. ein nur Ihnen bekanntes Passwort) noch ein weiteres Merkmal beim Einloggen in ein Programm oder zum Abrufen von Nachrichten verlangt. Dies kann ein Stück Hardware in Form eines kleinen Sticks („Token“) sein, der auf einem Display eine einmalige Nummer auf Knopfdruck anzeigt. Es gibt aber auch Smartphone-Apps, die bei 2FA genutzt werden können. Über die App oder den Token müssen Sie dann beim Einloggen diesen Vorgang zusätzlich bestätigen. Diese Form der 2FA kommt regelmäßig beim Online-Banking oder Finanzdienstleistungen im Internet vor.
+### Zwei-Faktor-Authentisierung (2FA) / Multifaktor-Authentisierung (MFA)
+Bei einer Zwei-Faktor-Authentisierung (abgekürzt 2FA) oder einer Multifaktor-Authentisierung (MFA) wird neben dem Wissen (z.B. ein nur Ihnen bekanntes Passwort) noch ein weiteres Merkmal beim Einloggen in ein Programm oder zum Abrufen von Nachrichten verlangt. Dies kann ein Stück Hardware in Form eines kleinen Sticks („Token“) sein, der ggf. auf einem Display eine einmalige Nummer auf Knopfdruck anzeigt. Es gibt aber auch Smartphone-Apps, die bei 2FA genutzt werden können. Über die App oder den Token müssen Sie dann beim Einloggen diesen Vorgang zusätzlich bestätigen. Diese Form der 2FA kommt regelmäßig beim Online-Banking oder Finanzdienstleistungen im Internet vor.
 
 ### Passwortkarten
 Passwortkarten sind unveränderliche Tabellen mit Buchstaben, Zahlen und Sonderzeichen. Durch eine gedachtes Master-Passwort können diese verknüpft und zu neuen Passwörten zusammengesetzt werden.

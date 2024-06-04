@@ -12,6 +12,6 @@ Diese Lektion erläutert,
 
 - was Künstliche Intelligenz (KI) ist,
 - welche Gefahren von ihr ausgehen,
-- wie Sie sich, Ihre {{< param Einrichtung >}} und die von Ihnen verarbeiteten Daten vor diesen Gefahren schützen können.
+- wie Sie sich, Ihre {{< param Einrichtung >}} und die von Ihnen verarbeiteten Informationen vor diesen Gefahren schützen können.
 
 

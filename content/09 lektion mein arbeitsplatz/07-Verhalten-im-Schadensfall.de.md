@@ -13,4 +13,4 @@ Sollten Sie den Eindruck haben, dass jemand durch vorsätzliches Einwirken auf S
 
 Schalten Sie Ihren Computer beim Verdacht auf einen Virus nicht eigenmächtig aus. Falls Ihnen die Kabel des Rechners vertraut sind, empfiehlt es sich, die Netzwerkverbindung durch Ziehen des entsprechenden Steckers oder Abschalten von WLAN- bzw. Mobilfunkverbindungen zu unterbrechen. Dadurch wird die Verbreitung eines Virus im dienstlichen Netz verhindert.
 
-Tauchen trotz des Befolgens aller hier vorgestellten Regeln Probleme auf, informieren Sie unverzüglich Ihre zuständigen Organisationseinheiten. Die allgemeinen Kontaktdaten finden Sie unter [Infos / Ansprechpersonen](/ansprechpersonen/).
+Tauchen trotz des Befolgens aller hier vorgestellten Regeln Probleme auf, informieren Sie unverzüglich Ihre zuständigen Organisationseinheiten. Die allgemeinen Kontaktdaten finden Sie bei den [Ansprechpersonen](/ansprechpersonen/).
