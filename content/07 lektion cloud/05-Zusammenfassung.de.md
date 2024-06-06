@@ -15,7 +15,7 @@ Vertrauen Sie Ihre privaten Daten Dritten an, sollten Sie prüfen, ob die Zugang
 
 **Was sind Ihre Daten wert?**
 
-Wie auch bei [Social Media](/06 lektion social media) gilt, dass der Preis, den Sie für kostenlose Dienste zahlen, Ihre Daten selbst oder Ihr Nutzungsverhalten ist. Wägen Sie dies gegen (vermeintlich) günstige Angebote ab.
+Wie auch bei [Social Media](/06-lektion-social-media) gilt, dass der Preis, den Sie für kostenlose Dienste zahlen, Ihre Daten selbst oder Ihr Nutzungsverhalten ist. Wägen Sie dies gegen (vermeintlich) günstige Angebote ab.
 
 - Verschlüsseln Sie möglichst Ihre Cloud-Daten!
 - Halten Sie Kopien zuhause vor!

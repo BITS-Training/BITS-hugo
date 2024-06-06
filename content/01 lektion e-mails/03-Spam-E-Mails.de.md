@@ -28,6 +28,6 @@ Ca. 60% der heute empfangenen E-Mails sind Spam. In vielen {{< param Einrichtung
 
 {{% notice tip %}}
 
-Manchmal enthalten Spam-E-Mails auch Angriffstechniken wie Phishing, Viren oder Würmer. Mehr dazu sogleich und in der Lektion [Viren](/02 lektion viren). 
+Manchmal enthalten Spam-E-Mails auch Angriffstechniken wie Phishing, Viren oder Würmer. Mehr dazu sogleich und in der Lektion [Viren](/02-lektion-viren). 
 
 {{% /notice %}}

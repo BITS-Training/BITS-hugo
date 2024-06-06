@@ -14,7 +14,7 @@ In vielen {{% param Einrichtungen %}}  ist die Nutzung der dienstlichen E-Mail-A
 
 - Wenn nein - verzichten Sie darauf!
 - Wenn ja - nutzen Sie diese nur im angemessenen Umfang und versenden und empfangen Sie allenfalls kleine Dateien!
-- Sprechen Sie bei Fragen Ihre [Ansprechperson]({{< ref "/ansprechpersonen/" >}}) an!
+- Sprechen Sie bei Fragen Ihre [Ansprechperson](/ansprechpersonen/) an!
 
 {{% /notice %}}
 
