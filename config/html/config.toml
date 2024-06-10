@@ -6,8 +6,7 @@ relativeURLs = true
 uglyurls = true
 
 [params]
-  ### Die Suche funktioniert nur beim Betrieb über einen Web-Server!!
-  ##disableSearch = true <- soll jetzt auch über file-urls laufen!
+  ##disableSearch = true 
   disableBreadcrumb = true
   disableExplicitIndexURLs = false
 
