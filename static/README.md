@@ -1,7 +1,7 @@
 # BITS Behörden-IT-Sicherheitstraining
 
 
-Stand: 01.06.2024
+Stand: 01.07.2024
 
 Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
