@@ -1,6 +1,6 @@
 # Relearn-Theme - HowTo
 
-Stand 13.05.2024
+Stand 01.07.2024
 
 ## O. Einleitung
 
@@ -32,7 +32,7 @@ Textvariablen werden im geamten Inhalt verwendet und können bei Bedarf hier zen
 - BITS = "BITS"
 - BITS_Titel = "Behörden-IT-Sicherheitstraining"
 - Ver = "6.5"
-- Release = "aus Frühling 2024"
+- Release = "aus Sommer 2024"
 - BITS_Password_Length = "zehn"
 - Einrichtung = "Behörde oder Einrichtung"
 - Einrichtungen = "Behörden und Einrichtungen"
