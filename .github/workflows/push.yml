@@ -1,0 +1,120 @@
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
+name: Create Relese with Hugo
+
+# run on push event
+on:
+  push:
+
+# Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# set permissions for GITHUB TOKEN
+permissions:
+  contents: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job
+  build:
+    # build only if push to master or tags
+    if: ${{ (github.ref == 'refs/heads/main') || (github.ref == 'refs/heads/develop') || (startsWith(github.ref, 'refs/tags/')) }}
+    runs-on: ubuntu-latest
+    steps:
+### manual hugo setup
+#      - name: Install Hugo CLI
+#        run: |
+#          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+#          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+#      - name: Install Dart Sass
+#        run: sudo snap install dart-sass
+###
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+# Hugo Setup action from mareketplace
+# https://github.com/marketplace/actions/hugo-setup
+      - name: Read .env
+        id: hugo-version
+        run: |
+          echo "NOW=$(date +'%Y-%m-%d_%H:%M:%S_%Z')" >> $GITHUB_ENV
+          cat ./.env >> $GITHUB_ENV
+          echo "HUGO_CACHEDIR=${{ runner.temp }}/hugo_cache" >> $GITHUB_ENV
+          echo "BITS_WEB=${{ runner.temp }}/BITS-${{ github.ref_name }}-webroot" >> $GITHUB_ENV
+          echo "BITS_FILE=${{ runner.temp }}/BITS-${{ github.ref_name }}-fileshare" >> $GITHUB_ENV
+          echo "BITS_MD5=${{ runner.temp }}/BITS-${{ github.ref_name }}.md5" >> $GITHUB_ENV
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '${{ env.HUGO_VERSION }}'
+          extended: true
+###
+      - name: Build webroot with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination $BITS_WEB
+      - name: Create webroot ZIP
+        run: |
+          cd $BITS_WEB && \
+          zip -r -9 \
+          $BITS_WEB.zip \
+          ./* \
+          -x CNAME
+      - name: Build html with Hugo
+        env:
+          HUGO_ENVIRONMENT: html
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination $BITS_FILE
+      - name: Create fileshare ZIP
+        run: |
+          cd $BITS_FILE && \
+          zip -r -9 \
+          $BITS_FILE.zip \
+          ./* \
+          -x CNAME
+      - name: Create md5sum file
+        run: |
+          cd ${{ runner.temp }} && \
+          md5sum ./BITS-*.zip >$BITS_MD5
+# create pre release
+### https://github.com/slord399/action-automatic-releases
+      - name: "Publish Prerelease"
+        uses: "slord399/action-automatic-releases@v1.0.1"
+        if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Development Build ${{ env.NOW }}"
+          files: |
+            ${{ env.BITS_WEB }}.zip
+            ${{ env.BITS_FILE }}.zip
+            ${{ env.BITS_MD5 }}
+# create release
+      - name: "Publish Release"
+        uses: "slord399/action-automatic-releases@v1.0.1"
+        if: ${{ startsWith(github.ref, 'refs/tags/') }}
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          title: "BITS ${{ github.ref_name }}"
+          files: |
+            ${{ env.BITS_WEB }}.zip
+            ${{ env.BITS_FILE }}.zip
+            ${{ env.BITS_MD5 }}
+
