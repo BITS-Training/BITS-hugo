@@ -166,3 +166,72 @@ jobs:
           git add .
           git commit -m "$COMMIT_MESSAGE"
           git push
+
+  deploy_release:
+    # deploy to gh-pages only if push to master or develop
+    if: ${{ startsWith(github.ref, 'refs/tags/') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout BITS
+        uses: actions/checkout@v4
+        with:
+          path: BITS-Hugo
+          submodules: recursive
+      - name: Checkout bits-training.de source repo with token
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/bits-training.de
+          path: bits-training.de
+          ref: main
+          token: ${{ secrets.BITS_RELEASE_ACTION_PAT }}
+      - name: Checkout pages repo with token
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/BITS-Training.github.io
+          path: BITS-Training.github.io
+          ref: main
+          token: ${{ secrets.BITS_RELEASE_ACTION_PAT }}
+      - name: Read .env
+        id: hugo-version
+        working-directory: ./BITS-Hugo
+        run: |
+          echo "NOW=$(date +'%Y-%m-%d_%H:%M:%S_%Z')" >> $GITHUB_ENV
+          cat ./.env >> $GITHUB_ENV
+          echo "HUGO_CACHEDIR=${{ runner.temp }}/hugo_cache" >> $GITHUB_ENV
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '${{ env.HUGO_VERSION }}'
+          extended: true
+      - name: Setup git config
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "<>"
+      - name: Build release demo with Hugo
+        env:
+          HUGO_ENVIRONMENT: demo
+        working-directory: ./BITS-Hugo
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination ../bits-training.de/static/training
+      - name: Commit and push generated bits-training.de source
+        working-directory: ./bits-training.de
+        run: |
+          export COMMIT_MESSAGE="release ${{ github.ref_name }}"
+          git add .
+          git commit -m "$COMMIT_MESSAGE"
+          git push
+      - name: Build release pages with Hugo
+        working-directory: ./bits-training.de
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination ../BITS-Training.github.io
+      - name: Commit and push generated release pages
+        working-directory: ./BITS-Training.github.io
+        run: |
+          export COMMIT_MESSAGE="BITS ${{ github.ref_name }}"
+          git add .
+          git commit -m "$COMMIT_MESSAGE"
+          git push
