@@ -72,8 +72,6 @@ Mit folgenden Befehlen werden mit hugo aus den Markdown-Textdateien die statisch
 	```
 Die erzeugten HTML-Dateien liegen im Ordner "public".
 
-Die im Repository enthaltene "create-release.bat" erzeugt aus einem Tag automatisch die beiden ZIP-Dateien für die GitHub-Releases.
-
 ## Weitere Infos
 
 Hinweise zur Installation der Releases und den sinnvollen lokalen Anpassungen der Inhalte und des Layouts liegen hier:

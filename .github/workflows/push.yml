@@ -1,0 +1,237 @@
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
+name: Create Relese with Hugo
+
+# run on push event
+on:
+  push:
+
+# Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# set permissions for GITHUB TOKEN
+permissions:
+  contents: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job
+  build:
+    # build only if push to master, develop or tags
+    if: ${{ (github.ref == 'refs/heads/main') || (github.ref == 'refs/heads/develop') || (startsWith(github.ref, 'refs/tags/')) }}
+    runs-on: ubuntu-latest
+    steps:
+### manual hugo setup
+#      - name: Install Hugo CLI
+#        run: |
+#          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+#          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+#      - name: Install Dart Sass
+#        run: sudo snap install dart-sass
+###
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+# Hugo Setup action from mareketplace
+# https://github.com/marketplace/actions/hugo-setup
+      - name: Read .env
+        id: hugo-version
+        run: |
+          echo "NOW=$(date +'%Y-%m-%d_%H:%M:%S_%Z')" >> $GITHUB_ENV
+          cat ./.env >> $GITHUB_ENV
+          echo "HUGO_CACHEDIR=${{ runner.temp }}/hugo_cache" >> $GITHUB_ENV
+          echo "BITS_WEB=${{ runner.temp }}/BITS-${{ github.ref_name }}-webroot" >> $GITHUB_ENV
+          echo "BITS_FILE=${{ runner.temp }}/BITS-${{ github.ref_name }}-fileshare" >> $GITHUB_ENV
+          echo "BITS_MD5=${{ runner.temp }}/BITS-${{ github.ref_name }}.md5" >> $GITHUB_ENV
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '${{ env.HUGO_VERSION }}'
+          extended: true
+###
+      - name: Build webroot with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination $BITS_WEB
+      - name: Create webroot ZIP
+        run: |
+          cd $BITS_WEB && \
+          zip -r -9 \
+          $BITS_WEB.zip \
+          ./* \
+          -x CNAME
+      - name: Build html with Hugo
+        env:
+          HUGO_ENVIRONMENT: html
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination $BITS_FILE
+      - name: Create fileshare ZIP
+        run: |
+          cd $BITS_FILE && \
+          zip -r -9 \
+          $BITS_FILE.zip \
+          ./* \
+          -x CNAME
+      - name: Create md5sum file
+        run: |
+          cd ${{ runner.temp }} && \
+          md5sum ./BITS-*.zip >$BITS_MD5
+# create pre release
+### https://github.com/slord399/action-automatic-releases
+      - name: "Publish Prerelease"
+        uses: "slord399/action-automatic-releases@v1.0.1"
+        if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Development Build ${{ env.NOW }}"
+          files: |
+            ${{ env.BITS_WEB }}.zip
+            ${{ env.BITS_FILE }}.zip
+            ${{ env.BITS_MD5 }}
+# create release
+      - name: "Publish Release"
+        uses: "slord399/action-automatic-releases@v1.0.1"
+        if: ${{ startsWith(github.ref, 'refs/tags/') }}
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          title: "BITS ${{ github.ref_name }}"
+          files: |
+            ${{ env.BITS_WEB }}.zip
+            ${{ env.BITS_FILE }}.zip
+            ${{ env.BITS_MD5 }}
+
+  deploy_pre:
+    # deploy to gh-pages only if push to master or develop
+    if: ${{ (github.ref == 'refs/heads/main') || (github.ref == 'refs/heads/develop') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout BITS
+        uses: actions/checkout@v4
+        with:
+          path: BITS-Hugo
+          submodules: recursive
+      - name: Checkout pages repo_token
+        uses: actions/checkout@v4
+        with:
+          repository: BITS-Training/BITS-Training.github.io
+          path: BITS-Training.github.io
+          ref: test
+          token: ${{ secrets.BITS_RELEASE_ACTION_PAT }}
+      - name: Read .env
+        id: hugo-version
+        working-directory: ./BITS-Hugo
+        run: |
+          echo "NOW=$(date +'%Y-%m-%d_%H:%M:%S_%Z')" >> $GITHUB_ENV
+          cat ./.env >> $GITHUB_ENV
+          echo "HUGO_CACHEDIR=${{ runner.temp }}/hugo_cache" >> $GITHUB_ENV
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '${{ env.HUGO_VERSION }}'
+          extended: true
+      - name: Build develop test with Hugo
+        env:
+          HUGO_ENVIRONMENT: dev
+        working-directory: ./BITS-Hugo
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination ../BITS-Training.github.io
+      - name: Setup git config
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "<>"
+      - name: Commit and push generated develop pages
+        working-directory: ./BITS-Training.github.io
+        run: |
+          export COMMIT_MESSAGE="BITS test ${{ github.ref}}@${{ github.sha }}"
+          git add .
+          git commit -m "$COMMIT_MESSAGE"
+          git push
+
+  deploy_release:
+    # deploy to gh-pages only if push to master or develop
+    if: ${{ startsWith(github.ref, 'refs/tags/') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout BITS
+        uses: actions/checkout@v4
+        with:
+          path: BITS-Hugo
+          submodules: recursive
+      - name: Checkout bits-training.de source repo with token
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/bits-training.de
+          path: bits-training.de
+          ref: main
+          token: ${{ secrets.BITS_RELEASE_ACTION_PAT }}
+      - name: Checkout pages repo with token
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/BITS-Training.github.io
+          path: BITS-Training.github.io
+          ref: main
+          token: ${{ secrets.BITS_RELEASE_ACTION_PAT }}
+      - name: Read .env
+        id: hugo-version
+        working-directory: ./BITS-Hugo
+        run: |
+          echo "NOW=$(date +'%Y-%m-%d_%H:%M:%S_%Z')" >> $GITHUB_ENV
+          cat ./.env >> $GITHUB_ENV
+          echo "HUGO_CACHEDIR=${{ runner.temp }}/hugo_cache" >> $GITHUB_ENV
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '${{ env.HUGO_VERSION }}'
+          extended: true
+      - name: Setup git config
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "<>"
+      - name: Build release demo with Hugo
+        env:
+          HUGO_ENVIRONMENT: demo
+        working-directory: ./BITS-Hugo
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination ../bits-training.de/static/training
+      - name: Commit and push generated bits-training.de source
+        working-directory: ./bits-training.de
+        run: |
+          export COMMIT_MESSAGE="release ${{ github.ref_name }}"
+          git add .
+          git commit -m "$COMMIT_MESSAGE"
+          git push
+      - name: Build release pages with Hugo
+        working-directory: ./bits-training.de
+        run: |
+          hugo \
+            --cleanDestinationDir \
+            --destination ../BITS-Training.github.io
+      - name: Commit and push generated release pages
+        working-directory: ./BITS-Training.github.io
+        run: |
+          export COMMIT_MESSAGE="BITS ${{ github.ref_name }}"
+          git add .
+          git commit -m "$COMMIT_MESSAGE"
+          git push
