@@ -34,7 +34,7 @@ Neben dem WWW sind Messaging-Apps, Streamingdienste, Spiele und E-Mails die wich
 - 2000: 8,4 Mio.
 - 2010: 89 Mio.
 - 2020: 191 Mio.
-- 2022: 198 Mio.
+- 2024: 193 Mio.
 
 Quelle: Web Server Survey - Netcraft Ltd.
 {{% /notice %}}
