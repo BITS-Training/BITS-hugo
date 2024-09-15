@@ -67,18 +67,15 @@ shuffle_answers: true
 
 1. [ ] Ich stecke den Stick in meinen Computer und bearbeite die Daten.
 
-	>Falsch. Falls Ihre USB-Buchsen überhaupt zugänglich sind, können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen.
-   
+	>Falsch. Falls Ihre USB-Buchsen überhaupt zugänglich sind, können auf diesem Weg möglicherweise Viren vom USB-Stick auf Ihren Computer und so in das Netzwerk Ihrer {{< param Einrichtung >}} gelangen.
+ 
 2. [ ] Ich kopiere die Daten vom USB-Stick auf meinen privaten Laptop und sende sie dann an mein dienstliches E-Mail-Postfach.
 
-	>Nein. Abgesehen davon, dass dienstliche Daten nicht auf privaten Endgeräten verarbeitet werden dürfen, können auf diesem Weg Viren vom USB-Stick in das Netzwerk Ihrer {{< param Einrichtung >}} gelangen.
+	>Nein. Abgesehen davon, dass dienstliche Daten nicht auf privaten Endgeräten verarbeitet werden dürfen, können auf diesem (Um-)Weg Viren vom USB-Stick in das Netzwerk Ihrer {{< param Einrichtung >}} gelangen.
 	
 3. [x] Ich bitte die Person, mir die Daten elektronisch per E-Mail zuzusenden oder mir einen Download-Link zu schicken.
 
-	>**Richtige Antwort**
-4. [ ] Ich schaue mir den Stick zunächst auf einem Computer ohne Netzwerkanbindung an, um festzustellen, dass die gewünschten Dateien auch enthalten sind. Erst dann kann der USB-Stick im Zielsystem verwendet werden.
-
-	>Nicht richtig. Falls Ihre USB-Buchsen überhaupt zugänglich sind können auf diesem Weg Viren vom USB-Stick auf Ihren Computer und so in Ihr Netzwerk gelangen.
+	>**Richtige Antwort** Diese Methode reduziert das Risiko einer Malware-Infektion, da keine physischen Medien verwendet werden, die kompromittiert sein könnten.
 
 ## Sie sitzen mit Ihrer Kollegin bei einem Ortstermin und müssen ihr ein vertrauliches Excel-Dokument als Datei übergeben. Wie gehen Sie vor?
 

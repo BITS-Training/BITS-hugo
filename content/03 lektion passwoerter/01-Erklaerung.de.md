@@ -28,4 +28,4 @@ In den meisten {{< param Einrichtungen >}} müssen Passwörter regelmäßig geä
 
 ### Passkeys - das Ende von Passwörtern?
 
-Über eine Sicherheitstechnologie namens "Passkeys" sollen nach und nach Passwörter ersetzt werden. Bei Passkeys werden auf den Endgeräten der Nutzenden die Authentifizierungsinformationen so hinterlegt, dass sie nur über ein PIN, den Fingerabdruck oder einen Gesichtsscan der Berechtigten und auch nur für eine bestimmte Internetseite oder einen bestimmte Anwendung genutzt werden können. Mittelfristig dürfte dies zumindest bei der Anmeldung im Internet die Nutzung von Passwörtern überflüssig machen.
+Über eine Sicherheitstechnologie namens "Passkeys" sollen nach und nach Passwörter ersetzt werden. Bei Passkeys werden auf den Endgeräten der Nutzenden die Authentifizierungsinformationen so hinterlegt, dass sie nur über eine PIN, den Fingerabdruck oder einen Gesichtsscan der Berechtigten und auch nur für eine bestimmte Internetseite oder einen bestimmte Anwendung genutzt werden können. Mittelfristig dürfte dies zumindest bei der Anmeldung bei  Internetseiten die Nutzung von Passwörtern überflüssig machen.

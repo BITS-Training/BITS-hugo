@@ -36,19 +36,19 @@ Als Startseite kann direkt auf den Root-Ordner (Webserver-Version) bzw. auf die 
 
 Technisch kann die Anpassung von BITS an die lokalen Anforderungen über das direkte Bearbeiten der statischen HTML-Seiten aus den Releases, oder, vorzugsweise, über die Änderung der Markdown-Textdateien, die im BITS-Repository liegen, erfolgen. Für den zweiten Weg empfiehlt sich die Nutzung des Open Source-Werkzeugs hugo in Verbindung mit der Versionsverwaltung Git, um die statischen Webseiten neu zu erstellen. Näheres ist in der [README.md-Datei](https://github.com/BITS-Training/BITS-hugo#readme) beschrieben.
 
-* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version im Internet veröffentlicht werden soll, auch das Impressum. Diese Daten liegen im Repository unter \content und bei den Release-Versionen auf der obersten Dateiebene (Fileserver-Version) oder in den entsprechenden Unterordnern datenschutz bzw. impressum (Webserver-Version). Falls man mit hugo arbeitet kann die Impressumsdatei einfach bei fehlendem Bedarf aus den Daten gelöscht werden.
-* Vor der Freigabe für die Beschäftigten muss die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\ansprechpersonen\index.html" (Webserver-Version) oder "ansprechpersonen.html" (Fileserver-Version). Im Repository liegt sie unter  \content\ansprechpersonen.
-* Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" führen.
-* Individuelle Verweise auf weitere Informationsquellen können in der Datei "\weitere-informationen\index.html" (Webserver) oder "\weitere-informationen.html" (File-Server) bzw. \content\Weitere-Informationen.md (Repository) verlinkt werden.
+* Die Datenschutzerklärung muss angepasst werden - und, wenn die eigene Version im Internet veröffentlicht werden soll, auch das Impressum. Diese Daten liegen im Repository unter \content\mehr und bei den Release-Versionen im Ordner \mehr (Fileserver-Version) oder in den entsprechenden Unterordnern datenschutz bzw. impressum (Webserver-Version). Falls man mit hugo arbeitet kann die Impressumsdatei einfach bei fehlendem Bedarf aus den Daten gelöscht werden.
+* Vor der Freigabe für die Beschäftigten muss die Seite „Ansprechpersonen“ für die entsprechende Behörde oder Einrichtung angepasst werden. Dies ist die Datei "\mehr\ansprechpersonen\index.html". Im Repository liegt sie unter \content\ansprechpersonen.
+* Anderslautende Dienstvereinbarungen oder -anweisungen könnten zu Änderungsbedarfen in den Lektionen "E-Mail" und "Vertrauliche Daten" sowie "KI" führen.
+* Individuelle Verweise auf weitere Informationsquellen können in der Datei "\mehr\weitere-informationen\index.html" (Webserver) oder "\mehr\weitere-informationen.html" (File-Server) bzw. \content\mehr\Weitere-Informationen.md (Repository) verlinkt werden.
 * Variablen wie z.B. die an einigen Stellen empfohlene Mindestpasswortlänge, werden über die Datei config/_default/config.toml gesteuert. Wie diese zu verwenden sind, wird in der Datei ReLearnTheme-HowTo.md im obersten Ordner erläutert. Dies erfordert im Nachgang ein Erzeugen der statischen HTML-Seiten über Hugo.
-* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\static\images\logo.jpg" (Repository) bzw. im Ordner \images (Fileserver-Version und Webserver-Version) oder überschreiben. Das Bild sollte 220px breit und 140px hoch sein.
-* Farbliche Anpassungen der Links, der Suchbox etc. sind über die Datei static/css/theme-bits.css möglich.
+* Das BITS-Logo kann durch ein eigenes ersetzt werden: Einfach die Datei "\static\images\logo.png" (Repository) bzw. im Ordner \images (Fileserver-Version und Webserver-Version) oder überschreiben. Das Bild sollte 200px breit und 200px hoch sein.
+* Farbliche Anpassungen der Links, der Suchbox etc. sind über die Dateien in \static\css im Repository bzw. \css in den Release-Versionen möglich.
 
 ## 4. Bedienung und technische Anforderungen
 
 Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf des Root-Ordners (Webserver-Version) oder der „index.html“-Datei (Fileserver-Version) im Browser durch die Beschäftigten. Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch die Pfeiltasten der Tastatur genutzt werden.
 
-BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Edge, Vivaldi, Firefox und Chrome sowie Safari getestet. Der MS Internet Explorer wird nicht unterstützt.
+BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Es ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Edge, Vivaldi, Firefox und Chrome sowie Safari getestet.
 
 Im Hauptmenü stehen links unten drei Kontraststufen zur individuellen Auswahl bereit.
 
