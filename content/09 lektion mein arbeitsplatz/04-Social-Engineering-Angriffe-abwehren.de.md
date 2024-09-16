@@ -12,7 +12,7 @@ Häufig werden gezielt Personen für Angriffe ausgewählt, die keine sicherheits
 Wie verhalten Sie sich, wenn Sie Zweifel haben?
 
 - Lassen Sie sich im Zweifelsfall eine Rückrufnummer geben, die Sie überprüfen.
-- Erkundigen Sie sich bei Vorgesetzten, Kollegen oder Ihren [Ansprechperson](/ansprechpersonen/), ob die anfragende Person vertrauenswürdig und „echt“ ist.
+- Erkundigen Sie sich bei Vorgesetzten, Kollegen oder Ihren [Ansprechpersonen](/ansprechpersonen/), ob die anfragende Person vertrauenswürdig und „echt“ ist.
 
 Weitere Informationen gibt es in der Lektion [Passwörter](/03-lektion-passwoerter/02-Gefahren#social-engineering)
 
