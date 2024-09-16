@@ -5,7 +5,7 @@ draft: false
 weight: 20
 icon: share
 ---
-Das Betreiben der technischen Plattformen für Social Media-Dienste kostet Geld. Da diese aber meist kostenfrei angeboten werden, finanzieren sich die Betreiber über Spenden (so z.B. bei Wikipedia) oder über Werbung (so z.B. bei Facebook). Die Werbenden sind aber nur an der Finanzierung der Plattformen interessiert, wenn sie einen wirtschaftlichen Vorteil erhalten. Dieser besteht neben der Möglichkeit allgemeine Werbung zu platzieren, meist darin, Nutzerdaten der Besucherinnen und Besucher zur Auswertung zu erhalten, um gezielter zu werben.
+Das Betreiben der technischen Plattformen für Social Media-Dienste kostet Geld. Da diese aber meist kostenfrei angeboten werden, finanzieren sich die Betreiber über Spenden (so z.B. bei Wikipedia) oder über Werbung (so z.B. bei Facebook). Die Werbenden sind aber nur an der Finanzierung der Plattformen interessiert, wenn sie einen wirtschaftlichen Vorteil erhalten. Dieser besteht neben der Möglichkeit, allgemeine Werbung zu platzieren, meist darin, Nutzerdaten der Besucherinnen und Besucher zur Auswertung zu erhalten, um gezielter zu werben.
 
 ### Probleme bei Social Media
 
