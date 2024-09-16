@@ -11,7 +11,7 @@ Smartphones bieten nicht nur Möglichkeiten zum Telefonieren oder zur Adressverw
 
 Das alles geschieht kabellos mittels „Wireless“- (Drahtlos-) Technologien wie WLAN (siehe nächste Seite) und natürlich den Telefon- und Datennetzen. Problematisch ist dabei, dass oft schwer festzustellen ist, wer bei einer drahtlosen Datenübertragung mithört und ob dieser Zugang gerade ausspioniert wird. Gerade unverschlüsselte WLANs erlauben leicht Angriffe auf die über sie übermittelten Daten.
 
-Bei vielen Anwendungen auf Smartphones („Apps“) verlangen diese bei der Installation weitgehende Rechte, die nicht immer benötigt werden, z.B. Zugriff auf Ihr Adressbuch.
+Viele Anwendungen auf Smartphones („Apps“) verlangen bei der Installation weitgehende Rechte, die nicht immer benötigt werden, z. B. Zugriff auf Ihr Adressbuch.
 
 Aus diesen Gründen haben die meisten {{< param Einrichtungen >}} erweiterte Sicherheitsrichtlinien für die Verwendung mobiler Geräte und die Nutzung von Funknetzen aufgestellt, die auf den folgenden Seiten beispielhaft beschrieben werden.
 
@@ -21,7 +21,7 @@ Aus diesen Gründen haben die meisten {{< param Einrichtungen >}} erweiterte Sic
 
 **WLAN** = Wireless Local Area Network; Verbindung mehrerer Endgeräte über einen lokalen Sender (Access Point oder Router); Reichweite: 50+ Meter.
 
-**UMTS (3G)** =  Handy-Netz für Sprache und Daten (Universal Mobile Telecommunications System); Daten-Geschwindigkeit von bis zu 21 MBit/s.
+**UMTS (3G)** =  Handy-Netz für Sprache und Daten (Universal Mobile Telecommunications System); Daten-Geschwindigkeit von bis zu 42 MBit/s.
 
 **LTE** = Long Term Evolution; Weiterentwicklung von UMTS mit bis zu 300 MBit/s.
 
