@@ -17,7 +17,7 @@ und zwar für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann diese Fr
 
 Bedingungen:
 
-- Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur [Lizenz](https://www.bits-training.de/training/herausgeber-und-lizenz/)  beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+- Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur [Lizenz](https://www.bits-training.de/training/mehr/herausgeber-und-lizenz/)  beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
 - Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original - [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) - verbreiten.
 - Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 

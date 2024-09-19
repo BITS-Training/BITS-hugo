@@ -9,7 +9,7 @@ icon: check
 
 ### *Sind die Daten durch gesetzliche oder behördliche Bestimmungen geschützt?*
 
-Ihre {{< param Einrichtung >}} unterliegt stets dem jeweils für sie gültigen Datenschutzgesetz. In einigen Ländern und beim Bund gibt es zudem Informationsfreiheitsgesetze, in denen u.a. ein Anspruch für jedermann auf Offenlegung der bei einer Behörde vorliegenden Daten geregelt ist. Ausgenommen sind regelmäßig personenbezogene Daten und Betriebs- oder Geschäftsgeheimnisse. Hierdurch wird das Datenschutzrecht in den Bereich des Informationsfreiheitsrechts einbezogen.
+Ihre {{< param Einrichtung >}} unterliegt stets dem jeweils für sie gültigen Datenschutzgesetz. In einigen Ländern und beim Bund gibt es zudem Informationsfreiheitsgesetze, in denen u. a. ein Anspruch für jedermann auf Offenlegung der bei einer Behörde vorliegenden Daten geregelt ist. Ausgenommen sind regelmäßig personenbezogene Daten und Betriebs- oder Geschäftsgeheimnisse. Hierdurch wird das Datenschutzrecht in den Bereich des Informationsfreiheitsrechts einbezogen.
 
 Aber auch interne Regelungen, z.B. Verschlusssachenanweisungen, sind zu beachten!
 

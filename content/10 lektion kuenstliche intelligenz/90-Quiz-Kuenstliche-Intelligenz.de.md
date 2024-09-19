@@ -36,7 +36,7 @@ shuffle_answers: true
 
 	>Falls Ihre {{< param Einrichtung >}} den Einsatz bestimmter KI-Anwendungen erlaubt hat, können Sie diese nutzen. Die allgemeinen Vorsichtsmaßnahmen gelten aber auch dann..
    
-2. [ ] Na klar! "KI" schlägt "NI" (Natürliche Intelligenz)
+2. [ ] Na klar! „KI“ schlägt „NI“ (Natürliche Intelligenz)
 
 	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u.a. die Gefahr, dass dienstliche Informationen an Unbefugte gelangen.
 	

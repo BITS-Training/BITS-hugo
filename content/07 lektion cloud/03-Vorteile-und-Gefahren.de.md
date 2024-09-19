@@ -7,9 +7,9 @@ icon: cloud-download-alt
 ---
 ### Vorteile von Cloud-Diensten
 
-Cloud-Dienste werden oft so angeboten, dass die Kundinnen und Kunden die Dienste sehr kurzfristig in Anspruch nehmen, erweitern oder verringern können. Idealerweise merken die Nutzerinnen und Nutzer nicht, dass z.B. weiterer Speicher wegen verstärkter Nutzung hinzugeschaltet wird, um die Dienste in der versprochenen Qualität anzubieten.
+Cloud-Dienste werden oft so angeboten, dass die Kundinnen und Kunden die Dienste sehr kurzfristig in Anspruch nehmen, erweitern oder verringern können. Idealerweise merken die Nutzerinnen und Nutzer nicht, dass z. B. weiterer Speicher wegen verstärkter Nutzung hinzugeschaltet wird, um die Dienste in der versprochenen Qualität anzubieten.
 
-Die Kundinnen und Kunden müssen nicht selbst Hard- und Software betreiben, die manchmal aufwändig eingerichtet werden muss. Dies ist besonders von Vorteil, wenn der Umfang der Nutzung wieder verringert wird. Bei den kostenpflichtigen Cloud-Diensten zahlt man regelmäßig nur für den laufenden Betrieb, der in kurzen Zeitspannen abgerechnet wird - teilweise nach Stunden!
+Die Kundinnen und Kunden müssen nicht selbst Hard- und Software betreiben, die manchmal aufwändig eingerichtet werden muss. Dies ist besonders von Vorteil, wenn der Umfang der Nutzung wieder verringert wird. Bei den kostenpflichtigen Cloud-Diensten zahlt man regelmäßig nur für den laufenden Betrieb, der in kurzen Zeitspannen abgerechnet wird – teilweise nach Stunden!
 
 Die Dienste werden in Netzwerken bzw. über das Internet von spezialisierten Anbieter*innen betrieben. Diese betreuen die Hardware und die Software in dafür ausgelegten Rechenzentren - die Nutzerinnen und Nutzer müssen sich darum nicht kümmern.
 
@@ -22,7 +22,7 @@ Während Privatpersonen häufig auf kostenfreie Angebote zurückgreifen, bei den
 Andernfalls besteht die Gefahr, dass
 
 - Dritte unberechtigt Zugang zu den Daten haben,
-- die Anbieter*innen die Daten für eigene Zwecke nutzen,
+- die Anbieter die Daten für eigene Zwecke nutzen,
 - Daten verloren gehen bzw. nicht zeitgerecht verfügbar sind,
 - unbemerkt Kopien von Daten durch die Anbieter*innen angelegt und gegebenenfalls nicht gelöscht werden.
 

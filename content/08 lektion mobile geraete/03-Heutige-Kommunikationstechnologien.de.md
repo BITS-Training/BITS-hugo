@@ -25,8 +25,8 @@ Aus diesen Gründen haben die meisten {{< param Einrichtungen >}} erweiterte Sic
 
 **LTE** = Long Term Evolution; Weiterentwicklung von UMTS mit bis zu 300 MBit/s.
 
-**LTE Advanced (4G)** = Weiterentwicklung von LTE mit bis zu 1.000 MBit/s.
+**LTE-Advanced (4G)** = Weiterentwicklung von LTE mit bis zu 1.000 MBit/s.
 
-**5G** = Weiterentwicklung von LTE mit bis zu 10.000 MBit/s.
+**5G** = Weiterentwicklung von LTE mit bis zu 20.000 MBit/s.
 
 {{% /notice %}}

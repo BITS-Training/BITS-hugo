@@ -18,14 +18,14 @@ Falls Sie nicht auf Social Media verzichten wollen:
 - Verwenden Sie nicht Ihren echten Namen (dies lassen allerdings nicht alle Anbieter zu)
 - Ändern Sie die Einstellungen so ab, dass nicht alle, sondern nur Ihre Bekannten Ihre Daten einsehen können
 - Stellen Sie nur Informationen ein, die Sie auch einer völlig fremden Person erzählen würden und die Sie nie mehr löschen wollen - auch nicht in zehn Jahren
-- Löschen Sie regelmäßig die Cookies in Ihrem Browser
-- Die meisten Browser erlauben „privates Surfen“, bei dem z.B. Cookies beim Schließen gelöscht werden - nutzen Sie diese Funktion!
+- Löschen Sie regelmäßig die [Cookies](/04-lektion-internet/04-Technische-Webinhalte) in Ihrem Browser
+- Die meisten Browser erlauben „privates Surfen“, bei dem z. B. [Cookies](/04-lektion-internet/04-Technische-Webinhalte) beim Schließen gelöscht werden – nutzen Sie diese Funktion!
 - Nehmen Sie nur Freundschaftsanfragen an, wenn Sie sicher sind, wer anfragt
 - Verwenden Sie ein sicheres Passwort (Informationen hierzu in der Lektion [Passwörter](/03-lektion-passwoerter))
 
 {{% notice tip %}}
   **Freud und Leid**
-- So hilfreich viele der Social Media-Dienste auch sind - die kommerziellen Anbieter wollen mit Ihren Daten Geld verdienen.
+- So hilfreich viele der Social-Media-Dienste auch sind - die kommerziellen Anbieter wollen mit Ihren Daten Geld verdienen.
 - Außerdem besteht die Gefahr, dass Ihre Informationen für gezielte Angriffe missbraucht werden.
   {{% /notice %}}
 

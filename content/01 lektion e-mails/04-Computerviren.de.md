@@ -21,7 +21,7 @@ In einer {{< param Einrichtung >}} wird eine E-Mail normalerweise an zwei Stelle
 - Allein das Betrachten einer E-Mail kann einen Virus aktivieren
 
 {{%expand "Viren durch Betrachten aktivieren (hier klicken)" %}}
-Um Viren allein durch das Betrachten einer E-Mail auszuführen, müssen bestimmte Voraussetzungen erfüllt sein. Moderne E-Mail-Clients und Betriebssysteme sind normalerweise gut gegen solche Angriffe geschützt und von Ihrer {{< param Einrichtung >}}  sicher eingerichtet. Jedoch besteht immer ein gewisses Restrisiko:
+Um Viren allein durch das Betrachten einer E-Mail auszuführen, müssen bestimmte Voraussetzungen erfüllt sein. Moderne E-Mail-Programme und Betriebssysteme sind normalerweise gut gegen solche Angriffe geschützt und von Ihrer {{< param Einrichtung >}}  sicher eingerichtet. Jedoch besteht immer ein gewisses Restrisiko:
 
 - **Automatische Ausführung von Skripten:** E-Mail-Programme sollten so eingestellt sein, dass sie Skripte oder Makros nicht automatisch ausführen. Dies könnte sonst dazu führen, dass potenziell gefährlicher Code aktiviert wird, sobald die E-Mail geöffnet wird.
 - **Anzeige von HTML-Inhalten:** E-Mails im sog. HTML-Format können eingebettete Skripte oder andere schädliche Elemente enthalten. Falls der E-Mail-Client automatisch HTML-Inhalte darstellt, könnte dies ein Risiko darstellen.

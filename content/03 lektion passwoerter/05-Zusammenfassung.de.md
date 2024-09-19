@@ -15,4 +15,4 @@ icon: lock-open
 - Falls verfügbar, nutzen Sie Passwort-Manager und eine Multifaktor-Authentisierung (MFA)
 - Geben Sie Ihr Passwort nicht an andere Personen weiter
 - Wenn Sie keine besonders langen Passwörter verwenden, ändern Sie diese regelmäßig
-- Seien Sie wachsam bei Anfragen nach Zugangsdaten oder Passwörtern - versucht jemand einen Social Engineering-Angriff?
+- Seien Sie wachsam bei Anfragen nach Zugangsdaten oder Passwörtern - versucht jemand einen Social-Engineering-Angriff?

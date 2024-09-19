@@ -5,7 +5,7 @@ draft: false
 weight: 10
 icon: mobile-alt
 ---
-### Was sind "mobile Geräte"?
+### Was sind „mobile Geräte“?
 
 Mobile Geräte gehören mehr und mehr zum alltäglichen Leben. Hierzu zählt man Mobiltelefone (u.a. Smartphones), Notebooks (Laptops, Tablets), aber auch Chipkarten und USB-Sticks.
 

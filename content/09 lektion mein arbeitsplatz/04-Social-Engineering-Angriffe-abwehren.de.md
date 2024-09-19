@@ -1,5 +1,5 @@
 ---
-title: "Social Engineering-Angriffe abwehren"
+title: "Social-Engineering-Angriffe abwehren"
 date: 2021-03-10T09:24:45
 draft: false
 weight: 40

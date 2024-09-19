@@ -7,13 +7,13 @@ icon: cloud-download-alt
 ---
 Zu den typischen Cloud-Diensten zählen u.a.
 
-- Speicher (z.B. für Fotos) und Datenaustausch
-- Anwendungen (z.B. Bildbearbeitungsprogramme)
-- Rechenleistungen (z.B. Internet-Server für eine eigene Homepage)
+- Speicher (z. B. für Fotos) und Datenaustausch
+- Anwendungen (z. B. Bildbearbeitungsprogramme)
+- Rechenleistungen (z. B. Internet-Server für eine eigene Homepage)
 
 Bei einigen dieser Dienste ist es den Anbieter*innen gleich, für welchen konkreten Zweck sie genutzt werden - die freie Nutzbarkeit ist dann Teil des Geschäftsmodells.
 
-Cloud-Dienste werden sowohl kostenpflichtig als auch kostenfrei angeboten. Bei den kostenfreien Angeboten teilt man sich die Dienste mit Dritten, bei den kostenpflichtigen werden - je nach Vertrag - die erforderlichen Betriebsmittel exklusiv zur Verfügung gestellt.
+Cloud-Dienste werden sowohl kostenpflichtig als auch kostenfrei angeboten. Bei den kostenfreien Angeboten teilt man sich die Dienste mit Dritten, bei den kostenpflichtigen werden – je nach Vertrag – die erforderlichen Betriebsmittel exklusiv zur Verfügung gestellt.
 
 Begrifflich unterscheidet man entsprechend zwischen
 

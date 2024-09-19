@@ -11,6 +11,6 @@ icon: share-square
 In dieser Lektion lernen Sie,
 
 - was man unter Social Media versteht,
-- welche Social Media-Dienste es gibt,
+- welche Social-Media-Dienste es gibt,
 - welche Probleme bei der Nutzung von Social Media entstehen können und
 - wie Sie Social Media sicher nutzen können
