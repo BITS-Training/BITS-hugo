@@ -80,7 +80,7 @@ shuffle_answers: true
 2. [ ] Meine Daten kann ruhig jeder sehen, die müssen nicht geschützt werden.
 
 	>Das könnten Sie bereuen. Durch das Sammeln von Daten über Sie können Rückschlüsse gezogen werden, die für Sie von Nachteil sein können.
-3. [x] Ich bin selber für den Schutz verantwortlich, z.B. durch die Vergabe sicherer Passwörter und Verschlüsselung.
+3. [x] Ich bin selber für den Schutz verantwortlich, z. B. durch die Vergabe sicherer Passwörter und Verschlüsselung.
 
 	>**Richtige Antwort**
 
