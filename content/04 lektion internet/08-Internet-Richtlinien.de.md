@@ -5,7 +5,7 @@ draft: false
 weight: 80
 icon: globe-africa
 ---
-Viele {{< param Einrichtungen >}} legen konkrete Richtlinien für die Internetnutzung fest. Diese regeln z.B.
+Viele {{< param Einrichtungen >}} legen konkrete Richtlinien für die Internetnutzung fest. Diese regeln z. B.
 
 - die private Nutzung von Internet-Diensten,
 - den Umgang mit schützenswerten und vertraulichen Daten,
