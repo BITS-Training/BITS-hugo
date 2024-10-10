@@ -22,7 +22,7 @@ icon: envelope-open-text
 
 **Überwachung**
 
-Es ist im Allgemeinen nicht üblich, Nachrichten zu überwachen. Jedoch kann es für die Sicherheit der IT-Systeme notwendig sein, die Nutzung der elektronischen Kommunikationssysteme - also den Zu- und Abgang von E-Mails - zu beobachten, z.B. um Viren zu erkennen.
+Es ist im Allgemeinen nicht üblich, Nachrichten zu überwachen. Jedoch kann es für die Sicherheit der IT-Systeme notwendig sein, die Nutzung der elektronischen Kommunikationssysteme - also den Zu- und Abgang von E-Mails - zu beobachten, z. B. um Viren zu erkennen.
 
 Aus diesem Grund werden in vielen {{< param Einrichtungen >}} automatisch Protokolle zu den sog. Verkehrsdaten (Uhrzeit, Beteiligte etc.) erstellt. Das Mitlesen der Inhalte ist grundsätzlich verboten.
 
