@@ -20,7 +20,7 @@ Es werden folgende Kategorien personenbezogener Daten verarbeitet: [XX]
 
 Dies erfolgt für die Zwecke: [XX].
 
-Die Rechtsgrundlage hierfür ist Art. 6 Abs. 1 Satz 1 lit.) [XX] Datenschutz-Grundverordnung (DSGVO). [Falls die Rechtsgrundlage lit. f) ist, sind die berechtigten Interessen, z.B. die Bereitstellung der Seiten und deren Sicherheit, zu benennen.]
+Die Rechtsgrundlage hierfür ist Art. 6 Abs. 1 Satz 1 lit.) [XX] Datenschutz-Grundverordnung (DSGVO). [Falls die Rechtsgrundlage lit. f) ist, sind die berechtigten Interessen, z. B. die Bereitstellung der Seiten und deren Sicherheit, zu benennen.]
 
 Empfänger Ihrer Daten ist [XX].
 
