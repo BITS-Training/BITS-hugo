@@ -8,11 +8,11 @@ icon: universal-access
 
 ## Tastaturnavigation
 
-BITS unterstützt die Navigation auch über die Tastatur. Aufzuklappende weiterführende Erläuterungen erfordern eine Mausbedienung.
+BITS unterstützt die Navigation auch über die Tastatur. Aufzuklappende weiterführende Erläuterungen können über die Tabulator-Taste und die Leertaste auf- und zugeklappt werden. Anschließend ist jedoch keine Tastatur-Naivation auf der betroffenen Seite mehr möglich.
 
 ### Seitennavigation
 
-Um zur nächsten Seite zu gelangen, ist die Taste Pfeiltaste nach rechts zu verwenden, um zur vorangehenden Seite zu kommen die Pfeiltaste nach links.
+Um zur nächsten Seite zu gelangen, ist die Pfeiltaste nach rechts zu verwenden, um zur vorangehenden Seite zu kommen die Pfeiltaste nach links.
 
 ### Quiz-Bedienung
 
