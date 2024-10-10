@@ -26,13 +26,13 @@ Bevor Sie sensible Daten weitergeben, sollten Sie kurz drei Punkte prüfen:
 
 Bei unverschlüsseltem E-Mail-Verkehr dürfen Sie nie vertrauliche Daten versenden. E-Mails und Faxe sind wie Postkarten lesbar! Versenden Sie im Zweifelsfall Briefe.
 
-Achten Sie bei Office-Dokumenten wie z.B. Word-Dateien oder Excel-Tabellen darauf, die sogenannten Meta-Informationen in den Eigenschaften zu löschen, die für die Empfänger*innen nicht erforderlich sind.
+Achten Sie bei Office-Dokumenten wie z. B. Word-Dateien oder Excel-Tabellen darauf, die sogenannten Meta-Informationen in den Eigenschaften zu löschen, die für die Empfänger*innen nicht erforderlich sind.
 
 {{% notice note %}}
 
 **Meta-Informationen löschen**
 
-Meta-Informationen in Dokumenten über Autor*innen etc.  finden Sie z.B. in MS Office-Anwendungen bei geöffneter Datei unter „Datei – Information (oder Eigenschaften) – Alle Eigenschaften anzeigen“. Sie können die Inhalte der einzelnen Felder dort löschen.
+Meta-Informationen in Dokumenten über Autor*innen etc.  finden Sie z. B. in MS Office-Anwendungen bei geöffneter Datei unter „Datei – Information (oder Eigenschaften) – Alle Eigenschaften anzeigen“. Sie können die Inhalte der einzelnen Felder dort löschen.
 
 {{% /notice %}}
 
