@@ -37,7 +37,7 @@ shuffle_answers: true
 	>Leider nicht richtig. Datei-Viren stellen die „klassische“ Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
 3. [ ] Trojanische Pferde
 
-	>Nö!  Trojanische Pferde zählen zu den Viren. Sie sollen sich unbemerkt in Ihr System einschleusen, um z.B. Daten und Passwörter auszuspionieren.
+	>Nö!  Trojanische Pferde zählen zu den Viren. Sie sollen sich unbemerkt in Ihr System einschleusen, um z. B. Daten und Passwörter auszuspionieren.
 4. [ ] Würmer
 
 	>Das passt nicht - auch Würmer zählen zu den Computer-Viren. Sie reproduzieren sich selbst, breiten sich bevorzugt in Computer-Netzwerken aus und versuchen, deren Arbeit zu stören.
@@ -63,7 +63,7 @@ shuffle_answers: true
 	>**Richtige Antwort**
 4. [ ] Computer-Viren missbrauchen nur das E-Mail-Programm, um ungewollte E-Mails an alle Adressen in Ihrem Adressbuch zu schicken.
 
-	>Es gibt Computer-Viren, die sich genau so verhalten. Andere Viren jedoch verwenden das E-Mail-Programm überhaupt nicht, sondern führen andere Aktionen aus, wie z.B. das Verschlüsseln von Dateien.
+	>Es gibt Computer-Viren, die sich genau so verhalten. Andere Viren jedoch verwenden das E-Mail-Programm überhaupt nicht, sondern führen andere Aktionen aus, wie z. B. das Verschlüsseln von Dateien.
 
 ## Was ist die wichtigste Maßnahme gegen Computer-Viren?
 
@@ -84,14 +84,14 @@ shuffle_answers: true
 
 ## Warum sollte man trotz Viren-Scanner Datensicherungen durchführen?
 
-> Datensicherung und Virenscanner haben grundsätzlich nichts miteinander zu tun. Eine Datensicherung kann aber helfen, wenn eine Datei z.B. durch einen Virus gelöscht wurde. 
+> Datensicherung und Virenscanner haben grundsätzlich nichts miteinander zu tun. Eine Datensicherung kann aber helfen, wenn eine Datei z. B. durch einen Virus gelöscht wurde. 
 
 1. [ ] Weil der Virenscanner mittels einer Datensicherung aktualisiert werden muss. 
 
 	>Das ist leider falsch. Datensicherung und Virenscanner haben grundsätzlich nichts miteinander zu tun. Eine Datensicherung kann aber helfen, wenn eine Datei durch einen Virus verschlüsselt wurde.
 2. [ ] Weil eine Datensicherung den Inhalt einer Datei sichert und so die Überprüfung durch den Virenscanner verhindert. 
 
-	>Leider nicht richtig. Datensicherung und Virenscanner haben grundsätzlich nichts miteinander zu tun. Eine Datensicherung kann aber helfen, wenn eine Datei z.B. durch einen Virus verschlüsselt wurde.
+	>Leider nicht richtig. Datensicherung und Virenscanner haben grundsätzlich nichts miteinander zu tun. Eine Datensicherung kann aber helfen, wenn eine Datei z. B. durch einen Virus verschlüsselt wurde.
 3. [ ] Weil das Virenscanner-Programm alle Word- und Excel-Dateien löscht, da sie Makro-Viren enthalten können.
 
 	>Nicht korrekt. Bei einer Datensicherung werden die Dateien auf ein externes Medium kopiert und extern gelagert, damit die Daten bei Verlust von dort wieder auf den Rechner geholt werden können. Der Virenscanner löscht nur verseuchte Daten.
