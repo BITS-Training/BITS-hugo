@@ -16,7 +16,7 @@ Datei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen be
 
 {{%expand "Trojanische Pferde" %}}
 
-„Trojanische Pferde“ oder „Trojaner“ werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z.B.
+„Trojanische Pferde“ oder „Trojaner“ werden genutzt, um weitere Schadprogramme auf Ihren Computer zu schleusen, um z. B.
 
 - Daten und Passwörter auszuspionieren,
 - das System unbemerkt für Zugriffe von außen zu öffnen,
