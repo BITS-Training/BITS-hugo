@@ -34,11 +34,11 @@ shuffle_answers: true
 
 1. [ ] Nein, sicher nicht. Künstliche Intelligenz ist mir verdächtig. Ich nutze so etwas nie.
 
-	>Falls Ihre {{< param Einrichtung >}} den Einsatz bestimmter KI-Anwendungen erlaubt hat, können Sie diese nutzen. Die allgemeinen Vorsichtsmaßnahmen gelten aber auch dann..
+	>Falls Ihre {{< param Einrichtung >}} den Einsatz bestimmter KI-Anwendungen erlaubt hat, können Sie diese nutzen. Die allgemeinen Vorsichtsmaßnahmen gelten aber auch dann.
    
 2. [ ] Na klar! „KI“ schlägt „NI“ (Natürliche Intelligenz)
 
-	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u.a. die Gefahr, dass dienstliche Informationen an Unbefugte gelangen.
+	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u. a. die Gefahr, dass dienstliche Informationen an Unbefugte gelangen.
 	
 3. [x] Nur dann, wenn die Nutzung der KI-Anwendung in meiner {{< param Einrichtung >}} für dienstliche Zwecke freigegeben wurde.
 
