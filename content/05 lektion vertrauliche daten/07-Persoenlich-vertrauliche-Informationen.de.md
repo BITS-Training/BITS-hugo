@@ -9,7 +9,7 @@ Persönlich-vertrauliche Informationen sind vor allem personenbezogene Daten nac
 
 **Beispiele:**
 
-Personalakten, Daten der Gehaltsabrechnung, personenbezogene Daten von Kund*innen (z.B. Anschrift, Geburtsdatum, beantragte Leistung).
+Personalakten, Daten der Gehaltsabrechnung, personenbezogene Daten von Kund*innen (z. B. Anschrift, Geburtsdatum, beantragte Leistung).
 
 **Verhaltensregeln:**
 
