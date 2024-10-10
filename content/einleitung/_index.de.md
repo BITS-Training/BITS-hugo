@@ -13,7 +13,7 @@ Informationen sind wertvoll. Sie werden immer bedeutender für {{< param Einrich
 
 Im Zentrum stehen die **Schutzziele der Informationssicherheit**:
 
-Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z.B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so dem Staat und damit der Gesellschaft Schaden zufügen. Die **Vertraulichkeit** von Informationen ist daher zu schützen.
+Gelangen Informationen Ihrer Einrichtung oder über Sie an Unbefugte, hat das nicht selten schwerwiegende Folgen. Sollten z. B. Ausschreibungsunterlagen vorzeitig Anbieterunternehmen vorliegen, könnten diese rechtswidrige Absprachen treffen und so dem Staat und damit der Gesellschaft Schaden zufügen. Die **Vertraulichkeit** von Informationen ist daher zu schützen.
 
 Auch ist es wichtig, dass Daten richtig und unverändert (integer) sind. Unbemerkt verfälschte Daten, etwa manipulierte Geldbeträge, können zu falschen Entscheidungen führen - daher ist die **Integrität** von Informationen ein weiteres Schutzziel.
 
