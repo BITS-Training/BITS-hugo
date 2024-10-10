@@ -34,14 +34,14 @@ shuffle_answers: true
 
 1. [ ] Sie prüfen, ob der Dienstleister einen aktuelle Virenscanner hat und lassen ihn dann an einen Netzwerk-Anschluss.
 
-	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt.
+	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z. B. zum Schutz vor Viren nicht erlaubt.
    
 2. [x] Sie geben dem Dienstleister keinen Netzwerk-Zugang, da nur einrichtungseigene Notebooks angeschlossen werden dürfen.
 
 	>**Richtige Antwort**
 3. [ ] Sie lassen den Dienstleister an einen Netzwerk-Anschluss, falls er einen Auftrag Ihrer {{< param Einrichtung >}} vorzeigt.
 
-	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt.
+	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z. B. zum Schutz vor Viren nicht erlaubt.
 
 ## Ihnen ist ihr Diensttelefon abhanden gekommen. Wie verhalten Sie sich?
 
