@@ -17,7 +17,7 @@ In einer {{< param Einrichtung >}} wird eine E-Mail normalerweise an zwei Stelle
 #### Weshalb Sie trotzdem vorsichtig sein sollten:
 
 - Es gibt kein Schutzprogramm, das alle Viren beseitigen kann
-- Es sind Situationen denkbar, in denen der Virenscanner nicht arbeiten kann, z.B. wenn eine E-Mail verschlüsselt ist
+- Es sind Situationen denkbar, in denen der Virenscanner nicht arbeiten kann, z. B. wenn eine E-Mail verschlüsselt ist
 - Allein das Betrachten einer E-Mail kann einen Virus aktivieren
 
 {{%expand "Viren durch Betrachten aktivieren (hier klicken)" %}}
