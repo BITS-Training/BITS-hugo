@@ -20,7 +20,7 @@ Ein **Trick**, um mehrere sichere Passwörter für verschiedene Anwendungen oder
 
 - Wenn Ihr Passwort auf einem Zettel am Monitor klebt, können alle, die in Ihr Büro kommen, dieses lesen. Würden Sie die PIN Ihrer Bank-Karte öffentlich aushängen oder Ihren Haustürschlüssel zum Nachmachen auslegen?!?
 
-- Aus dem gleichen Grund gilt: **Passwörter dürfen nirgends notiert werden!**
+- Aus dem gleichen Grund gilt: **Passwörter dürfen nirgends notiert werden!** *(zu Passswort-Werkzeugen siehe die nächste Seite)*
 - Achten Sie bei der Eingabe darauf, dass Sie niemand beobachtet. Es ist nicht unhöflich, Anwesende darum zu bitten wegzusehen!
 
 
@@ -28,7 +28,7 @@ Ein **Trick**, um mehrere sichere Passwörter für verschiedene Anwendungen oder
 
 **Passwörter dürfen nie weitergegeben werden.** Sie sind geheim und personengebunden. Alle Berechtigten haben ein eigenes Passwort. Sie benötigen nicht das Ihrige! So schützen Sie sich auch selbst vor Verdächtigungen, falls es Unregelmäßigkeiten bei der Verwendung Ihrer Kennung gibt.
 
-Auch Hacker*innen wollen Ihr Passwort, z.B. telefonisch unter Vorspiegelung falscher Tatsachen, erfragen.
+Auch Hacker*innen wollen Ihr Passwort, z. B. telefonisch unter Vorspiegelung falscher Tatsachen, erfragen.
 
 {{% notice note %}}
 

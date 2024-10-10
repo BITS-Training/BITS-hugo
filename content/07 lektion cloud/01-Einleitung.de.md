@@ -17,6 +17,6 @@ Auch Behörden und andere Einrichtungen nutzen heute bereits Cloud-Dienste! Auf 
 
 **Heiter bis wolkig**
 
-Cloud-Dienste bieten für eine Vielzahl von Personen - oft kostenfrei - die Möglichkeit, über das Internet Daten und Programme zu nutzen. Die damit verbundene hohe Verfügbarkeit wird bei den kostenfreien Diensten manchmal damit erkauft, dass auch deren Anbieter Zugriff auf die Daten haben.
+Cloud-Dienste bieten für eine Vielzahl von Personen – oft kostenfrei – die Möglichkeit, über das Internet Daten und Programme zu nutzen. Die damit verbundene hohe Verfügbarkeit wird bei den kostenfreien Diensten manchmal damit erkauft, dass auch deren Anbieter Zugriff auf die Daten haben.
 
 {{% /notice %}}

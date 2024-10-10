@@ -1,7 +1,7 @@
 # BITS Behörden-IT-Sicherheitstraining
 
 
-Stand: 01.07.2024
+Stand: 01.10.2024
 
 Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
@@ -71,11 +71,9 @@ Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu
 
 ## 8. Rechtliches
 
-„BITS Behörden-IT-Sicherheitstraining“ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security GmbH, herausgegeben wurde.
+Urheber von BITS ist Dr. Lutz Gollan vom Landesbetrieb Verkehr, Hamburg.
 
-Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
-
-Die technische Realisierung erfolgt durch Herrn Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
+Die technische Realisierung erfolgt durch Andreas Hösl von der Chr. Mayr GmbH + Co. KG.
 
 Das verwendete [hugo-Framework](https://gohugo.io/) steht unter der [Apache-Lizenz, v2.0](https://www.apache.org/licenses/LICENSE-2.0), das [Relearn-Theme](https://themes.gohugo.io/hugo-theme-relearn/) und das [Quiz](https://bonartm.github.io/hugo-quiz/) inkl. [quizdown-js](https://github.com/bonartm/quizdown-js) und die [jQuery-Bibliothek](https://jquery.com) unter der [MIT-Lizenz](https://opensource.org/licenses/MIT). Die Icons stammen von https://fontawesome.com und sind Open Source. Das Bild auf der 404-Fehlerseite ist open source: Photo by [Donald Giannatti](https://unsplash.com/@wizwow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadend?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 

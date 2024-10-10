@@ -28,7 +28,7 @@ shuffle_answers: true
 
 ---
 
-## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook an Ihr dienstliches Netz anschließen. Wie gehen Sie vor?
+## Ein externer Dienstleister benötigt dringend Zugang zum Internet und möchte deswegen sein Notebook per Kabel an Ihr dienstliches Netz anschließen. Wie gehen Sie vor?
 
 > Die Nutzung durch fremde Geräte birgt große Gefahren für Ihre {{< param Einrichtung >}}.
 
@@ -43,23 +43,20 @@ shuffle_answers: true
 
 	>Nein. Bei den meisten {{< param Einrichtungen >}} dürfen nur eigene dienstliche Notebooks an das Netzwerk angeschlossen werden. Die Anbindung fremder Geräte ist z.B. zum Schutz vor Viren nicht erlaubt.
 
-## Ihnen ist auf einer Dienstreise ein Smartphone mit dienstlichen Informationen gestohlen worden. Wie verhalten Sie sich?
+## Ihnen ist ihr Diensttelefon abhanden gekommen. Wie verhalten Sie sich?
 
 > Ihre {{< param Einrichtung >}} muss informiert werden.
 
-1. [ ] Sie rufen Ihre Ansprechperson an und bitten um die Herausgabe des „Recovery Keys“ für das Smartphone.
+1. [ ] Sie rufen Ihre Ansprechperson an und bitten um die Herausgabe des „Recovery Keys“ für das Telefon.
 
-	>Das ist leider falsch. Da das ganze Smartphone gestohlen wurde, nützt Ihnen ein „Recovery Key“ gar nichts.
+	>Das ist leider falsch. Da das ganze Gerät weg ist, nützt Ihnen ein „Recovery Key“ gar nichts.
 
-2. [x] Sie informieren unverzüglich Ihre Ansprechperson und Ihre Vorgesetzten über den Verlust des Smartphones.
+2. [x] Sie informieren unverzüglich Ihre Ansprechperson und Ihre Vorgesetzten über den Verlust des Telefons.
 
 	>**Richtige Antwort**
-3. [ ] Sie zeigen den Diebstahl bei der Polizei an und kaufen sich ein neues Smartphone.
+3. [ ] Sie zeigen den Verlust bei der Polizei an und kaufen sich ein neues Smartphone.
 
-	>Nein. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihre {{< param Einrichtung >}} über den Verlust informiert werden.
-4. [ ] Sie sichern alle Spuren und versuchen zunächst, den Dieb aus eigenen Kräften zu überführen.
-
-	>Das ist nicht ausreichend. Da auf dem Smartphone dienstliche Daten gespeichert sind, muss zusätzlich Ihr Arbeitgeber über den Verlust informiert werden.
+	>Nein. Da auf dem Geräte ggf. dienstliche Daten gespeichert sind, muss zusätzlich Ihre {{< param Einrichtung >}} über den Verlust informiert werden.
 
 ## Jemand möchte Ihnen dienstliche Daten auf einem USB-Stick übergeben. Wie verhalten Sie sich?
 
@@ -87,7 +84,7 @@ shuffle_answers: true
 2. [ ] Da wir beide moderne Laptops mit Bluetooth-Technologie haben, „beame“ ich die Datei direkt zum Notebook der Kollegin.
 
 	>Die unverschlüsselte Übertragung von Daten über drahtlose Technologien wie WLAN oder Bluetooth ist wegen der Gefahr des Abhörens sehr unsicher und deshalb für interne und vertrauliche Daten verboten.
-3. [x] Falls wir beide im gleichen [VPN](/09-lektion-mein-arbeitsplatz/01-Sicherer-Arbeitsplatz) sind, stelle ich die Datei über ein Gruppenlaufwerk oder eine interne E-Mail bereit. Andernfalls verschlüssele ich die Datei und sende sie per E-Mail an die Kollegin, das Passwort teile ich ihr mündlich mit.
+3. [x] Falls wir beide im gleichen gesicherten Netz sind, stelle ich die Datei über ein Gruppenlaufwerk oder eine interne E-Mail bereit. Andernfalls verschlüssele ich die Datei und sende sie per E-Mail an die Kollegin, das Passwort teile ich ihr mündlich mit.
 
 	>**Richtige Antwort**
 4. [ ] Wir verbinden uns beide direkt mit dem WLAN im Café und ich schicke die Datei unverschlüsselt per E-Mail.

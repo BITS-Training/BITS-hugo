@@ -8,7 +8,7 @@ icon: lock-open
 
 ### Ausspionieren von Passwörtern
 
-Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z.B. durch die Bürotür oder ein Fenster?
+Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z. B. durch die Bürotür oder ein Fenster?
 
 - Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann.
 - Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, noch längere Passwörter zu verwenden, die dafür nur in größeren zeitlichen Abständen geändert werden müssen.
@@ -16,7 +16,7 @@ Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitl
 
 ### Social Engineering
 
-Unter „Social Engineering“ versteht man das böswillige Sammeln von Informationen unter Verwendung einer vertrauensvollen Identität. Die angreifende Person gibt sich am Telefon, per E-Mail oder auch persönlich als eine vertrauenswürdige Person, z.B. als Mitarbeiter*in der IT-Abteilung, aus und versucht, von Ihnen vertrauliche Informationen oder Zugangsdaten zu erhalten. Häufig wird dabei noch auf zeitlichen Druck oder ungehaltene Vorgesetze hingewiesen.
+Unter „Social Engineering“ versteht man das böswillige Sammeln von Informationen unter Verwendung einer vertrauensvollen Identität. Die angreifende Person gibt sich am Telefon, per E-Mail oder auch persönlich als eine vertrauenswürdige Person, z. B. als Mitarbeiter*in der IT-Abteilung, aus und versucht, von Ihnen vertrauliche Informationen oder Zugangsdaten zu erhalten. Häufig wird dabei noch auf zeitlichen Druck oder ungehaltene Vorgesetze hingewiesen.
 
 > **Beispiel**: Bei Ihnen klingelt das Telefon. Die Anruferin sagt, sie würde in der IT-Abteilung arbeiten und müsse alle Postfächer „zurücksetzen“. Hierzu würde sie Ihr Passwort benötigen. Andernfalls könnten keine E-Mails mehr empfangen werden. Hier ist Wachsamkeit geboten: Sie dürfen keine sensiblen Informationen an unbefugte Dritte weitergeben. Das gilt insbesondere für Zugangsdaten wie Login oder Passwort.
 
