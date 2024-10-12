@@ -65,7 +65,7 @@ shuffle_answers: true
 
 1. [ ] Einfach installieren und schauen, was passiert.
 
-	>Leider falsch. Nein, Sie müssen sich zuerst über ihre internen Regeln und die gesetzlichen Vorgaben informieren.
+	>Leider falsch. Sie müssen sich zuerst über ihre internen Regeln und die gesetzlichen Vorgaben informieren.
    
 2. [X] Wir führen im Projekt eine gründliche Prüfung unserer internen Regelungen, der Datenschutzbestimmungen und der rechtlichen Rahmenbedingungen durch.
 
