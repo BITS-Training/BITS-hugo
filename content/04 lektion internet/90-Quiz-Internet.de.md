@@ -65,7 +65,7 @@ shuffle_answers: true
 
 1. [ ] Beschaffung und Installation von Software aus dem Internet.
 
-	>Leider nicht richtig. Die Beschaffung und Installation von Software aus dem Internet ohne ausdrückliche Erlaubnis der IT-Abteilung oder Ihrer Vorgesetzen ist nicht erlaubt. Denn das könnte zu großen Schäden im IT-System führen, z.B. durch das Eindringen von Viren.
+	>Leider nicht richtig. Die Beschaffung und Installation von Software aus dem Internet ohne ausdrückliche Erlaubnis der IT-Abteilung oder Ihrer Vorgesetzen ist nicht erlaubt. Denn das könnte zu großen Schäden im IT-System führen, z. B. durch das Eindringen von Viren.
 2. [x] Nutzung des Internets zu dienstlichen Zwecken.
 
 	>**Richtige Antwort**
