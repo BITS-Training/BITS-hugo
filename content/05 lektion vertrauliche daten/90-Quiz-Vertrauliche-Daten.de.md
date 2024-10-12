@@ -82,6 +82,6 @@ shuffle_answers: true
 	>**Richtige Antwort**
 3. [ ] Ich prüfe nichts, da ich grundsätzlich keine Fehler mache.
 	
-	>Fehler machen ist menschlich - aber ein paar können wir durch Kontrolle, z.B. der Empfänger:innen und der Anlagen, vermeiden.
+	>Fehler machen ist menschlich - aber ein paar können wir durch Kontrolle, z. B. der Empfänger:innen und der Anlagen, vermeiden.
 
 {{< /quizdown >}}
