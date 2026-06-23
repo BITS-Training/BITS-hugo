@@ -2,7 +2,7 @@
 title: "Quiz: Gesetzliche Grundlagen"
 date: 21.06.2026
 draft: false
-weight:900
+weight: 900
 icon: section
 ---
 

@@ -6,7 +6,7 @@ weight: 11
 icon: section
 ---
 
-## Bonus: Gesetzliche Grundlagen
+## Gesetze und BSI IT-Grundschutz
 
 Diese Bonus-Lektion erläutert,
 

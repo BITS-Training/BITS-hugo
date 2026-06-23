@@ -1,5 +1,5 @@
 ---
-title: "Ueberblick"
+title: "Überblick"
 date: 21.06.2026
 draft: false
 weight: 10
