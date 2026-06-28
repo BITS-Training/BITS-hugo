@@ -5,13 +5,11 @@ draft: false
 weight: 20
 icon: section
 ---
-Beim Einsatz von KI-Anwendungen besteht zunächst die Gefahr, dass sensible Informationen verarbeitet werden und die Verarbeitung unkontrolliert erfolgt.
+Das BSI-Gesetz regelt die Aufgaben und Befugnisse des Bundesamts für Sicherheit in der Informationstechnik (BSI). Es wird in regelmäßigen Abständen aufgrund der sich stetig verändernden Lage im Bereich der IT-Sicherheit aktualisiert.
 
-Davon betroffen sein können z. B. personenbezogene Daten oder sicherheitsrelevante Informationen wie interne Computer-Adressen, aber auch interne Finanzzahlen. Bei der Bedienung von Chat-Bots können Namen und Anschriften oder etwa Gesundheitsdaten mit Personenbezug in die KI-Anwendung eingegeben werden. Wo die Verarbeitung durch die KI-Anwendung erfolgt, ob die Daten bei der Verarbeitung sicher sind und nicht auch Dritten zugänglich gemacht werden, ist nicht immer garantiert. Kostenfreie Angebote, gelegentlich auch kostenpflichtige, verlangen in ihren Nutzungsbedingungen häufig, dass die eingebenen Informationen für Zwecke des Anbieters verwendet werden dürfen. Hier bestehen erhebliche Missbrauchsrisiken, die manchmal nur schwer zu beherrschen sind.
-
-Dazu kommt die Gefahr, dass schon für das Trainieren der KI-Anwendung Informationen verwendet werden, die für diese Zwecke nicht zugelassen sind. Auch hier können personenbezogene Daten oder sicherheitssensible Informationen betroffen sein. Schließlich darf urheberrechtlich geschütztes Material nicht für Trainingszwecke der KI verwendet werden.
+Außerdem enthält es Pflichten für "Besonders wichtige Einrichtungen und wichtige Einrichtungen" wie Betreiber kritischer Anlagen, Vertrauensdiensteanbieter und Betreiber öffentlicher Telekommunikationsnetze. Dazu treten natürliche und juristische Personen, die nach den Anlagen des Gesetzes kritische Infrastrukturen betreiben.
 
 {{% notice note %}}
-- Nicht alle KI-Anwendungen dürfen mit allen Informationen genutzt werden.
-- KI-Anwendungen dürfen nicht mit beliebigen Daten „trainiert“ werden.
+- Das BSI-Gesetz regelt Aufgabe und Befugnisse des BSI selbst und
+- macht Vorgaben für bestimmte Dritte.
 {{% /notice %}}
