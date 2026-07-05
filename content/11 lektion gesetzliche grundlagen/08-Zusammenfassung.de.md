@@ -5,12 +5,10 @@ draft: false
 weight: 80
 icon: section
 ---
-Anwendungen, die Künstliche Intelligenz nutzen, sind für viele Einsatzbereiche hilfreich.
+Mit mehreren, teilweise von der Europäischen Union aus gesteuerten, Gesetzen, Verordnungen und Standards soll ein einheitliches Niveau der Informationssicherheit geschaffen werden. In den letzten Jahren wurde verschiedene Vorschriften zu verschiedenen Regelungsbereichen erlassen, die nach und nach konsolidiert werden.
 
-Gleichzeitig bringen sie Gefahren für Ihre {{< param Einrichtung >}} mit sich, die zum Teil nur schwer zu beherrschen sind.
+Die Bestimmung, ob eine {{< param Einrichtung >}}  unter eines der Gesetze fällt, ist nicht immer einfach. Zum Teil gibt es im Internet Checklisten oder Frage-Antwort-Seiten, die hierbei helfen.
 
-An erster Stelle steht der verantwortungsvolle Einsatz von KI-Anwendungen, der auch in Ihren Händen liegt. Nutzen Sie Informations- und Bildungsangebote, auch Ihrer {{< param Einrichtung >}}, um die Bedeutung dieser Technologie, ihre Anwendungsmöglichkeiten und ihre Grenzen in Ihrem Arbeitsbereich kennenzulernen. 
-
-Beim Einsatz selbst müssen Sie die Vorgaben Ihrer {{< param Einrichtung >}} berücksichtigen. Eine große Gefahr der Künstlichen Intelligenz liegt darin, KI-Anwendungen blind zu vertrauen und Warnhinweise zu den Gefahren zu vernachlässigen. Verfallen Sie nicht einem blinden Automatismus, sondern seien Sie kritisch und gebrauchen Sie Ihr Wissen, wenn Sie mit KI arbeiten!
+Ungeachtet dessen ist jede {{< param Einrichtung >}}  gut beraten, einen anerkannten Standard für die Informationssicherheit, z.B. den BSI IT-Grundschutz, über eine eigene Leitlinie zur Informationssicherheit auszuwählen und seine Anwendung verbindlich vorzuschreiben.
 
 

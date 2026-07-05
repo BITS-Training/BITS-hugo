@@ -28,52 +28,73 @@ shuffle_answers: true
 
 ---
 
-## Sie haben eine dienstliche Aufgabenstellung und wollen eine Anwendung mit Künstlicher Intelligenz (KI-Anwendung) im Internet nutzen, um sich Hilfe zu holen. Ist das zulässig?
+## Welche Behörde ist für die Aufsicht nach dem BSI-Gesetz zuständig?
 
-> Die KI-Regelungen Ihrer {{< param Einrichtung >}} sind maßgeblich!
 
-1. [ ] Nein, sicher nicht. Künstliche Intelligenz ist mir verdächtig. Ich nutze so etwas nie.
+1. [ ] Das jeweilige Landesamt für Informationssicherheit
 
-	>Falls Ihre {{< param Einrichtung >}} den Einsatz bestimmter KI-Anwendungen erlaubt hat, können Sie diese nutzen. Die allgemeinen Vorsichtsmaßnahmen gelten aber auch dann.
+    >Nein, die Aufgabe obliegt dem BSI selbst.
+  
+2. [ ] Die Branchenverbände der betroffenen Sektoren
+
+    >Nein. Es handelt sich um eine gesetzliche und staatliche Aufgab des BSI selbst.
+
+3. [ ] Die jeweilige Datenschutzaufsichtsbehörde
+
+	>Nein, denn das BSI-Gesetz regelt nicht den Datenschutz. Zuständig ist das BSI selbst.
+  
+4. [X] Das Bundesamt für Sicherheit in der Informationstechnik
+
+    >**Richtige Antwort**
+
+
+## Für wen gilt das BSI-Gesetz? 
+
+
+1. [ ] Nur für das Bundesamt für Sicherheit in der Informationtechnik
+
+	>Nein, auch Unternehmen, Länder und Kommunen können betroffen sein.
+
+2. [ ] Nur für die Bundesverwaltung.
+
+   >Nein, auch Unternehmen, Länder und Kommunen können betroffen sein.
+	
+4. [X] Potenziell für alle Behörden und Unternehmen in Deutschland
+
+    >**Richtige Antwort**
+	
+## Was ist der BSI IT-Grundschutz?
+
+> Auch Standards wie ISO 27001 oder CISIS12 können genutzt werden.
+
+1. [ ] Eine gesetzliche Vorgabe zur Stärkung der Resilienz von Unternehmen
+
+	>Leider falsch. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens.
    
-2. [ ] Na klar! „KI“ schlägt „NI“ (Natürliche Intelligenz)
+2. [X] Ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens
 
-	>Nein. Bitte nutzen Sie nur die KI-Anwendungen, die in Ihrer {{< param Einrichtung >}} für die dienstliche Nutzung freigegeben sind. Es besteht ansonsten u. a. die Gefahr, dass dienstliche Informationen an Unbefugte gelangen.
+	>**Richtige Antwort**
+3. [ ]  Ein Sicherheitskennzeichen, das die IT-Sicherheit eines Produktes belegt
+
+	>Nein. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens.
+
+4.  [ ] Eine Dienstleistung des Bundesamts für Sicherheit in der Informationstechnik
+
+    >Das stimmt nicht. Den IT-Grundschutz als Standard muss man selber umsetzen.
 	
-3. [x] Nur dann, wenn die Nutzung der KI-Anwendung in meiner {{< param Einrichtung >}} für dienstliche Zwecke freigegeben wurde.
 
-	>**Richtige Antwort**
+## Wer haftet bei der Nicht-Umsetzung der gesetzlichen Vorgaben des BSI-Gesetzes?
 
-## Welches sind die größten Gefahren beim Einsatz von KI?
 
-> Die verwendeten Daten und die Zwecke können kritisch sein.
+1. [ ] Der/die Informationssicherheitsbeauftragte
 
-1. [ ] Es gibt keine. Die Technik ist ausgereift und gesetzlich gut geregelt.
-
-	>Leider nein. KI entwickelt sich ständig weiter. Die gesetzlichen Regelungen können nur einen Rahmen vorgeben.
-
-2. [x] Eine große Gefahr ist die Verwendung nicht zugelassener Daten oder der Missbrauch zum Herstellen von gefälschten Daten.
-
-	>**Richtige Antwort**
-3. [ ] Die KI-Anwendungen sind noch nicht "schlau" genug, um eine echte Gefahr in meinem Arbeitsalltag darzustellen.
-
-	>Nein. Sehr mächtige KI-Anwendungen sind im Internet kostenlos verfügbar, zum Teil als Funktion in Suchmaschinen. Hierbei können sie erheblichen Einfluss auf Ihre Arbeit ausüben.
-
-## Sie nehmen an einem Projekt in Ihrer {{< param Einrichtung >}} teil, bei dem eine KI-Anwendung eingeführt werden soll. Welche Maßnahmen treffen Sie vor der Nutzung?
-
-> Interne Regelungen, Datenschutz und andere gesetzliche Bestimmungen beachten!
-
-1. [ ] Einfach installieren und schauen, was passiert.
-
-	>Leider falsch. Sie müssen sich zuerst über ihre internen Regeln und die gesetzlichen Vorgaben informieren.
+	>Nein, die Leitungsebene, § 38 Absatz 2 BSI-Gesetz.
    
-2. [X] Wir führen im Projekt eine gründliche Prüfung unserer internen Regelungen, der Datenschutzbestimmungen und der rechtlichen Rahmenbedingungen durch.
+2. [X] Die Leitungsebene der betroffenen Einrichtung
 
-	>**Richtige Antwort**
-3. [ ] Wir sagen der IT-Abteilung Bescheid und legen los.
+	>**Richtige Antwort** - Das ergibt sich aus § 38 Absatz 2 BSI-Gesetz.
+3. [ ] Das Bundesamt für Sicherheit in der Informationstechnik.
 
-	>Nein, Sie müssen sich zuerst über ihre internen Regeln und die gesetzlichen Vorgaben informieren.
-	
-	
+	>Nein, leider falsch. Die Leitungsebene der betroffenen Einrichtung haftet, § 38 Absatz 2 BSI-Gesetz.
 
 {{< /quizdown >}}

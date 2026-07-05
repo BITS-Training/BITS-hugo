@@ -1,17 +1,22 @@
 ---
-title: "NIS2-Richtlinie"
+title: "NIS-2-Richtlinie / Cybersicherheitsgesetz"
 date: 21.06.2026
 draft: false
 weight: 30
 icon: section
 ---
-Weiterhin besteht die Gefahr, dass Ergebnisse einer KI-Empfehlung oder -Entscheidung ungeprüft übernommen werden. Diese Empfehlungen oder Entscheidungen mögen vielfach richtig und hilfreich sein, es gibt aber keine Garantie dafür. Daher kann es zu Fehleinschätzungen und damit auch falschen Ergebnissen in einem Entscheidungsprozess kommen, je nach Einsatzgebiet mit weitreichenden Folgen.
+Die NIS-2-Richtlinie der Europäischen Union oder auch "zweite Richtlinie zur Sicherung von Netz- und Informationssystemen" schafft den Rahmen für ein EU-weites einheitliches Niveau zur Informationssicherheit.
 
-Wenn z. B. in der Medikamentenforschung falsche Werte zugrundgelegt werden, können Dosierungsempfehlungen kritisch werden. Es kommt zudem immer wieder vor, dass Chat-Bots falsche Antworten geben, die auf den ersten Blick plaubsibel erscheinen. KI-Programme können auch „voreingenommen“ sein, wenn z. B. keine repräsentativen Trainingsdaten eingesetzt wurden, und sie in der Folge ethisch bedenkliche Empfehlungen oder Ergebnisse liefern.
+Die Richtlinie ist eine Reaktion auf die zunehmende Bedrohungslage im Cyberbereich, die Risiken für Unternehmen und öffentliche Einrichtungen aller Größen erhöhen. Sie ersetzt die ursprüngliche NIS-Richtlinie und erweitert den Kreis der betroffenen Unternehmen, Behörden und Einrichtungen von ca. 6.500 auf ca. 30.000. Sie ist am 16.01.2023 in Kraft getreten und am 06.12.2025 in deutsches (Bundes-)Recht durch das sogenannten Cybersicherheitsgesetz überführt worden.
 
-Schließlich kann KI böswillig zum Erzeugen von falschen oder gefälschten Identitäten, Texten oder Bildern, z. B. in [Social Media](/06-lektion-social-media), eingesetzt werden, die den Eindruck erwecken, echt zu sein, ohne dass sie als Fälschung erkennbar sind. Damit können Meinungen manipuliert oder Personen zu ungewollten Handlungen verleitet werden.
+Sie fordert von den Mitgliedsstaaten der EU eine nationale Cybersicherheitsstrategie zu verabschieden und Institutionen für den Umgang mit Sicherheitsvorfällen zu schaffen. Sie legt strengere und einheitliche Vorgaben für die IT-Sicherheit in Unternehmen und Behörden fest, um die Resilienz und Reaktion auf Cybervorfälle zu verbessern sowie Störungen kritischer Infrastrukturen zu verhindern und die Funktionsfähigkeit des Binnenmarktes zu stärken. Betroffen von der NIS2-Richtlinie sind öffentliche und private Einrichtungen in den kritischen Sektoren wie beispielsweise Energie, Wasser, Verkehr und Gesundheit, die festgelegte Schwellenwerte überschreiten. 
 
-{{% notice note %}}
-- Es besteht die Gefahr, dass eine KI-Anwendung unrichtige Ergebnisse ausgibt, die nicht ohne weiteres als falsch erkannt werden.
-- Es besteht die Gefahr, dass Dritte KI-Anwendungen böswillig einsetzen, um Menschen oder anderen Computerprogramme zu täuschen.
+Die Umsetzung in Deutschland erfolgte durch ein sogenanntes Artikelgesetz, das eine Vielzahl verschiedener Gesetze an die Anforderungen der Richtlinie anpasste, u.a. das BSI-Gesetz, aber auch z.B. die Personalausweisverordnung und das Atomgesetz. Die Richtlinie selbst hat keine unmittelbare Wirkung.
+
+Die Umsetzung der Richtlinie in den Ländern und Kommunen für die öffentlichen Einrichtungen wird dezentral vorgenommen; dies wird auf der nächsten Seite dargestellt.
+
+{{% notice tip %}}
+- Die NIS-2-Richtlinie soll ein einheitliches IT-Sicherheitsniveau in der EU schaffen.
+- In Deuschtland wurden zur Umsetzung der Richtlinie über 20 Gesetze angepasst.
+- Die Umsetzung auf Landes- und kommunaler Ebene erfolgt durch Landesgesetze.
 {{% /notice %}}
