@@ -6,7 +6,7 @@ weight: 70
 icon: section
 ---
 ### IT-Grundschutz-Profile 
-IT-Grundschutz-Profile werden von Institutionen für bestimmte Branchen, die nicht zwingend zu den Kritischen Infrastrukturen gehören, als Anforderungsprofil, häufig mit einer Untermenge von Bausteinen aus dem [BSI IT-Grundschutz](06-IT-Grundschutz.de.md), erstellt und vom BSI nach Prüfung veröffentlicht.
+IT-Grundschutz-Profile werden von verschiedenen Institutionen für bestimmte Branchen, die nicht zwingend zu den Kritischen Infrastrukturen gehören, als Anforderungsprofil mit einer Untermenge der Bausteine aus dem [BSI IT-Grundschutz](06-IT-Grundschutz.de.md) erstellt und vom BSI nach Prüfung veröffentlicht.
 
 Sie dienen als Vorlage für vergleichbare Informationsverbünde und erleichtern so die Auswahl der relevanten Sicherheitsanforderungen und Maßnahmen.
 

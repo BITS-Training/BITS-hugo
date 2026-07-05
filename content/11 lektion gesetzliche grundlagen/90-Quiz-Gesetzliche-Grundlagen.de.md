@@ -53,7 +53,7 @@ shuffle_answers: true
 
 1. [ ] Nur für das Bundesamt für Sicherheit in der Informationtechnik
 
-	>Nein, auch Unternehmen, Länder und Kommunen können betroffen sein.
+	>Nein, auch Unternehmen, Länder und Kommunen und anderen Bundeseinrichtungen können betroffen sein.
 
 2. [ ] Nur für die Bundesverwaltung.
 
