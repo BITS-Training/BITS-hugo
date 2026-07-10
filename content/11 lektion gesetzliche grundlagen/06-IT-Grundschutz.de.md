@@ -5,7 +5,7 @@ draft: false
 weight: 60
 icon: section
 ---
-Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat den **Standard BSI IT-Grundschutz** erarbeitet und stellt Dokumente zur Verfügung, um den Pflichten des [BSI-Gesetzes](02-BSI-Gesetz.de.md) gerecht zu werden. Die Dokumente „Grundschutzkompendium“ und die Einzelteile des Standards BSI-Standards sind als Leitfaden zur Erreichung eines selbst festgelegten Sicherheitsniveaus nach den Standard-Kriterien „normal“, „hoch“ und „sehr hoch“ zu verstehen, die sich gegenseitig ergänzen: 
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat den **Standard BSI IT-Grundschutz** erarbeitet und stellt Dokumente zur Verfügung, um den Pflichten des [BSI-Gesetzes](02-BSI-Gesetz.de.md) gerecht zu werden. Die Dokumente „Grundschutzkompendium“ und die Einzelteile des BSI-Standards sind als Leitfaden zur Erreichung eines selbst festgelegten Sicherheitsniveaus nach den Standard-Kriterien „normal“, „hoch“ und „sehr hoch“ zu verstehen, die sich gegenseitig ergänzen: 
 * IT-Grundschutzkompendium (Stand 2023)
     * Es dient als Leitfaden zur Realisierung eines strukturierten und praxisnahen Sicherheitsniveaus. Es bildet zusammen mit den BSI-Standards die Basis für die Informationssicherheit und ist eine Praxishilfe mit Anforderungen- und Maßnahmebeschreibungen.
 * 200-1: Managementsysteme für Informationssicherheit

@@ -5,7 +5,7 @@ draft: false
 weight: 80
 icon: section
 ---
-Mit mehreren, teilweise von der Europäischen Union aus gesteuerten, Gesetzen, Verordnungen und Standards soll ein einheitliches Niveau der Informationssicherheit geschaffen werden. In den letzten Jahren wurde diverse Vorschriften zu verschiedenen Regelungsbereichen erlassen, die nach und nach konsolidiert werden.
+Mit mehreren, teilweise von der Europäischen Union aus gesteuerten, Gesetzen, Verordnungen und Standards soll ein einheitliches Niveau der Informationssicherheit geschaffen werden. In den letzten Jahren wurden diverse Vorschriften zu verschiedenen Regelungsbereichen erlassen, die nach und nach konsolidiert werden.
 
 Die Bestimmung, ob eine {{< param Einrichtung >}}  unter eines der Gesetze fällt, ist nicht immer einfach. Zum Teil gibt es im Internet Checklisten oder Frage-Antwort-Seiten, die hierbei helfen.
 
