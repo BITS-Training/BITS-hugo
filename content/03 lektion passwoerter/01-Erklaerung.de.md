@@ -6,13 +6,13 @@ weight: 10
 icon: lock-open
 ---
 
-### Warum Passwörter?
+### Was sind Passwörter?
 
 Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.
 
 Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.
 
-### Wo werden Passwörter verwendet?
+### Warum Passwörter wichtig sind
 
 Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.
 

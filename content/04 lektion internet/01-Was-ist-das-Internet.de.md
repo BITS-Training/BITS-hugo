@@ -5,7 +5,7 @@ draft: false
 weight: 10
 icon: globe-africa
 ---
-Das Internet ist ein weltumspannendes Netz von Millionen von Rechnersystemen. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.
+Das Internet ist ein weltweites Netzwerk, über das Computer und andere Geräte miteinander kommunizieren. Als offenes Datennetz ist es grundsätzlich für jedermann zugänglich.
 
 Eine zentrale Verwaltung der Inhalte gibt es nicht. Das heißt: Es ist nicht klar zu bestimmen, aus welchen Quellen Informationen im Internet stammen und ob sie richtig sind. Insbesondere bei sensiblen Daten sollte man im Internet große Vorsicht walten lassen. Außerdem ist bei der unverschlüsselten Übertragung von Informationen nicht klar, wer alles mitlesen kann.
 

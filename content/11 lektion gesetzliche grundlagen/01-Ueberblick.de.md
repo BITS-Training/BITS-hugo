@@ -12,3 +12,7 @@ Die Informationssicherheit wird durch verschiedene Gesetze, zum Teil aber auch S
 Die Lektion erläutert die wichtigsten Vorschriften.
 
 Ob Ihre {{< param Einrichtung >}} von einem der Gesetze etc. betroffen ist, wird hier nicht erörtert.
+
+{{% notice tip %}}
+Der Datenschutz wird in der Lektion [Vertrauliche Daten](05-lektion-vertrauliche-daten) erläutert.
+{{% /notice %}}
