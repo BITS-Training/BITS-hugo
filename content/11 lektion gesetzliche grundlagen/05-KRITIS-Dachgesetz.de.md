@@ -5,7 +5,7 @@ draft: false
 weight: 50
 icon: section
 ---
-Das KRITIS-Dachgesetz regelt (nur) die physische Sicherheit bestimmter Anlagen in Deutschland. Es gilt für Betreiber kritischer Anlagen in systemrelevanten Sektoren, die für die Versorgung der Allgemeinheit unverzichtbare Dienstleistungen für meist mindestens 500.000 Personen in Deutschland erbringen. Es setzt in Deutschland die EU-Richtlinie über die Resilienz kritischer Einrichtungen um.
+Das KRITIS-Dachgesetz stellt Anforderungen zum Schutz kritischer Infrastrukturen. Es regelt (nur) die physische Sicherheit bestimmter Anlagen in Deutschland und gilt für Betreiber kritischer Anlagen in systemrelevanten Sektoren, die für die Versorgung der Allgemeinheit unverzichtbare Dienstleistungen für meist mindestens 500.000 Personen in Deutschland erbringen. Es setzt in Deutschland die EU-Richtlinie über die Resilienz kritischer Einrichtungen um.
 
 Dabei schafft es eine bundesrechtliche Regelung, ergänzend zum BSI-Gesetz. Dadurch soll die Widerstandsfähigkeit kritischer Anlagen gegen Bedrohungen wie z.B. Naturkatastrophen, Sabotage, Terrorismus oder hybride Angriffe erhöht werden. Die Aufsichtsbehörde für das Gesetz und seine Pflichten ist das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK).
 
