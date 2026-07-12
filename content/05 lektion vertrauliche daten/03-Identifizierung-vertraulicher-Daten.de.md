@@ -19,5 +19,5 @@ Zunächst gilt es, die Regelungen des Datenschutzrechts und ggf. des Information
 
 Schutzbedürftig sind alle **personenbezogenen Daten**. Darunter versteht man „alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen“ (Art. 4 Nr. 1 EU-Datenschutz-Grundverordnung). Hierzu zählen neben Name, Geburtsdatum und Anschrift auch Gesundheitsdaten und persönliche Vorlieben.
 
-Darüber hinaus ist es üblich, Informationen in **Vertraulichkeitsklassen** einzustufen. Die Zuordnung zu einer bestimmten Klasse kann dann zu bestimmten Verhaltensregeln führen. Sollte es keine internen Regelungen in Ihrer {{< param Einrichtung >}} zum Datenschutz geben, können die Beispiele auf den nächsten Seiten zur Orientierung dienen.
+Darüber hinaus ist es üblich, Informationen in **Vertraulichkeitsklassen** einzustufen, je nach deren Schutzbedarf. Die Zuordnung zu einer bestimmten Klasse kann dann zu bestimmten Verhaltensregeln führen. Sollte es keine internen Regelungen in Ihrer {{< param Einrichtung >}} zum Datenschutz geben, können die Beispiele auf den nächsten Seiten zur Orientierung dienen.
 

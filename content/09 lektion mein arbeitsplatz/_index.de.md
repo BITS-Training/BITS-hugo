@@ -10,7 +10,7 @@ icon: laptop-house
 
 Diese Lektion fasst zusammen,
 
-- welche Gefahren an Ihrem Arbeitsplatz (im Büro, unterwegs oder im Home Office) hinsichtlich der IT-Sicherheit bestehen,
+- welchen Gefahren Sie an Ihrem Arbeitsplatz – im Büro, unterwegs oder im Homeoffice – begegnen können,
 - welche Maßnahmen Sie an Ihrem Arbeitsplatz für die Sicherheit Ihrer Daten treffen können,
 - wie Sie sich in einem Schadensfall verhalten sollten.
 
@@ -19,6 +19,6 @@ Diese Lektion fasst zusammen,
 - Ein Großteil der Gefahren entsteht durch Unachtsamkeit der Nutzer und Nutzerinnen.
 - Arbeiten Sie daher umsichtig und sorgfältig!
 - Seien Sie sich Ihrer Verantwortung für Ihren Arbeitsplatz bewusst!
-- Wenden Sie sich Zweifelsfall an Ihre [Ansprechperson](/ansprechpersonen/)!
+- Wenden Sie sich im Zweifelsfall an Ihre [Ansprechperson](/ansprechpersonen/)!
 
 {{% /notice %}}

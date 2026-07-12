@@ -6,11 +6,11 @@ weight: 7
 icon: cloud
 ---
 
-## Fremde Rechner für sich nutzen
+## Dienste aus der Cloud sicher nutzen
 
 In dieser Lektion lernen Sie,
 
-- was man unter Cloud-Diensten versteht,
-- welche Cloud-Dienste es gibt,
+- was Cloud-Dienste sind,
+- welche Arten von Cloud-Diensten es gibt,
 - wie sich öffentliche und private Cloud-Dienste unterscheiden und
 - wie Sie Cloud-Dienste sicher nutzen können.

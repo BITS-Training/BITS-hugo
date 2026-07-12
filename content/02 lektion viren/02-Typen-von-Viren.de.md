@@ -1,5 +1,5 @@
 ---
-title: "Typen von Viren"
+title: "Arten von Computerviren"
 date: 2021-03-06T09:17:03
 draft: false
 weight: 20
