@@ -10,7 +10,7 @@ icon: envelope
 
 In dieser Lektion lernen Sie,
 
-  * warum ein falscher Umgang mit E-Mails eine Gefahr für Sie und Ihre {{< param Einrichtung >}} darstellt,
+  * warum ein unsachgemäßer Umgang mit E-Mails eine Gefahr für Sie und Ihre {{< param Einrichtung >}} darstellt,
   * wie man auf fehlgeleitete Informationen und Anfragen richtig reagiert,
   * was Phishing und Pharming bedeuten und warum beide so gefährlich sind,
   * was Spam-E-Mails sind und wie mit ihnen umzugehen ist,

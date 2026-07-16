@@ -1,6 +1,6 @@
 ---
 archetype: "chapter"
-title: "Surfen im Internet"
+title: "Sicherim Internet"
 date: 2021-03-09T09:52:10
 weight: 4 
 icon: globe-europe
@@ -11,7 +11,7 @@ icon: globe-europe
 In dieser Lektion lernen Sie,
 
 - was der Zugang zum Internet bedeutet,
-- welche Gefahren im Internet lauern und wie Sie diese erkennen,
+- welche Gefahren im Internet bestehen und wie Sie diese erkennen,
 - wie Sie sicher im Internet surfen können und
 - welche allgemeinen Regeln Sie bei der Internetnutzung beachten sollten.
 

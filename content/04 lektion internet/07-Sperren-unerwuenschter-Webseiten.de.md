@@ -1,5 +1,5 @@
 ---
-title: "Blocken unerwünschter Seiten"
+title: "Sperren unerwünschter Webseiten"
 date: 2021-03-09T10:14:03
 draft: false
 weight: 70

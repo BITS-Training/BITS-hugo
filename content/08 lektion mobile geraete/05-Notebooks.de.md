@@ -1,5 +1,5 @@
 ---
-title: "Notebooks"
+title: "Notebooks und Tablets"
 date: 2021-03-10T09:17:41
 draft: false
 weight: 50

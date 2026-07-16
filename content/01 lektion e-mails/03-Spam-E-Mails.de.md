@@ -21,7 +21,7 @@ Ca. 60% der heute empfangenen E-Mails sind Spam. In vielen {{< param Einrichtung
 - Laden Sie bei unerwünschten Mails keine Bilder nach, da Sie dadurch die Erreichbarkeit Ihrer E-Mail-Adresse bestätigen
 - Löschen Sie Spam-E-Mails aus Ihrem Postfach
 - Vermeiden Sie bei unbekannten E-Mails das Klicken auf Links innerhalb des Texts - diese können gefälscht sein
-- Um zu erkennen, wohin der Link in einer E-Mail tatsächlich führt, fahren Sie mit dem Mauszeiger über den Link-Text - Ihr Browser zeigt meist unten im E-Mail-Programm oder in einem Ballon-Fenster das tatsächliche Ziel. Diese Funktion gibt es bei Smartphones normalerweise nicht!
+- Um zu erkennen, wohin der Link in einer E-Mail tatsächlich führt, fahren Sie mit dem Mauszeiger über den Link-Text - Ihr Browser zeigt meist unten im E-Mail-Programm oder in einem Ballon-Fenster das tatsächliche Ziel. Bei Geräten mit Touchscreen kann das Ziel eventuell durch langes Drücken des Links angezeigt werden, achten Sie aber darauf, den Link nicht versehentlich aufzurufen - probieren Sie dies ggf. zunächst mit einer vertrauenswürdigen E-Mail aus.
 - Geben Sie im Zweifelsfall Links lieber per Hand in die Adresszeile Ihres Browsers ein
 
 {{% /notice %}}
