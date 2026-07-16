@@ -1,10 +1,10 @@
 # BITS Behörden-IT-Sicherheitstraining
 
 
-Stand: 01.10.2024
+Stand: 05.07.2026
 
 Ansprechpartner: Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
-E-Mail: [g@backbeat.eu](mailto:g@backbeat.eu)
+E-Mail: [admin@bits-portal.eu](mailto:admin@bits-portal.eu)
 
 ## 1. Überblick
 
@@ -103,7 +103,7 @@ Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 ### via E-Mail
 
-Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan ([g@backbeat.eu](mailto:g@backbeat.eu)) gerne entgegen. 
+Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan ([admin@bits-portal.eu](mailto:admin@bits-portal.eu)) gerne entgegen. 
 
 ### via GitHub
 

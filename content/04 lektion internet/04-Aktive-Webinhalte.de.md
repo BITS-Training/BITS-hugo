@@ -1,5 +1,5 @@
 ---
-title: "Technische Webinhalte"
+title: "Aktive Webinhalte"
 date: 2021-03-09T10:13:25
 draft: false
 weight: 40

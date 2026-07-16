@@ -17,7 +17,5 @@ icon: check
 Etwaige interne Richtlinien sind nicht auf elektronisch gespeicherte Informationen beschränkt. Sie gelten genauso für den Umgang mit Papierdokumenten und sonstigen Akten.
 
 {{% notice tip %}}
-**Datenschutzerklärung**
-
-In den meisten Fällen muss man beim Eintritt in den Dienst eine Datenschutzerklärung unterschreiben. Sie ist die Grundlage für die hier vorgestellten Verhaltensregeln. Schützen Sie Ihre Kundinnen und Kunden, Ihre Einrichtung und Ihre Kollegenschaft durch den verantwortlichen Umgang mit vertraulichen Informationen. Die Leitung Ihrer {{< param Einrichtung >}} verlässt sich auf Sie!
+In der Bonus-Lektion [Gesetzliche Grundlagen](../11-lektion-gesetzliche-grundlagen) werden weitere wichtige Vorschriften erläutert.
 {{% /notice %}}
