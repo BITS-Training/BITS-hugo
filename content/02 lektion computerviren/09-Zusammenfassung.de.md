@@ -2,7 +2,7 @@
 title: "Zusammenfassung"
 date: 2021-03-06T09:25:50
 draft: false
-weight: 80
+weight: 90
 icon: shield-virus
 ---
 

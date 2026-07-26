@@ -2,7 +2,7 @@
 title: "Erste Hilfe"
 date: 
 draft: false
-weight: 70
+weight: 60
 icon: envelope-open-text
 ---
 

@@ -1,6 +1,6 @@
 ---
 archetype: "chapter"
-title: "Viren"
+title: "Computerviren"
 date: 2021-03-06T09:14:35
 weight: 2
 icon: virus

@@ -2,7 +2,7 @@
 title: "Dienstliche und private Nutzung"
 date: 
 draft: false
-weight: 90
+weight: 80
 icon: envelope-open-text
 ---
 

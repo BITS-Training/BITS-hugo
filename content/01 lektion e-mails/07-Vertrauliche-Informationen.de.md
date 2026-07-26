@@ -2,7 +2,7 @@
 title: "Vertrauliche Informationen"
 date: 
 draft: false
-weight: 80
+weight: 70
 icon: envelope-open-text
 ---
 
