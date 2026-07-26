@@ -76,7 +76,7 @@ shuffle_answers: true
 
 	>Leider nicht richtig. Die Einrichtung und der Betrieb eines ungenehmigten Internet-Zugangs ist nicht erlaubt.
 
-## Was ist in Dienstvereinbarungen, nicht gesetzlich geregelt?
+## Was ist in Dienstvereinbarungen, aber nicht gesetzlich geregelt?
 
 > Die private Nutzung in der {{< param Einrichtung >}} kann für die dienstlichen Daten gefährlich sein!
 

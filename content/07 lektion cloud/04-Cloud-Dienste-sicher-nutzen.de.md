@@ -5,7 +5,7 @@ draft: false
 weight: 40
 icon: cloud-download-alt
 ---
-Sie können davon ausgehen, dass Ihre {{< param Einrichtung >}}, wenn sie Cloud-Dienste nutzt, die diese sorgfältig ausgewählt hat. Hierbei hat sie Vorgaben formuliert und sich versichert, dass die geschilderten Gefahren beherrschbar sind.
+Sie können davon ausgehen, dass Ihre {{< param Einrichtung >}}, wenn sie Cloud-Dienste nutzt, diese sorgfältig ausgewählt hat. Hierbei hat sie Vorgaben formuliert und sich versichert, dass die geschilderten Gefahren beherrschbar sind.
 
 Wenn Sie Cloud-Dienste privat nutzen möchten, sollten Sie sich folgende Fragen stellen:
 

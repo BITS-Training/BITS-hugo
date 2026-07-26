@@ -33,7 +33,7 @@ Erkundigen Sie sich im Zweifelsfall über die Person, die von Ihnen Auskünfte o
 - Die angreifende Person lässt bekannte Namen fallen, empfindet Fragen aber als lästig.
 - Sie weigert sich, eine Rückrufnummer anzugeben und schmeichelt oder flirtet mit Ihnen, um das Ziel zu erreichen.
 
-Seien Sie sich bewusst, dass alle Ihnen unbekannte Anrufer*innen Angriffe versuchen könnten, insbesondere wenn ungewöhnliche Hilfe und dringende Auskünfte bei Ihnen angefragt werden.
+Seien Sie sich bewusst, dass Ihnen unbekannte Anrufer*innen Angriffe versuchen könnten, insbesondere wenn ungewöhnliche Hilfe und dringende Auskünfte bei Ihnen angefragt werden.
 
 {{% /notice %}}
 

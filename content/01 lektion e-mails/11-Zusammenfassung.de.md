@@ -2,7 +2,7 @@
 title: "Zusammenfassung"
 date: 
 draft: false
-weight: 110
+weight: 100
 icon: envelope-open-text
 ---
 

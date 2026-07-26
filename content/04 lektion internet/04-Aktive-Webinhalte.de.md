@@ -9,7 +9,7 @@ Webseiten sollen möglichst ansprechend und benutzerfreundlich sein. Das führt 
 
 **Cookies**
 
-waren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z. B. zur Identifizierung in einem Online-Shop oder werden zur Erstellung von Nutzerprofilen. Ein Web-Server-Betreiber steuert über Cookies auch, welche Werbung Sie zu sehen bekommen. Das Akzeptieren von Cookies und damit das Schreiben in den Speicher Ihres Endgeräts können Sie in Ihren Browseroptionen erlauben oder verbieten.
+waren ursprünglich kleine Textdateien, heute sind es Einträge in einer Cookie-Datenbank im Browser, die von Internetseiten auf Ihrem Computer oder Smartphone automatisch gespeichert werden, um Sie bei einem erneuten Besuch wieder zu erkennen und ggf. Nutzerprofile zu bilden. Sie dienen z. B. zur Identifizierung in einem Online-Shop oder zur Erstellung von Nutzerprofilen. Ein Web-Server-Betreiber steuert über Cookies auch, welche Werbung Sie zu sehen bekommen. Das Akzeptieren von Cookies und damit das Schreiben in den Speicher Ihres Endgeräts können Sie in Ihren Browseroptionen erlauben oder verbieten.
 
 
 **Erweiterungen**

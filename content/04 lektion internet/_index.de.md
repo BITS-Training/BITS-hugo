@@ -1,6 +1,6 @@
 ---
 archetype: "chapter"
-title: "Sicherim Internet"
+title: "Sicher im Internet"
 date: 2021-03-09T09:52:10
 weight: 4 
 icon: globe-europe

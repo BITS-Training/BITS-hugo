@@ -1,1 +1,1 @@
-Bitte Pull requests nur auf Basis des Development-Branches einreichen. Der Main-Branch ist teilweise erheblich verschieden davon.
+Bitte Pull requests nur auf Basis eines Development-Branches einreichen.
