@@ -9,7 +9,7 @@ Das KRITIS-Dachgesetz stellt Anforderungen zum Schutz kritischer Infrastrukturen
 
 Das Gesetz schafft eine bundesrechtliche einheitliche Regelung, ergänzend zum BSI-Gesetz. Dadurch soll die Widerstandsfähigkeit kritischer Anlagen gegen Bedrohungen wie z.B. Naturkatastrophen, Sabotage, Terrorismus oder hybride Angriffe erhöht werden. Die Aufsichtsbehörde für das Gesetz und seine Pflichten ist das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK).
 
-Die Umsetzung erfolgt durch die (im Sommer 2026 noch nicht veröffentlichte) <a id="Kritisverordnung">Kritisverordnung</a>, die die [BSI-Kritisverordnung](02-BSI-Gesetz.de.md#BSI-Kritisverordnung) ersetzen soll. Dann gelten ähnliche Pflichte wie die zur Registrierung und Durchführung von Risikoanalysen etc.
+Die Umsetzung erfolgt durch die (im Sommer 2026 noch nicht veröffentlichte) <a id="Kritisverordnung">Kritisverordnung</a>, die die [BSI-Kritisverordnung](02-BSI-Gesetz.de.md#BSI-Kritisverordnung) ersetzen soll. Dann gelten ähnliche Pflichten wie die zur Registrierung und Durchführung von Risikoanalysen etc.
 
 {{% notice note %}}
 - Das KRITIS-Dachgesetz regelt zwar nur die physische Sicherheit bestimmter Anlagen,

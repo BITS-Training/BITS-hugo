@@ -16,12 +16,12 @@ Die Möglichkeiten, Social Media so zu nutzen, dass möglichst wenig personenbez
 Falls Sie nicht auf Social Media verzichten wollen:
 
 - Verwenden Sie nicht Ihren echten Namen (dies lassen allerdings nicht alle Anbieter zu)
-- Ändern Sie die Einstellungen so ab, dass nicht alle, sondern nur Ihre Bekannten Ihre Daten einsehen können
-- Stellen Sie nur Informationen ein, die Sie auch einer völlig fremden Person erzählen würden und die Sie nie mehr löschen wollen - auch nicht in zehn Jahren
-- Löschen Sie regelmäßig die [Cookies](/04-lektion-internet/04-Technische-Webinhalte) in Ihrem Browser
+- Ändern Sie die Einstellungen so ab, dass nicht alle, sondern nur Ihre Bekannten Ihre Daten einsehen können.
+- Stellen Sie nur Informationen ein, die Sie auch einer völlig fremden Person erzählen würden und die Sie nie mehr löschen wollen - auch nicht in zehn Jahren.
+- Löschen Sie regelmäßig die [Cookies](/04-lektion-internet/04-Technische-Webinhalte) in Ihrem Browser oder nutzen Sie sog. Adblocker zum Blockieren von Werbung und Trackern, die Ihr Surfverhalten verfolgen.
 - Die meisten Browser erlauben „privates Surfen“, bei dem z. B. [Cookies](/04-lektion-internet/04-Technische-Webinhalte) beim Schließen gelöscht werden – nutzen Sie diese Funktion!
-- Nehmen Sie nur Freundschaftsanfragen an, wenn Sie sicher sind, wer anfragt
-- Verwenden Sie ein sicheres Passwort (Informationen hierzu in der Lektion [Passwörter](/03-lektion-passwoerter))
+- Nehmen Sie nur Freundschaftsanfragen an, wenn Sie sicher sind, wer anfragt.
+- Verwenden Sie ein sicheres Passwort (Informationen hierzu in der Lektion [Passwörter](/03-lektion-passwoerter)).
 
 {{% notice tip %}}
   **Freud und Leid**

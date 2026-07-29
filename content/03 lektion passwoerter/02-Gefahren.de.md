@@ -11,7 +11,7 @@ icon: lock-open
 Gefahren lauern schon bei der Passwort-Eingabe. Wer kann auf Ihrer Tastatur mitlesen, wenn Sie Ihr Passwort eingeben, z. B. durch die Bürotür oder ein Fenster?
 
 - Achten Sie darauf, dass Sie niemand bei der Eingabe des Passwortes beobachten kann.
-- Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird vermehrt empfohlen, noch längere Passwörter zu verwenden, die dafür nur in größeren zeitlichen Abständen geändert werden müssen.
+- Bislang müssen Passwörter aufgrund technischer oder organisatorischer Vorgaben wiederkehrend geändert werden. Mittlerweile wird empfohlen, noch längere Passwörter zu verwenden, die dafür nur in größeren zeitlichen Abständen oder anlassbezogen geändert werden müssen.
 - Wenn Sie befürchten, dass jemand Ihr Passwort erraten hat, ändern Sie es sofort!
 
 ### Social Engineering

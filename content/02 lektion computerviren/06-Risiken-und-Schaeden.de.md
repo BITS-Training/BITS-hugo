@@ -17,7 +17,7 @@ Der drohende Schaden kann beträchtlich sein:
 - Selbst wenn keine Informationen gelöscht oder ausspioniert werden, kann das Wiederherstellen befallener Systeme zeitaufwändig sein und hohe Kosten verursachen.
 
 {{% notice note %}}
-- Ohne einen aktuellen Virenscanner auf Laptop oder PC ist ist eine Virus-Infektion vorprogrammiert.
+- Ohne einen aktuellen Virenscanner auf Laptop oder PC ist eine Virus-Infektion vorprogrammiert.
 - Virenscanner sind unverzichtbar
 - OT-Netze (Operational Technology) oder Produktionsstraßen, die in der Regel „die digitalen Kronjuwelen“  einer {{% param Einrichtung %}} darstellen, sollten ohne Internetzugang, im besten Fall als Insellösungen, betrieben werden.
 
