@@ -11,5 +11,5 @@ Die höchste Risikostufe („Inakzeptabel“) etwa verbietet den Einsatz von KI 
 
 Dabei hat KI auch unmittelbare Auswirkungen auf die Informationssicherheit (siehe die Lektion [Künstliche Intelligenz](10-lektion-kuenstliche-intelligenz/)). Mit ihrer Hilfe können zum einen automatisiert Sicherheitslücken aufgespürt, aber auch ausgenutzt werden. Zum anderen kann auch die Abwehr von Angriffen auf IT-Systeme KI-gestützt erfolgen.
 
-In Deutschland werden Anpassungen des nationalen Rechts, etwa durch die Bestimmung eines Koordinierungs- und Kompetenzzentrums, durch das „KI-Marktüberwachungs- und Innovationsförderungsgesetz“ vorgenommen.
+In Deutschland wurden Anpassungen des nationalen Rechts, etwa die Bestimmung der Bundesnetzagentur zur Marktüberwachungsbehörde, Anlaufstelle und Beschwerdestelle für die KI-Verordnung, durch das „KI-Marktüberwachungs- und Innovationsförderungsgesetz“ vorgenommen.
 
