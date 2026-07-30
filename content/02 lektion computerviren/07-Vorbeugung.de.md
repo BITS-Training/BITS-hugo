@@ -2,7 +2,7 @@
 title: "Vorbeugung"
 date: 2021-03-06T09:23:56
 draft: false
-weight: 60
+weight: 70
 icon: shield-virus
 ---
 

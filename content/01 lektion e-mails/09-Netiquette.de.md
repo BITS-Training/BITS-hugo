@@ -2,7 +2,7 @@
 title: "Netiquette"
 date: 
 draft: false
-weight: 100
+weight: 90
 icon: envelope-open-text
 ---
 

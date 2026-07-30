@@ -13,11 +13,11 @@ Es reicht nicht aus, Ihr Zimmer abzuschließen. Ein geübter Dieb schafft es inn
 
 Unter Microsoft Windows sperrt z. B. die Tastenkombination „**Windows-Taste + L**“ das System so, dass es nur durch Eingabe Ihres Passwortes oder durch eine Person mit Administratorrechten wieder benutzt werden kann.
 
-Bitte achten Sie auch darauf, dass keine Familienangehörige oder Dritte im Homeoffice Zugang zum Computer oder Ihren Daten erhalten.
+Bitte achten Sie auch darauf, dass keine Familienangehörigen oder Dritte im Homeoffice Zugang zum Computer oder Ihren Daten erhalten.
 
 {{% notice note %}}
 
-- Mit der Tastenkombination „**Windows-Taste + L**“ sichern Sie Ihr System schnell beim Verlassen Ihres Arbeitsplatzes
+- Mit der Tastenkombination „**Windows-Taste + L**“ sichern Sie Ihr System schnell beim Verlassen Ihres Arbeitsplatzes.
 - Das Arbeitszimmer abzuschließen reicht nicht!
 
 {{% /notice %}}

@@ -37,7 +37,7 @@ shuffle_answers: true
   
 2. [ ] Die Branchenverbände der betroffenen Sektoren
 
-    >Nein. Es handelt sich um eine gesetzliche und staatliche Aufgab des BSI selbst.
+    >Nein. Es handelt sich um eine gesetzliche und staatliche Aufgabe des BSI selbst.
 
 3. [ ] Die jeweilige Datenschutzaufsichtsbehörde
 
@@ -51,32 +51,32 @@ shuffle_answers: true
 ## Für wen gilt das BSI-Gesetz? 
 
 
-1. [ ] Nur für das Bundesamt für Sicherheit in der Informationtechnik
+1. [ ] Nur für das Bundesamt für Sicherheit in der Informationstechnik
 
-	>Nein, auch Unternehmen, Länder und Kommunen und anderen Bundeseinrichtungen können betroffen sein.
+	>Nein, auch Unternehmen, Länder und Kommunen und sonstige Bundeseinrichtungen können betroffen sein.
 
-2. [ ] Nur für die Bundesverwaltung.
+2. [ ] Nur für die Bundesverwaltung
 
    >Nein, auch Unternehmen, Länder und Kommunen können betroffen sein.
 	
-4. [X] Potenziell für alle Behörden und Unternehmen in Deutschland
+4. [X] Potenziell für alle {{< param Einrichtungen >}} in Deutschland
 
     >**Richtige Antwort**
 	
 ## Was ist der BSI IT-Grundschutz?
 
-> Auch Standards wie ISO 27001 oder CISIS12 können genutzt werden.
+
 
 1. [ ] Eine gesetzliche Vorgabe zur Stärkung der Resilienz von Unternehmen
 
-	>Leider falsch. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens.
+	>Leider falsch. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer {{< param Einrichtung >}}.
    
-2. [X] Ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens
+2. [X] Ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer {{< param Einrichtung >}}
 
 	>**Richtige Antwort**
 3. [ ]  Ein Sicherheitskennzeichen, das die IT-Sicherheit eines Produktes belegt
 
-	>Nein. Es ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer Behörde oder eine Unternehmens.
+	>Nein. Er ist ein Standard, zur Messung und Erreichung eines festgelegten, angemessenen Sicherheitsniveaus einer {{< param Einrichtung >}}.
 
 4.  [ ] Eine Dienstleistung des Bundesamts für Sicherheit in der Informationstechnik
 
@@ -93,7 +93,7 @@ shuffle_answers: true
 2. [X] Die Leitungsebene der betroffenen Einrichtung
 
 	>**Richtige Antwort** - Das ergibt sich aus § 38 Absatz 2 BSI-Gesetz.
-3. [ ] Das Bundesamt für Sicherheit in der Informationstechnik.
+3. [ ] Das Bundesamt für Sicherheit in der Informationstechnik
 
 	>Nein, leider falsch. Die Leitungsebene der betroffenen Einrichtung haftet, § 38 Absatz 2 BSI-Gesetz.
 

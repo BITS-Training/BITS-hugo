@@ -20,7 +20,7 @@ Das BSI hat unter anderem folgende IT-Grundschutz-Profile veröffentlicht:
 * ...
 
 ### Branchenspezifische Sicherheitsstandards (B3S)
-B3S sind vom BSI anerkannte branchenspezifische IT- und Informationssicherheitsstandards, die Unternehmen der Kritischen Infrastrukturen dabei unterstützen, gesetzliche Anforderungen des BSI- und IT-Sicherheitsgesetzes umzusetzen und kritische Infrastrukturen gezielt schützen. Sie werden bisher regelmäßig aktualisiert und behalten in der Regel für drei Jahre ihre Gültigkeit. Folgende B3S wurden vom BSI bislang anerkannt: 
+B3S sind vom BSI anerkannte branchenspezifische IT- und Informationssicherheitsstandards, die {{< param Einrichtungen >}} der Kritischen Infrastrukturen dabei unterstützen, gesetzliche Anforderungen des BSI- und IT-Sicherheitsgesetzes umzusetzen und kritische Infrastrukturen gezielt schützen. Sie werden bisher regelmäßig aktualisiert und behalten in der Regel für drei Jahre ihre Gültigkeit. Folgende B3S wurden vom BSI bislang anerkannt: 
 - Energie
 - Wasser
 - Ernährung

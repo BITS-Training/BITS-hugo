@@ -6,7 +6,7 @@ weight: 90
 icon: globe-africa
 ---
 
-Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.
+Die Nutzung des Internets ist weiterhin gefährlich. Zwar schützen technische Maßnahmen wie Firewalls und Virenscanner und andere technische Maßnahmen vor Angriffe aus dem Web. Aber wir alle müssen immer aufmerksam beim Aufrufen von Web-Seiten sein.
 
 - Recherchieren Sie nur in vertrauenswürdigen Quellen.
 - Bleiben Sie kritisch gegenüber allen Informationen, die Sie im Internet finden.
