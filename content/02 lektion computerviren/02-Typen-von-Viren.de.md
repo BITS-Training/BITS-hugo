@@ -1,5 +1,5 @@
 ---
-title: "Typen von Viren"
+title: "Arten von Computerviren"
 date: 2021-03-06T09:17:03
 draft: false
 weight: 20
@@ -8,9 +8,9 @@ icon: shield-virus
 
 Häufig wird der englische Oberbegriff „Malware“ („mal“ =  „schädigend“) für alle Arten von Computerviren verwendet. Man unterscheidet unterschiedliche Typen von Malware. Klicken Sie weiter auf die jeweilige Virenart, um Genaueres zu erfahren.
 
-{{%expand "Datei-Viren" %}}
+{{%expand "Dateiviren" %}}
 
-Datei-Viren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
+Dateiviren stellen die klassische Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
 
 {{% /expand%}}
 

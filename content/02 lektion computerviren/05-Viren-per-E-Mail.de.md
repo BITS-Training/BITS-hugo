@@ -2,17 +2,14 @@
 title: "Computerviren per E-Mail"
 date: 
 draft: false
-weight: 40
-icon: envelope-open-text
+weight: 50
+icon: shield-virus
 ---
 
-Computerviren stellen eine große Bedrohung für Computer und die dort gespeicherten Daten dar. Computerviren sind kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können. Häufig kommen sie als E-Mail-Anhang auf Ihren Computer.
 
-Von hier aus verbreiten sie sich weiter, verändern, verschlüssseln oder spionieren Daten aus oder führen andere zerstörerische Aktionen auf Ihrem Rechner oder in Ihrem Netzwerk durch.
+## E-Mails als Einfallstor
 
-## Schutz vor Computerviren
-
-In einer {{< param Einrichtung >}} wird eine E-Mail normalerweise an zwei Stellen auf Viren untersucht („gescannt“): zentral beim Empfang der E-Mail aus dem Internet und zusätzlich auf Ihrem Computer, wenn Sie die E-Mail öffnen. Achten Sie darauf, ob Ihr Virenscanner aktiviert oder ein Fehler anzeigt ist - auch zuhause!
+E-Mails können Viren im Anhang enthalten. In einer {{< param Einrichtung >}} wird eine E-Mail normalerweise an zwei Stellen auf Viren untersucht („gescannt“): zentral beim Empfang der E-Mail aus dem Internet und zusätzlich auf Ihrem Computer, wenn Sie die E-Mail öffnen. Achten Sie darauf, ob Ihr Virenscanner aktiviert oder ein Fehler anzeigt ist - auch zuhause!
 
 #### Weshalb Sie trotzdem vorsichtig sein sollten:
 

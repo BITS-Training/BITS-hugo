@@ -2,7 +2,7 @@
 title: "Zusammenfassung"
 date: 
 draft: false
-weight: 110
+weight: 100
 icon: envelope-open-text
 ---
 
@@ -14,7 +14,7 @@ icon: envelope-open-text
 - Geben Sie fehlgeleitete Informationen nicht weiter, sondern informieren Sie die absendende Person und löschen Sie die E-Mail.
 - Falls Sie selber eine vertrauliche E-Mail falsch versendet haben: Bitten Sie um Löschung und informieren Sie Ihre vorgesetzte Person.
 - Wenn Sie eine Phishing-Mail bekommen: nicht antworten, keinen Link anklicken, keine sensiblen Daten weitergeben, keine Anhänge öffnen.
-- Senden Sie vertrauliche Daten über das Internet nur verschlüsselt.
+- Senden Sie vertrauliche Daten über das Internet nur verschlüsselt. Das Passwort für die Verschlüsselung muss sicher übertragen werden, zur Not per Telefon.
 - Achten Sie auf die [„Netiquette“](10-Netiquette).
 - Bitte informieren Sie sich über die genauen Regelungen bzgl. der E-Mail-Nutzung in Ihrer {{< param Einrichtung >}}.
 

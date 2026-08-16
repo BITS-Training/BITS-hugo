@@ -22,5 +22,5 @@ Mittlerweile werden Inhalte in Social Media oder auch die angeblichen Nutzerinne
 {{% notice note %}}
 - Die Finanzierung erfolgt durch Werbung oder Spenden.
 - Die Daten der Kund*innen (also die Ihrigen) sind oft der „Preis“ für kostenlose Angebote.
-- Über [Künstliche Intelligenz](10-lektion-kuenstliche-intelligenz) können Texte, Stimmen, Bilder und Filme in Social Media (und anderswo) gefälscht werden, um Sie zu täuaschen.
+- Über [Künstliche Intelligenz](10-lektion-kuenstliche-intelligenz) können Texte, Stimmen, Bilder und Filme in Social Media (und anderswo) gefälscht werden, um Sie zu täuschen.
 {{% /notice %}}

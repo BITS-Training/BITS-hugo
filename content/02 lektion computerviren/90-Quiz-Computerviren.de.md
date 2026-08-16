@@ -1,5 +1,5 @@
 ---
-title: "Quiz - Viren"
+title: "Quiz - Computerviren"
 date: 2021-03-13T04:15:44
 draft: false
 weight: 900
@@ -32,12 +32,12 @@ shuffle_answers: true
 
 > Gesucht wird die Internet-Version des alten Kettenbriefs.
 
-1. [ ] Datei-Viren
+1. [ ] Dateiviren
 
-	>Leider nicht richtig. Datei-Viren stellen die „klassische“ Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
+	>Leider nicht richtig. Dateiviren stellen die „klassische“ Form eines Computervirus dar. Sie befallen bestimmte Dateien, wie etwa ausführbare Programme, und vermehren sich beim Aufruf dieser Programmdateien.
 3. [ ] Trojanische Pferde
 
-	>Nö!  Trojanische Pferde zählen zu den Viren. Sie sollen sich unbemerkt in Ihr System einschleusen, um z. B. Daten und Passwörter auszuspionieren.
+	>Nein.  Trojanische Pferde zählen zu den Viren. Sie sollen sich unbemerkt in Ihr System einschleusen, um z. B. Daten und Passwörter auszuspionieren.
 4. [ ] Würmer
 
 	>Das passt nicht - auch Würmer zählen zu den Computer-Viren. Sie reproduzieren sich selbst, breiten sich bevorzugt in Computer-Netzwerken aus und versuchen, deren Arbeit zu stören.
@@ -48,31 +48,31 @@ shuffle_answers: true
 
 	>Leider falsch. Ein Bot ist ein echter Virus und „arbeitet“ ohne Ihr Zutun. Oft wird er ferngesteuert für Angriffe oder Datenspionage.
 
-## Was ist ein Computer-Virus?
+## Was ist ein Computervirus?
 
-> Computer-Viren können sehr gefährlich sein. Es gibt Viren, die ganze Systeme zerstören, Dateien löschen, und Datenbanken oder Passwörter ausspionieren. Gemeint sind keine biologischen Wesen, sondern Programme oder Programmteile, die sich im Computer eigenständig vermehren.
+> Computerviren können sehr gefährlich sein. Es gibt Viren, die ganze Systeme zerstören, Dateien löschen, und Datenbanken oder Passwörter ausspionieren. Gemeint sind keine biologischen Wesen, sondern Programme oder Programmteile, die sich im Computer eigenständig vermehren.
 
-1. [ ] Computer-Viren sind lästige Programme oder Programmteile, die aber harmlos sind.
+1. [ ] Computerviren sind lästige Programme oder Programmteile, die aber harmlos sind.
 
-	>Nein, leider nicht. Computer-Viren können sehr gefährlich sein. Es gibt Viren, die ganze Systeme zerstören, Dateien löschen, und Datenbanken oder Passwörter ausspionieren.
-2. [ ] Auch Computer können von Krankheiten befallen werden. Neben Computer-Bakterien gibt es auch eine große Zahl von Computer-Viren. Einige sind für den Menschen tödlich.
+	>Nein, leider nicht. Computerviren können sehr gefährlich sein. Es gibt Viren, die ganze Systeme zerstören, Dateien löschen, und Datenbanken oder Passwörter ausspionieren.
+2. [ ] Auch Computer können von Krankheiten befallen werden. Neben Computerbakterien gibt es auch eine große Zahl von Computerviren. Einige sind für den Menschen tödlich.
 
-	>Falsch. Computer-Viren sind keine biologischen Wesen, sondern Programme oder Programmteile, die sich im Computer eigenständig vermehren.
-3. [x] Computer-Viren sind Programme oder Programmteile, die unerwünschte Aktionen auslösen, oft unbemerkt von Benutzer oder Benutzerin.
+	>Falsch. Computerviren sind keine biologischen Wesen, sondern Programme oder Programmteile, die sich im Computer eigenständig vermehren.
+3. [x] Computerviren sind Programme oder Programmteile, die unerwünschte Aktionen auslösen, oft unbemerkt von Benutzer oder Benutzerin.
 
 	>**Richtige Antwort**
-4. [ ] Computer-Viren missbrauchen nur das E-Mail-Programm, um ungewollte E-Mails an alle Adressen in Ihrem Adressbuch zu schicken.
+4. [ ] Computerviren missbrauchen nur das E-Mail-Programm, um ungewollte E-Mails an alle Adressen in Ihrem Adressbuch zu schicken.
 
-	>Es gibt Computer-Viren, die sich genau so verhalten. Andere Viren jedoch verwenden das E-Mail-Programm überhaupt nicht, sondern führen andere Aktionen aus, wie z. B. das Verschlüsseln von Dateien.
+	>Es gibt Computerviren, die sich genau so verhalten. Andere Viren jedoch verwenden das E-Mail-Programm überhaupt nicht, sondern führen andere Aktionen aus, wie z. B. das Verschlüsseln von Dateien.
 
-## Was ist die wichtigste Maßnahme gegen Computer-Viren?
+## Was ist die wichtigste Maßnahme gegen Computerviren?
 
 > Ein Virenscanner ist nie verkehrt ;-)
 
-1. [ ] Regelmäßig die Ansprechpersonen anrufen und nach neuen Viren-Meldungen befragen.
+1. [ ] Regelmäßig die Ansprechpersonen anrufen und nach neuen Virus-Meldungen befragen.
 
-	>Nicht korrekt. Die Ansprechpersonen helfen Ihnen bei akuten Viren-Bedrohungen gerne weiter. Bei täglich ca. tausend neuen Viren wären sie jedoch völlig überfordert, Auskunft über diese zu geben. Setzen Sie besser einen Virenscanner ein!
-2. [x] Einen aktuellen Virenscanner installieren, das alle genutzten Daten automatisch auf Viren überprüft.
+	>Nicht korrekt. Die Ansprechpersonen helfen Ihnen bei akuten Computervirus-Bedrohungen gerne weiter. Bei täglich ca. tausend neuen Viren wären sie jedoch völlig überfordert, Auskunft über diese zu geben. Setzen Sie besser einen Virenscanner ein!
+2. [x] Einen aktuellen Virenscanner installieren, der alle genutzten Daten automatisch auf Viren überprüft.
 
 	>**Richtige Antwort**
 3. [ ] Computer vom Netzwerk trennen und ausschalten.
@@ -80,9 +80,9 @@ shuffle_answers: true
 	>Nein. Diese Maßnahme verhindert zwar wirkungsvoll, dass Viren auf Ihren Computer gelangen können, verhindert aber auch die tägliche Arbeit! Setzen Sie besser einen Virenscanner ein!
 4. [ ] Mund-Nasen-Schutz tragen und Abstand halten.
 
-	>Leider falsch. Das hilft zwar gegen Corona-Viren, aber nicht gegen die im Computer.
+	>Leider falsch. Das hilft zwar gegen Coronaviren, aber nicht gegen die im Computer.
 
-## Warum sollte man trotz Viren-Scanner Datensicherungen durchführen?
+## Warum sollte man trotz Virenscanner Datensicherungen durchführen?
 
 > Datensicherung und Virenscanner haben grundsätzlich nichts miteinander zu tun. Eine Datensicherung kann aber helfen, wenn eine Datei z. B. durch einen Virus gelöscht wurde. 
 

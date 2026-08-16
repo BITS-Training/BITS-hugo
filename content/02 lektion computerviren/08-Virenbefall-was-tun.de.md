@@ -2,7 +2,7 @@
 title: "Virenbefall - was tun?"
 date: 2021-03-06T09:27:50
 draft: false
-weight: 70
+weight: 80
 icon: shield-virus
 ---
 

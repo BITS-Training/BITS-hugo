@@ -2,7 +2,7 @@
 title: "Fehlgeleitete Informationen"
 date: 
 draft: false
-weight: 60
+weight: 50
 icon: envelope-open-text
 ---
 

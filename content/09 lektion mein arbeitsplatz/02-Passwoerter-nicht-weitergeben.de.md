@@ -20,5 +20,5 @@ Mehr Informationen finden Sie in der Lektion [Passwörter](/03-lektion-passwoert
 - Geben Sie nie ein Passwort weiter!
 - Bewahren Sie Ihr Passwort nur an einem Ort auf: In Ihrem Kopf, allenfalls noch in einem [Passwort-Manager](/03-lektion-passwoerter/04-Werkzeuge-fuer-Passwoerter#passwort-manager)
 - Geben Sie Kennungen zu Ihren Fachanwendungen nicht an Kolleginnen oder Kollegen weiter!
-- Und nutzen Sie **sichere** Passwörter und die Zwei-Faktoren-Authentisierung (wenn angeboten),
+- Und nutzen Sie **sichere** Passwörter und die Zwei- oder Multi-Faktoren-Authentifizierung (wenn angeboten),
   {{% /notice %}}

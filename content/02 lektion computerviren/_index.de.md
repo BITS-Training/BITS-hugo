@@ -1,6 +1,6 @@
 ---
 archetype: "chapter"
-title: "Viren"
+title: "Computerviren"
 date: 2021-03-06T09:14:35
 weight: 2
 icon: virus
@@ -15,5 +15,5 @@ In dieser Lektion lernen Sie,
   * welche Risiken bestehen und welche Schäden entstehen können,
   * wie Sie Ihren Computer und Ihre {{< param Einrichtung >}} vor Viren schützen können,
   * wie Sie einen Virenbefall erkennen und
-  * was Sie tun sollten, falls „es“ doch passiert ist
+  * und wie Sie bei einem Virenbefall richtig reagieren.
 

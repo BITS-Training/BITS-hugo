@@ -1,12 +1,12 @@
 ---
 title: "Herausgeber & Lizenz"
-date: 2020-07-21T15:32:09+02:00
+date: 05.07.2026
 draft: false
 weight: 30
 icon: id-card
 ---
 
-{{< param BITS >}} wird herausgegeben von der [Kommunal Agentur NRW GmbH](https://www.kommunalagenturnrw.de) und [Dr. Lutz Gollan](mailto:g@backbeat.eu) vom [Landesbetrieb Verkehr](https://www.hamburg.de/lbv), Hamburg, und steht unter der Schirmherrschaft des [Städte- und Gemeindebundes NRW](https://www.kommunen.nrw). Urheber ist Dr. Lutz Gollan. Die technische Realisierung erfolgt durch Andreas Hösl von der [Chr. Mayr GmbH + Co. KG](https://www.mayr.com).
+{{< param BITS >}} wird herausgegeben von der [Kommunal Agentur NRW GmbH](https://www.kommunalagenturnrw.de) und [Dr. Lutz Gollan](mailto:admin@bits-portal.eu) vom [Landesbetrieb Verkehr](https://www.hamburg.de/lbv), Hamburg, und steht unter der Schirmherrschaft des [Städte- und Gemeindebundes NRW](https://www.kommunen.nrw). Urheber ist Dr. Lutz Gollan. Die technische Realisierung erfolgt durch Andreas Hösl von der [Chr. Mayr GmbH + Co. KG](https://www.mayr.com). Ein Dank geht an David Retzmann für Anregungen und vorbereitende Entwicklung einer neuen Lektion.
 
 BITS ist kostenlos und steht unter der Lizenz [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Sie dürfen:
 

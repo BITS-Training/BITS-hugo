@@ -28,7 +28,7 @@ shuffle_answers: true
 
 ---
 
-## Wie heißen persönliche Verpflichtungserklärungen zum Datenschutz?
+## Wie heißen Verpflichtungserklärungen zum Datenschutz?
 
 > Datenschutz sollte schon im Namen enthalten sein ;-)
 

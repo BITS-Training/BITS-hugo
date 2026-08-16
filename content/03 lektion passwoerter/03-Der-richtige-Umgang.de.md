@@ -20,7 +20,10 @@ Ein **Trick**, um mehrere sichere Passwörter für verschiedene Anwendungen oder
 
 - Wenn Ihr Passwort auf einem Zettel am Monitor klebt, können alle, die in Ihr Büro kommen, dieses lesen. Würden Sie die PIN Ihrer Bank-Karte öffentlich aushängen oder Ihren Haustürschlüssel zum Nachmachen auslegen?!?
 
-- Aus dem gleichen Grund gilt: **Passwörter dürfen nirgends notiert werden!** *(zu Passswort-Werkzeugen siehe die nächste Seite)*
+- Aus dem gleichen Grund gilt: Passwörter dürfen nirgends notiert werden! (zu Passswort-Werkzeugen siehe die nächste Seite)
+
+- Verwenden Sie nicht das gleiche Passwort für mehrere Anwendungen oder IT-Systeme, sondern immer ein spezifisches. Hier können Passwort-Werkzeuge (siehe nächste Seite) hilfreich sein.
+
 - Achten Sie bei der Eingabe darauf, dass Sie niemand beobachtet. Es ist nicht unhöflich, Anwesende darum zu bitten wegzusehen!
 
 
@@ -34,7 +37,7 @@ Auch Hacker*innen wollen Ihr Passwort, z. B. telefonisch unter Vorspiegelung fal
 
 - Geben Sie Ihr Passwort niemals weiter, auch nicht an Kolleginnen oder Kollegen
 - Nutzen Sie sichere Passwörter, auch im privaten Bereich
-- Schreiben Sie Passwörter nicht auf
+- Schreiben Sie Passwörter nicht auf und verwenden Sie sie nicht mehrfach
 - Passwortkarten und Passwortmanager können hilfreich sein
 
 {{% /notice %}}

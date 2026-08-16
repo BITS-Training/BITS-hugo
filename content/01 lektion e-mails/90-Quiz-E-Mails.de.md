@@ -31,23 +31,6 @@ shuffle_answers: true
 shuffle_answers: true
 ---
 
-## Was sind Computerviren?
-
-> Computerviren sind kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können.
-
-1. [x] Kleine Programmteile, die sich unbemerkt an ein anderes Programm anhängen und so auf fremden Rechnern ausgeführt werden können.
-	
-	> > **Richtige Antwort!**
-2. [ ] Mikroskopisch kleine elektronische Teile, die Computer ausspionieren oder andere zerstörerische Aktionen ausführen.
-	
-	> Das ist zwar in Entwicklung, aber noch nicht Realität ;-)
-3. [ ] Schädliche Programme, die jedoch in Ihrer {{< param Einrichtung>}} keine Gefahr darstellen, weil sie durch Verschlüsselungssoftware und Virenscanner sofort unschädlich gemacht werden.
-	
-	> Schutzprogramme erkennen nur **bekannte** Bedrohungen! Diese Antwort ist falsch.
-4. [ ] Bösartige Krankheitserreger, die in schmutzigen Computersystemen leben.
-	
-	> Das wären normale Viren und Bakterien die für den Menschen gefährlich werden können, das ist hier aber nicht gemeint!
-
 ## Wie können vertrauliche Daten sicher verschickt werden?
 
 > Vertrauliche Daten dürfen über das Internet nur verschlüsselt verschickt werden.

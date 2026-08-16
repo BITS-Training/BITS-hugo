@@ -6,13 +6,13 @@ weight: 10
 icon: lock-open
 ---
 
-### Warum Passwörter?
+### Was sind Passwörter?
 
 Passwörter dienen der Zugangskontrolle. Sie sichern sensible und schützenswerte Daten, Systeme und Programme.
 
 Sie können ein Passwort mit Ihrem Haustürschlüssel vergleichen. Mit diesem kontrollieren Sie den Zugang zu Ihrem Haus. Genauso kontrolliert man mit dem Schlüssel „Passwort“ den Zugang zu sensiblen Daten und Verfahren.
 
-### Wo werden Passwörter verwendet?
+### Warum Passwörter wichtig sind
 
 Passwörter werden bei Anmeldungen an Rechnern, Netzwerken oder Netzlaufwerken verwendet. Sie schützen Ressourcen wie Dateien und Informationen vor unberechtigtem Lesen, Schreiben, Ändern oder Löschen.
 
@@ -20,7 +20,7 @@ Auch der Zugang zu einzelnen Programmen wird häufig durch Passwörter geschütz
 
 ### Wie sieht ein sicheres Passwort aus?
 
-Der Name Ihres Lebenspartners oder Ihrer Lebenspartnerin, Ihr Autokennzeichen, Ihr Geburtsdatum oder Ihre Telefonnummer stellen **keine** guten Passwörter dar. Sie könnten leicht erraten oder abgeleitet werden. Auch Fremdwörter oder Wörter einer anderen Sprache sind keine gute Wahl, da diese mit automatisierten Verfahren über Wörterbuch- oder Brute-Force-Angriffe durch Erraten geknackt werden können.
+Der Name Ihres Lebenspartners oder Ihrer Lebenspartnerin, Ihr Autokennzeichen, Ihr Geburtsdatum oder Ihre Telefonnummer stellen **keine** guten Passwörter dar. Sie könnten leicht erraten oder abgeleitet werden. Auch Fremdwörter oder Wörter einer anderen Sprache sind keine gute Wahl, da diese mit automatisierten Verfahren über Wörterbuch- oder sogenannte Brute-Force-Angriffe durch Erraten geknackt werden können.
 
 Ein sicheres Passwort ist mindestens {{< param BITS_Password_Length >}} Zeichen lang und besteht aus einer Kombination von großen und kleinen Buchstaben, Zahlen und Sonderzeichen wie z. B. Ausrufezeichen oder Fragezeichen. Außerdem sollten keine Buchstaben genutzt werden, die auf der Tastatur direkt nebeneinander liegen. Idealerweise sollte das Passwort einmalig sein.
 
